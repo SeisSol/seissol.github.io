@@ -19,6 +19,7 @@ on the arbitrary high-order accurate derivative discontinuous Galerkin method (A
 
 {{< youtube zi19g5Jpp5s >}}
 
+
 Characteristics of the SeisSol simulation software are:
 
 - use of **tetrahedral** meshes to approximate complex 3D model geometries and rapid model generation
