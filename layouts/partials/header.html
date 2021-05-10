@@ -1,0 +1,8 @@
+<header>
+    {{ partial "navbar.html" . }}
+    {{ with .Params.banner }}
+        <img src="/{{.}}">
+    {{ else }}
+        <img src="/img/banner.jpg">
+    {{ end }}
+</header>
