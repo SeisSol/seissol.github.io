@@ -1,0 +1,19 @@
+{{ $authors := apply .author "partial" "author.html" "." }}
+{{delimit (apply $authors "trim" "." "\n") ", " ", and "}}
+{{ range .issued }}
+    ({{ .year }}).
+{{ end }}
+<b>{{ .title }}</b>.
+{{ with index . "container-title" }}
+    {{ . }},
+{{ end }}
+{{ if and (isset . "volume") (isset . "issue") }}
+{{ .volume }}({{ .issue }}).
+{{ end }}
+{{ with .DOI }}
+DOI: <a href="https://dx.doi.org/{{.}}">{{.}}</a>
+{{ else }}
+    {{ with .URL }}
+    <a href="{{.}}">{{.}}</a>
+    {{ end }}
+{{ end }}

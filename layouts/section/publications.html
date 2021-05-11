@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="section">
+    <main class="container mb-6 content">
+        <h1 class="title">{{ .Title }}</h1>
+        {{ range $.Site.Data.bib }}
+            <ul>
+            {{ $data := newScratch }}
+            {{ $data.Set "year" "0" }}
+            {{ range .references }}
+                {{ $year := index (index .issued 0) "year" }}
+                {{ if ne $year ($data.Get "year") }}
+                    </ul>
+                    <h3 class="subtitle">{{ $year }}</h3>
+                    <ul>
+                {{ end }}
+                {{ $data.Set "year" $year }}
+                <li>{{ partial "pub.html" . }}</li>
+            {{ end }}
+            </ul>
+        {{ end }}
+    </main>
+</section>
+{{ end }}

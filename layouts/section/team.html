@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="section">
+    <main class="container mb-6 content">
+        <h1 class="title mb-6">{{.Title}}</h1>
+        <div class="columns is-multiline is-centered has-text-centered">
+        {{ range $.Site.Data.team }}
+        <div class="column">
+            {{ $photo := cond (isset . "photo") .photo "anon.png" }}
+            {{ $photo := resources.Get (path.Join "team/" $photo) }}
+            {{ $photo := $photo.Fill "128x128 q70 Top" }}
+            <p class="block">
+                <figure class="image is-128x128" style="margin: 0 auto;">
+                    <img src="{{ $photo.RelPermalink }}" class="is-rounded">
+                </figure>
+            </p>
+            
+            <p class="block"><a href="{{.link}}">{{.name}}</a></p>
+        </div>
+        {{ end }}
+        </div>
+    </main>
+</section>
+{{ end }}

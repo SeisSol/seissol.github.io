@@ -1,0 +1,116 @@
+references:
+- DOI: 10.1038/s41467-019-09125-w
+  ISSN: 2041-1723
+  URL: https://doi.org/10.1038/s41467-019-09125-w
+  abstract: "We present a dynamic rupture model of the 2016 Mw 7.8 Kaik\u014Dura earthquake\
+    \ to unravel the event\u2019s riddles in a physics-based manner and provide insight\
+    \ on the mechanical viability of competing hypotheses proposed to explain them.\
+    \ Our model reproduces key characteristics of the event and constraints puzzling\
+    \ features inferred from high-quality observations including a large gap separating\
+    \ surface rupture traces, the possibility of significant slip on the subduction\
+    \ interface, the non-rupture of the Hope fault, and slow apparent rupture speed.\
+    \ We show that the observed rupture cascade is dynamically consistent with regional\
+    \ stress estimates and a crustal fault network geometry inferred from seismic\
+    \ and geodetic data. We propose that the complex fault system operates at low\
+    \ apparent friction thanks to the combined effects of overpressurized fluids,\
+    \ low dynamic friction and stress concentrations induced by deep fault creep."
+  author:
+  - {family: Ulrich, given: Thomas}
+  - {family: Gabriel, given: Alice-Agnes}
+  - {family: Ampuero, given: Jean-Paul}
+  - {family: Xu, given: Wenbin}
+  container-title: Nature Communications
+  id: Ulrich2019
+  issue: '1'
+  issued:
+  - {day: 14, month: 3, year: 2019}
+  page: '1213'
+  title: "Dynamic viability of the 2016 Mw 7.8 Kaik\u014Dura earthquake cascade on\
+    \ weak crustal faults"
+  type: article-journal
+  volume: '10'
+- DOI: 10.1093/gji/ggy213
+  ISSN: 0956-540X
+  URL: https://doi.org/10.1093/gji/ggy213
+  abstract: "The dynamics and potential size of earthquakes depend crucially on rupture\
+    \ transfers between adjacent fault segments. To accurately describe earthquake\
+    \ source dynamics, numerical models can account for realistic fault geometries\
+    \ and rheologies such as nonlinear inelastic processes off the slip interface.\
+    \ We present implementation, verification and application of off-fault Drucker\u2013\
+    Prager plasticity in the open source software SeisSol (www.seissol.org). SeisSol\
+    \ is based on an arbitrary high-order derivative modal Discontinuous Galerkin\
+    \ method using unstructured, tetrahedral meshes specifically suited for complex\
+    \ geometries. Two implementation approaches are detailed, modelling plastic failure\
+    \ either employing subelemental quadrature points or switching to nodal basis\
+    \ coefficients. At fine fault discretizations, the nodal basis approach is up\
+    \ to six\_times more efficient in terms of computational costs while yielding\
+    \ comparable accuracy. Both methods are verified in community benchmark problems\
+    \ and by 3-D numerical h- and p-refinement studies with heterogeneous initial\
+    \ stresses. We observe no spectral convergence for on-fault quantities with respect\
+    \ to a given reference solution, but rather discuss a limitation to low-order\
+    \ convergence for heterogeneous 3-D dynamic rupture problems. For simulations\
+    \ including plasticity, a high fault resolution may be less crucial than commonly\
+    \ assumed, due to the regularization of peak slip rate and an increase of the\
+    \ minimum cohesive zone width. In large-scale dynamic rupture simulations based\
+    \ on the 1992 Landers earthquake, we observe high rupture complexity including\
+    \ reverse slip, direct branching and dynamic triggering. The spatiotemporal distribution\
+    \ of rupture transfers are altered distinctively by plastic energy absorption,\
+    \ correlated with locations of geometrical fault complexity. Computational cost\
+    \ increases by 7\u2009per\u2009cent when accounting for off-fault plasticity in\
+    \ the demonstrating application. Our results imply that the combination of fully\
+    \ 3-D dynamic modelling, complex fault geometries and off-fault plastic yielding\
+    \ is important to realistically capture dynamic rupture transfers in natural fault\
+    \ systems."
+  author:
+  - {family: Wollherr, given: Stephanie}
+  - {family: Gabriel, given: Alice-Agnes}
+  - {family: Uphoff, given: Carsten}
+  container-title: Geophysical Journal International
+  id: 10.1093/gji/ggy213
+  issue: '3'
+  issued:
+  - {month: 5, year: 2018}
+  page: 1556-1584
+  title: 'Off-fault plasticity in three-dimensional dynamic rupture simulations using
+    a modal Discontinuous Galerkin method on unstructured meshes: implementation,
+    verification and application'
+  type: article-journal
+  volume: '214'
+- DOI: 10.1145/3126908.3126948
+  ISBN: '9781450351140'
+  URL: https://doi.org/10.1145/3126908.3126948
+  abstract: We present a high-resolution simulation of the 2004 Sumatra-Andaman earthquake,
+    including non-linear frictional failure on a megathrustsplay fault system. Our
+    method exploits unstructured meshes capturing the complicated geometries in subduction
+    zones that are crucial to understand large earthquakes and tsunami generation.
+    These up-to-date largest and longest dynamic rupture simulations enable analysis
+    of dynamic source effects on the seafloor displacements.To tackle the extreme
+    size of this scenario an end-to-end optimization of the simulation code SeisSol
+    was necessary. We implemented a new cache-aware wave propagation scheme and optimized
+    the dynamic rupture kernels using code generation. We established a novel clustered
+    local-time-stepping scheme for dynamic rupture. In total, we achieved a speed-up
+    of 13.6 compared to the previous implementation. For the Sumatra scenario with
+    221 million elements this reduced the time-to-solution to 13.9 hours on 86, 016
+    Haswell cores. Furthermore, we used asynchronous output to overlap I/O and compute
+    time.
+  author:
+  - {family: Uphoff, given: Carsten}
+  - {family: Rettenberger, given: Sebastian}
+  - {family: Bader, given: Michael}
+  - {family: Madden, given: Elizabeth H.}
+  - {family: Ulrich, given: Thomas}
+  - {family: Wollherr, given: Stephanie}
+  - {family: Gabriel, given: Alice-Agnes}
+  collection-title: "SC \u201917"
+  container-title: Proceedings of the International Conference for High Performance
+    Computing, Networking, Storage and Analysis
+  id: 10.1145/3126908.3126948
+  issued:
+  - {year: 2017}
+  keyword: dynamic rupture, tsunami coupling, asynchronous output, petascale performance,
+    hybrid parallelization, local time stepping, ADER-DG, earthquake simulation
+  publisher: Association for Computing Machinery
+  publisher-place: New York, NY, USA
+  title: Extreme Scale Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra
+    Megathrust Earthquake
+  type: paper-conference

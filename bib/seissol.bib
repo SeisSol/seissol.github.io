@@ -1,0 +1,70 @@
+@Article{Ulrich2019,
+    author={Ulrich, Thomas
+    and Gabriel, Alice-Agnes
+    and Ampuero, Jean-Paul
+    and Xu, Wenbin},
+    title={Dynamic viability of the 2016 Mw 7.8 Kaik{\={o}}ura earthquake cascade on weak crustal faults},
+    journal={Nature Communications},
+    year={2019},
+    month={Mar},
+    day={14},
+    volume={10},
+    number={1},
+    pages={1213},
+    abstract={We present a dynamic rupture model of the 2016 Mw 7.8 Kaik{\={o}}ura earthquake to unravel the event's riddles in a physics-based manner and provide insight on the mechanical viability of competing hypotheses proposed to explain them. Our model reproduces key characteristics of the event and constraints puzzling features inferred from high-quality observations including a large gap separating surface rupture traces, the possibility of significant slip on the subduction interface, the non-rupture of the Hope fault, and slow apparent rupture speed. We show that the observed rupture cascade is dynamically consistent with regional stress estimates and a crustal fault network geometry inferred from seismic and geodetic data. We propose that the complex fault system operates at low apparent friction thanks to the combined effects of overpressurized fluids, low dynamic friction and stress concentrations induced by deep fault creep.},
+    issn={2041-1723},
+    doi={10.1038/s41467-019-09125-w},
+    url={https://doi.org/10.1038/s41467-019-09125-w}
+}
+
+@article{10.1093/gji/ggy213,
+    author = {Wollherr, Stephanie and Gabriel, Alice-Agnes and Uphoff, Carsten},
+    title = "{Off-fault plasticity in three-dimensional dynamic rupture simulations using a modal Discontinuous Galerkin method on unstructured meshes: implementation, verification and application}",
+    journal = {Geophysical Journal International},
+    volume = {214},
+    number = {3},
+    pages = {1556-1584},
+    year = {2018},
+    month = {05},
+    abstract = "{The dynamics and potential size of earthquakes depend crucially on rupture transfers between adjacent fault segments. To accurately describe earthquake source dynamics, numerical models can account for realistic fault geometries and rheologies such as nonlinear inelastic processes off the slip interface. We present implementation, verification and application of off-fault Drucker–Prager plasticity in the open source software SeisSol (www.seissol.org). SeisSol is based on an arbitrary high-order derivative modal Discontinuous Galerkin method using unstructured, tetrahedral meshes specifically suited for complex geometries. Two implementation approaches are detailed, modelling plastic failure either employing subelemental quadrature points or switching to nodal basis coefficients. At fine fault discretizations, the nodal basis approach is up to six times more efficient in terms of computational costs while yielding comparable accuracy. Both methods are verified in community benchmark problems and by 3-D numerical h- and p-refinement studies with heterogeneous initial stresses. We observe no spectral convergence for on-fault quantities with respect to a given reference solution, but rather discuss a limitation to low-order convergence for heterogeneous 3-D dynamic rupture problems. For simulations including plasticity, a high fault resolution may be less crucial than commonly assumed, due to the regularization of peak slip rate and an increase of the minimum cohesive zone width. In large-scale dynamic rupture simulations based on the 1992 Landers earthquake, we observe high rupture complexity including reverse slip, direct branching and dynamic triggering. The spatiotemporal distribution of rupture transfers are altered distinctively by plastic energy absorption, correlated with locations of geometrical fault complexity. Computational cost increases by 7 per cent when accounting for off-fault plasticity in the demonstrating application. Our results imply that the combination of fully 3-D dynamic modelling, complex fault geometries and off-fault plastic yielding is important to realistically capture dynamic rupture transfers in natural fault systems.}",
+    issn = {0956-540X},
+    doi = {10.1093/gji/ggy213},
+    url = {https://doi.org/10.1093/gji/ggy213},
+    eprint = {https://academic.oup.com/gji/article-pdf/214/3/1556/25597520/ggy213.pdf},
+}
+
+@article{doi:10.1177/1471082X17748034,
+    author = {Alexander Bauer and Fabian Scheipl and Helmut Küchenhoff and Alice-Agnes Gabriel},
+    title ={An introduction to semiparametric function-on-scalar                     regression},
+    journal = {Statistical Modelling},
+    volume = {18},
+    number = {3-4},
+    pages = {346-364},
+    year = {2018},
+    doi = {10.1177/1471082X17748034},
+    abstract = { Abstract:Function-on-scalar regression models feature a function over some domain as the response while the regressors are scalars. Collections of time series as well as 2D or 3D images can be considered as functional responses. We provide a hands-on introduction for a flexible semiparametric approach for function-on-scalar regression, using spatially referenced time series of ground velocity measurements from large-scale simulated earthquake data as a running example. We discuss important practical considerations and challenges in the modelling process and outline best practices. The outline of our approach is complemented by comprehensive R code, freely available in the online appendix. This text is aimed at analysts with a working knowledge of generalized regression models and penalized splines. }
+}
+
+@inproceedings{10.1145/3126908.3126948,
+    author = {Uphoff, Carsten and Rettenberger, Sebastian and Bader, Michael and Madden, Elizabeth H. and Ulrich, Thomas and Wollherr, Stephanie and Gabriel, Alice-Agnes},
+    title = {Extreme Scale Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake},
+    year = {2017},
+    isbn = {9781450351140},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3126908.3126948},
+    doi = {10.1145/3126908.3126948},
+    abstract = {We present a high-resolution simulation of the 2004 Sumatra-Andaman earthquake, including non-linear frictional failure on a megathrustsplay fault system. Our method exploits unstructured meshes capturing the complicated geometries in subduction zones that are crucial to understand large earthquakes and tsunami generation. These up-to-date largest and longest dynamic rupture simulations enable analysis of dynamic source effects on the seafloor displacements.To tackle the extreme size of this scenario an end-to-end optimization of the simulation code SeisSol was necessary. We implemented a new cache-aware wave propagation scheme and optimized the dynamic rupture kernels using code generation. We established a novel clustered local-time-stepping scheme for dynamic rupture. In total, we achieved a speed-up of 13.6 compared to the previous implementation. For the Sumatra scenario with 221 million elements this reduced the time-to-solution to 13.9 hours on 86, 016 Haswell cores. Furthermore, we used asynchronous output to overlap I/O and compute time.},
+    booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+    articleno = {21},
+    numpages = {16},
+    keywords = {dynamic rupture, tsunami coupling, asynchronous output, petascale performance, hybrid parallelization, local time stepping, ADER-DG, earthquake simulation},
+    location = {Denver, Colorado},
+    series = {SC '17}
+}
+
+
+
+
+
+
