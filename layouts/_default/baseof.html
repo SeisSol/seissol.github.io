@@ -26,7 +26,7 @@
         {{ end }}
 
         {{ $toggle := resources.Get "js/toggle.js" | minify | fingerprint }}
-        <script type="text/javascript" src="{{ $toggle.Permalink }}"></script>
+        <script type="text/javascript" src="{{ $toggle.RelPermalink }}"></script>
     </head>
     <body>
         {{ partial "header.html" . }}

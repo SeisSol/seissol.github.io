@@ -1,8 +1,16 @@
 <header>
     {{ partial "navbar.html" . }}
+    <div class="banner">
     {{ with .Params.banner }}
         <img src="/{{.}}">
+        {{ with .Params.banner_credit }}
+        <span>Photo credit: {{.}}.</span>
+        {{ end }}
     {{ else }}
-        <img src="/img/banner.jpg">
+        {{ $image := resources.Get "img/searles_valley.jpg" }}
+        {{ $image := $image.Fill "1920x350 q70 Center" }}
+        <img src="{{ $image.RelPermalink }}">
+        <span>Photo credit: Ryan Gold, USGS.</span>
     {{ end }}
+    </div>
 </header>
