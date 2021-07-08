@@ -2,8 +2,13 @@
 <section class="section">
     <main class="container mb-6 content">
         <h1 class="title mb-6">{{.Title}}</h1>
+        <p>
+            The current SeisSol core team consists of researchers from the Ludwigs-Maximilians-Universität (LMU, Munich) and the Technical University of Munich (TUM).
+We also thank all of our collaborators and former team members listed below.
+        </p>
+        <br>
         <div class="columns is-multiline is-centered has-text-centered">
-        {{ range $.Site.Data.team }}
+        {{ range $.Site.Data.team.team }}
         <div class="column is-narrow">
             {{ $photo := cond (isset . "photo") .photo "anon.png" }}
             {{ $photo := resources.Get (path.Join "team/" $photo) }}
@@ -16,6 +21,37 @@
             </a>
         </div>
         {{ end }}
+        </div>
+        <br>
+        <div class="columns">
+            <div class="column is-one-third">
+                <h2>Former members</h2>
+                <ul>
+                {{ range $.Site.Data.team.former }}
+                    <li>
+                        {{ if isset . "link" }}
+                            <a href="{{ .link }}">{{ .name }}</a>
+                        {{ else }}
+                            {{ .name }}
+                        {{ end }}
+                    </li>
+                {{ end }}
+                </ul>
+            </div>
+            <div class="column is-one-third">
+                <h2>Collaborators</h2>
+                <ul>
+                {{ range $.Site.Data.team.collaborators }}
+                    <li>
+                        {{ if isset . "link" }}
+                            <a href="{{ .link }}">{{ .name }}</a>
+                        {{ else }}
+                            {{ .name }}
+                        {{ end }}
+                    </li>
+                {{ end }}
+                </ul>
+            </div>
         </div>
     </main>
 </section>

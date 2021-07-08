@@ -1,26 +1,58 @@
-- name: Dr. Alice-Agnes Gabriel
-  link: https://www.geophysik.uni-muenchen.de/Members/gabriel
-  photo: alice.png
-- name: Dr. Thomas Ulrich
-  link: https://www.geophysik.uni-muenchen.de/Members/ulrich
-  photo: thomas.jpg
-- name: Dr. Duo Li
-  link: https://www.geophysik.uni-muenchen.de/Members/dli
-  photo: Duo_Li.jpg
-- name: Dr. Carsten Uphoff
-  link: https://www.geophysik.uni-muenchen.de/Members/uphoff
-  photo: carsten.png
-- name: Taufiqurrahman
-  link: https://www.geophysik.uni-muenchen.de/Members/taufiqurrahman
-  photo: Taufiq.jpg
-- name: Sara Aniko Wirp
-  link: https://www.geophysik.uni-muenchen.de/Members/swirp
-  photo: Aniko.jpg
-- name: Bo Li
-  link: https://www.geophysik.uni-muenchen.de/Members/bli
-- name: Lukas Krenz
-  link: https://www.in.tum.de/i05/personen/personen/lukas-krenz/
-- name: Ravil Dorozhinskii
-  link: https://www.in.tum.de/i05/personen/personen/ravil-dorozhinskii/
-- name: Sebastian Wolf
-  link: https://www.in.tum.de/i05/personen/personen/sebastian-wolf/
+team:
+    - name: Dr. Alice-Agnes Gabriel
+      link: https://www.geophysik.uni-muenchen.de/Members/gabriel
+      photo: alice.png
+    - name: Dr. Thomas Ulrich
+      link: https://www.geophysik.uni-muenchen.de/Members/ulrich
+      photo: thomas.jpg
+    - name: Dr. Duo Li
+      link: https://www.geophysik.uni-muenchen.de/Members/dli
+      photo: Duo_Li.jpg
+    - name: Dr. Carsten Uphoff
+      link: https://www.geophysik.uni-muenchen.de/Members/uphoff
+      photo: carsten.png
+    - name: Taufiqurrahman
+      link: https://www.geophysik.uni-muenchen.de/Members/taufiqurrahman
+      photo: Taufiq.jpg
+    - name: Sara Aniko Wirp
+      link: https://www.geophysik.uni-muenchen.de/Members/swirp
+      photo: Aniko.jpg
+    - name: Bo Li
+      link: https://www.geophysik.uni-muenchen.de/Members/bli
+    - name: Lukas Krenz
+      link: https://www.in.tum.de/i05/personen/personen/lukas-krenz/
+    - name: Ravil Dorozhinskii
+      link: https://www.in.tum.de/i05/personen/personen/ravil-dorozhinskii/
+    - name: Sebastian Wolf
+      link: https://www.in.tum.de/i05/personen/personen/sebastian-wolf/
+former:
+    - name: Dr. Alexander Breuer
+      link: https://scalable.uni-jena.de
+    - name: Dr. Alexander Heinecke
+      link: https://www.intel.com/content/www/us/en/research/researchers/alexander-heinecke.html
+    - name: Dr. Martin Käser
+      link: https://www.geophysik.uni-muenchen.de/Members/kaeser
+    - name: Dr. Christian Pelties
+    - name: Dr. Sebastian Rettenberger
+    - name: Stefan Wenk
+    - name: Dr. Stephanie Wollherr
+    - name: Dr. Betsy Madden
+    - name: Sebastian Anger
+collaborators:
+    - name: Prof. Dr. Michael Bader
+      link: https://www.in.tum.de/i05/personen/personen/univ-prof-dr-michael-bader/
+    - name: Prof. Dr. Martin Mai
+      link: https://www.kaust.edu.sa/en/study/faculty/paul-martin-mai
+    - name: Dr. Gilbert Brietzke
+    - name: Dr. Michael Dumbser
+      link: https://webapps.unitn.it/du/it/Persona/PER0029602/Curriculum#INFO
+    - name: Dr. Cristóbal E. Castro
+      link: https://sites.google.com/a/uc.cl/cristobal-e-castro/
+    - name: Dr. Josep de la Puente
+      link: https://www.bsc.es/de-la-puente-josep
+    - name: Dr. Yihe Huang
+    - name: Dr. Jean-Paul Ampuero
+    - name: Luca Passone
+    - name: Dr. Walter Imperatori
+    - name: Dr. Yang Li
+      link: https://ase.in.tum.de/lehrstuhl_1/teaching/timeline-wt1011/291-yang-li
