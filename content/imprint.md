@@ -3,13 +3,23 @@ title: "Imprint"
 date: 2021-07-08T12:54:52+02:00
 ---
 
-### Address
+SeisSol is primarily developed by the research groups of Alice-Agnes Gabriel and Michael Bader. For questions, remarks, inquiries, etc., on SeisSol and on this website, please see the following contact addresses.
 
-Dr. Alice-Agnes Gabriel  
+### Contact
+
+Prof. Dr. Alice-Agnes Gabriel  
 Department für Geo- und Umweltwissenschaften, Geophysik  
 Universität München  
 Theresienstr. 41  
 D-80333 München
+Germany
+
+[Prof. Dr. Michael Bader](https://www.cs.cit.tum.de/sccs/bader/)  
+TUM School of Computation, Information and Technology  
+Technical University of Munich  
+Boltzmannstr. 3    
+85748 Garching  
+Germany
 
 ### Liability
 

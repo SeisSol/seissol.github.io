@@ -1,4 +1,22 @@
 references:
+- DOI: 10.1145/3458817.3476173
+  URL: https://dl.acm.org/doi/10.1145/3458817.3476173
+  author:
+  - {family: Krenz, given: Lukas}
+  - {family: Uphoff, given: Carsten}
+  - {family: Ulrich, given: Thomas}
+  - {family: Gabriel, given: Alice-Agnes}
+  - {family: Abrahams, given: Lauren S.}
+  - {family: Dunham, given: Eric M.}
+  - {family: Bader, given: Michael}
+  collection-title: "SC \u201921"
+  container-title: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+  id: 10.1145/3458817.3476173
+  issued:
+  - {year: 2021}
+  publisher: Association for Computing Machinery
+  title: '3D acoustic-elastic coupling with gravity: the dynamics of the 2018 Palu, Sulawesi earthquake and tsunami'
+  type: paper-conference
 - DOI: 10.1038/s41467-019-09125-w
   ISSN: 2041-1723
   URL: https://doi.org/10.1038/s41467-019-09125-w
