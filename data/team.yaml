@@ -1,24 +1,24 @@
 team:
     - name: Dr. Alice-Agnes Gabriel
-      link: https://www.geophysik.uni-muenchen.de/Members/gabriel
+      link: https://www.geowissenschaften.uni-muenchen.de/personen/professoren1/gabriel/index.html
       photo: alice.png
     - name: Dr. Thomas Ulrich
-      link: https://www.geophysik.uni-muenchen.de/Members/ulrich
+      link: https://www.geophysik.uni-muenchen.de/en/Members/ulrich
       photo: thomas.jpg
     - name: Dr. Duo Li
-      link: https://www.geophysik.uni-muenchen.de/Members/dli
+      link: https://www.geophysik.uni-muenchen.de/en/Members/dli
       photo: Duo_Li.jpg
     - name: Dr. Carsten Uphoff
-      link: https://www.geophysik.uni-muenchen.de/Members/uphoff
+      link: https://www.geophysik.uni-muenchen.de/en/Members/uphoff
       photo: carsten.png
     - name: Taufiqurrahman
-      link: https://www.geophysik.uni-muenchen.de/Members/taufiqurrahman
+      link: https://www.geophysik.uni-muenchen.de/en/Members/taufiqurrahman
       photo: Taufiq.jpg
     - name: Sara Aniko Wirp
-      link: https://www.geophysik.uni-muenchen.de/Members/swirp
+      link: https://www.geophysik.uni-muenchen.de/en/Members/swirp
       photo: Aniko.jpg
     - name: Bo Li
-      link: https://www.geophysik.uni-muenchen.de/Members/bli
+      link: https://www.geophysik.uni-muenchen.de/en/Members/bli
     - name: Lukas Krenz
       link: https://www.in.tum.de/i05/personen/personen/lukas-krenz/
     - name: Ravil Dorozhinskii
@@ -31,7 +31,7 @@ former:
     - name: Dr. Alexander Heinecke
       link: https://www.intel.com/content/www/us/en/research/researchers/alexander-heinecke.html
     - name: Dr. Martin Käser
-      link: https://www.geophysik.uni-muenchen.de/Members/kaeser
+      link: https://www.geophysik.uni-muenchen.de/en/Members/kaeser
     - name: Dr. Christian Pelties
     - name: Dr. Sebastian Rettenberger
     - name: Stefan Wenk
@@ -39,12 +39,10 @@ former:
     - name: Dr. Betsy Madden
     - name: Sebastian Anger
 collaborators:
-    - name: Prof. Dr. Michael Bader
-      link: https://www.in.tum.de/i05/personen/personen/univ-prof-dr-michael-bader/
     - name: Prof. Dr. Martin Mai
       link: https://www.kaust.edu.sa/en/study/faculty/paul-martin-mai
     - name: Dr. Gilbert Brietzke
-    - name: Dr. Michael Dumbser
+    - name: Prof. Dr.-Ing. Michael Dumbser
       link: https://webapps.unitn.it/du/it/Persona/PER0029602/Curriculum#INFO
     - name: Dr. Cristóbal E. Castro
       link: https://sites.google.com/a/uc.cl/cristobal-e-castro/
@@ -56,3 +54,8 @@ collaborators:
     - name: Dr. Walter Imperatori
     - name: Dr. Yang Li
       link: https://ase.in.tum.de/lehrstuhl_1/teaching/timeline-wt1011/291-yang-li
+shepherds:
+    - name: Prof. Dr. Michael Bader
+      link: https://www.cs.cit.tum.de/sccs/bader/
+    - name: Prof. Dr. Heiner Igel
+      link: https://www.geowissenschaften.uni-muenchen.de/personen/professoren1/igel/index.html

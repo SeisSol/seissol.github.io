@@ -1,5 +1,5 @@
 html, body, .navbar, .footer {
-    background-color: hsl(0, 0%, 96%);
+    background-color: hsl(40, 70%, 95%);
 }
 
 .banner {
@@ -13,4 +13,29 @@ html, body, .navbar, .footer {
     padding: 0.5rem;
     font-size: 0.75rem;
     color: white;
+}
+
+a {
+  color: hsl(40, 85%, 40%);
+}
+
+a:hover, a:active {
+  color: hsl(40, 85%, 25%);
+}
+
+a.navbar-item,a.navbar-link{
+  color: hsl(40, 85%, 15%);
+}
+
+a.navbar-item:hover,a.navbar-link:hover {
+  color: hsl(40, 85%, 30%);
+}
+
+button.button is link {
+    color: hsl(40, 70%, 60%);
+    background-color: hsl(40, 70%, 35%);
+}
+
+.is-warning {
+    background-color: hsl(40, 70%, 35%);
 }

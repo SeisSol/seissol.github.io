@@ -52,6 +52,20 @@ We also thank all of our collaborators and former team members listed below.
                 {{ end }}
                 </ul>
             </div>
+            <div class="column is-one-third">
+                <h2>Shepherds</h2>
+                <ul>
+                {{ range $.Site.Data.team.shepherds }}
+                    <li>
+                        {{ if isset . "link" }}
+                            <a href="{{ .link }}">{{ .name }}</a>
+                        {{ else }}
+                            {{ .name }}
+                        {{ end }}
+                    </li>
+                {{ end }}
+                </ul>
+            </div>
         </div>
     </main>
 </section>
