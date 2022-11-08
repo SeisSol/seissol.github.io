@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="section">
     <main class="container mb-6 content">
-        <h1 class="title">{{ .Title }}</h1>
+        <h1 class="title">Selected Publications</h1>
         {{ range $.Site.Data.bib }}
             <ul>
             {{ $data := newScratch }}

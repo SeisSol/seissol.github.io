@@ -1,4 +1,52 @@
 references:
+- DOI: 10.1029/2021JB023382
+  URL: https://doi.org/10.1029/2021JB023382
+  author:
+  - {family: Madden, given: Elizabeth H.}
+  - {family: Ulrich, given: Thoms}
+  - {family: Gabriel, given: Alice-Agnes}
+  container-title: JGR Solid Earth
+  id: Madden2022
+  issued:
+  - {year: 2022}
+  page: 'e2021JB023382'
+  title: "The State of Pore Fluid Pressure and 3-D Megathrust Earthquake Dynamics"
+  type: article-journal
+  volume: '127'
+  issue: '4'
+- DOI: 10.1038/s41561-021-00863-5
+  URL: https://www.nature.com/articles/s41561-021-00863-5
+  author:
+  - {family: Ulrich, given: Thoms}
+  - {family: Gabriel, given: Alice-Agnes}
+  - {family: Madden, given: Elizabeth H.}
+  container-title: Nature Geoscience
+  id: Ulrich2022
+  issued:
+  - {year: 2022}
+  page: '67-73'
+  title: "Stress, Rigidity and Sediment Strength Control Megathrust Earthquake and Tsunami Dynamics"
+  type: article-journal
+  volume: '15'
+  issue: '1'
+- DOI: 10.1016/j.jcp.2021.110886
+  URL: https://arxiv.org/abs/2108.10565
+  author:
+  - {family: Wolf, given: Sebastian}
+  - {family: Galis, given: Martin}
+  - {family: Uphoff, given: Carsten}
+  - {family: Gabriel, given: Alice-Agnes}
+  - {family: Moczo, given: Peter}
+  - {family: Gregor, given: David}
+  - {family: Bader, given: Michael}
+  container-title: Journal of Computational Physics
+  id: Wolf2022
+  issued:
+  - {year: 2022}
+  page: '110886'
+  title: "An efficient ADER-DG local time stepping scheme for 3D HPC simulation of seismic waves in poroelastic media"
+  type: article-journal
+  volume: '455'
 - DOI: 10.1145/3458817.3476173
   URL: https://dl.acm.org/doi/10.1145/3458817.3476173
   author:
