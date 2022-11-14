@@ -3,7 +3,7 @@ references:
   URL: https://doi.org/10.1029/2021JB023382
   author:
   - {family: Madden, given: Elizabeth H.}
-  - {family: Ulrich, given: Thoms}
+  - {family: Ulrich, given: Thomas}
   - {family: Gabriel, given: Alice-Agnes}
   container-title: JGR Solid Earth
   id: Madden2022
@@ -17,7 +17,7 @@ references:
 - DOI: 10.1038/s41561-021-00863-5
   URL: https://www.nature.com/articles/s41561-021-00863-5
   author:
-  - {family: Ulrich, given: Thoms}
+  - {family: Ulrich, given: Thomas}
   - {family: Gabriel, given: Alice-Agnes}
   - {family: Madden, given: Elizabeth H.}
   container-title: Nature Geoscience

@@ -11,3 +11,5 @@ https://www.gauss-centre.eu/news/research-highlights/researchers-create-largest-
 https://www.in.tum.de/en/in/research/research-highlights/2004-sumatra-megathrust-earthquake/
 - Article in R&D World: "Largest Supercomputer Simulation of Sumatra-Andaman Earthquake" (by Linda Barney)
 https://www.rdworldonline.com/largest-supercomputer-simulation-of-sumatra-andaman-earthquake/
+
+![Snapshot of the Sumatra simulation.](/img/sumatra.jpg)
