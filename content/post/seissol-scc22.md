@@ -10,4 +10,4 @@ We're proud to introduce SeisSol as this year's Mystery Application. Lukas Krenz
 
 Further Information:
 - [Publication on simulation of the 2018 Palu, Sulawesi event with SeisSol](https://link.springer.com/article/10.1007/s00024-019-02290-5)
-- First appearance of SeisSol at the SCC 2018, as Reproducibility Challenge 
+- [First appearance of SeisSol at the SCC 2018, as Reproducibility Challenge](https://seissol.org/post/seissol-scc18/) 
