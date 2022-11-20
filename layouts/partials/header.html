@@ -7,8 +7,8 @@
         <span>Photo credit: {{.}}.</span>
         {{ end }}
     {{ else }}
-        {{ $image := resources.Get "img/palu_banner.png" }}
-        {{ $image := $image.Fill "1920x350 q70 Center" }}
+        {{ $image := resources.Get "img/palu_banner_hr.jpg" }}
+        {{ $image := $image.Fill "2048x400 q70 Center" }}
         <img src="{{ $image.RelPermalink }}">
         <span>Visualisation: Thomas Ulrich, LMU.</span>
     {{ end }}
