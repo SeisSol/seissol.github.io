@@ -8,21 +8,15 @@ team:
     - name: Dr. Duo Li
       link: https://www.geophysik.uni-muenchen.de/en/Members/dli
       photo: Duo_Li.jpg
-    - name: Dr. Carsten Uphoff
-      link: https://www.geophysik.uni-muenchen.de/en/Members/uphoff
-      photo: carsten.png
-    - name: Taufiqurrahman
-      link: https://www.geophysik.uni-muenchen.de/en/Members/taufiqurrahman
-      photo: Taufiq.jpg
     - name: Sara Aniko Wirp
       link: https://www.geophysik.uni-muenchen.de/en/Members/swirp
       photo: Aniko.jpg
-    - name: Bo Li
-      link: https://www.geophysik.uni-muenchen.de/en/Members/bli
     - name: Lukas Krenz
       link: https://www.in.tum.de/i05/personen/personen/lukas-krenz/
     - name: Ravil Dorozhinskii
       link: https://www.in.tum.de/i05/personen/personen/ravil-dorozhinskii/
+    - name: Nico Schliwa
+      link: https://www.geophysik.uni-muenchen.de/en/Members/nschliwa
     - name: Sebastian Wolf
       link: https://www.in.tum.de/i05/personen/personen/sebastian-wolf/
       photo: sw.jpg
@@ -33,8 +27,14 @@ former:
       link: https://www.intel.com/content/www/us/en/research/researchers/alexander-heinecke.html
     - name: Dr. Martin Käser
       link: https://www.geophysik.uni-muenchen.de/en/Members/kaeser
+    - name: Bo Li
+      link: https://ces.kaust.edu.sa/people/detail/bo-li
     - name: Dr. Christian Pelties
     - name: Dr. Sebastian Rettenberger
+    - name: Taufiqurrahman
+      link: https://www.geophysik.uni-muenchen.de/en/Members/taufiqurrahman
+    - name: Dr. Carsten Uphoff
+      link: https://www.geophysik.uni-muenchen.de/en/Members/uphoff
     - name: Stefan Wenk
     - name: Dr. Stephanie Wollherr
     - name: Dr. Betsy Madden

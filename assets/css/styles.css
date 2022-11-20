@@ -1,5 +1,5 @@
 html, body, .navbar, .footer {
-    background-color: hsl(40, 70%, 95%);
+    background-color: hsl(45, 70%, 95%);
 }
 
 .banner {
@@ -16,26 +16,46 @@ html, body, .navbar, .footer {
 }
 
 a {
-  color: hsl(40, 85%, 40%);
+  color: hsl(45, 85%, 40%);
 }
 
 a:hover, a:active {
-  color: hsl(40, 85%, 25%);
+  color: hsl(45, 85%, 25%);
 }
 
 a.navbar-item,a.navbar-link{
-  color: hsl(40, 85%, 15%);
+  color: hsl(45, 85%, 15%);
 }
 
 a.navbar-item:hover,a.navbar-link:hover {
-  color: hsl(40, 85%, 30%);
+  color: hsl(45, 85%, 30%);
 }
 
-button.button is link {
-    color: hsl(40, 70%, 60%);
-    background-color: hsl(40, 70%, 35%);
+button.is-link {
+    color: hsl(45, 70%, 60%);
+    background-color: hsl(45, 70%, 35%);
 }
 
+button.button.is-link {
+    color: hsl(45, 70%, 90%);
+    background-color: hsl(45, 70%, 25%);
+}
+
+button.button.is-link:hover {
+    background-color: hsl(45, 70%, 35%);
+}
 .is-warning {
-    background-color: hsl(40, 70%, 35%);
+    background-color: hsl(45, 70%, 35%);
+}
+
+section.hero.is-dark {
+    background-color: hsl(45, 70%, 25%);
+}
+
+a.cream {
+    color: hsl(45, 85%, 85%);
+}
+
+section.hero.is-warning {
+    background-color: hsl(45, 70%, 65%);
 }

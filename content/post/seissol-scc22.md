@@ -1,6 +1,6 @@
 ---
 title: "SeisSol Revealed as Mystery Application at the Student Cluster Competition 2022"
-date: 2022-11-14T00:00:00+00:00
+date: 2022-11-15T00:00:00+00:00
 ---
 At the [SC22 Supercomputing Conference](https://sc22.supercomputing.org/), the [Student Cluster Competition](https://www.studentclustercompetition.us/) has revealed SeisSol as its "Mystery Application". In 2022, 13 student teams again take part in a 48-hour live contest to compute HPC workloads on their compute clusters. While participants could prepare for most of the SCC applications over the summer, the Mystery Application is only revealed when the cluster competition has started. 
 

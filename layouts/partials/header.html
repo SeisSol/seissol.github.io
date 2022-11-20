@@ -7,10 +7,10 @@
         <span>Photo credit: {{.}}.</span>
         {{ end }}
     {{ else }}
-        {{ $image := resources.Get "img/searles_valley.jpg" }}
+        {{ $image := resources.Get "img/palu_banner.png" }}
         {{ $image := $image.Fill "1920x350 q70 Center" }}
         <img src="{{ $image.RelPermalink }}">
-        <span>Photo credit: Ryan Gold, USGS.</span>
+        <span>Visualisation: Thomas Ulrich, LMU.</span>
     {{ end }}
     </div>
 </header>
