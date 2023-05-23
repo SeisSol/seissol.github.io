@@ -12,14 +12,17 @@ team:
       link: https://www.geophysik.uni-muenchen.de/en/Members/swirp
       photo: Aniko.jpg
     - name: Lukas Krenz
-      link: https://www.in.tum.de/i05/personen/personen/lukas-krenz/
+      link: https://www.cs.cit.tum.de/sccs/personen/lukas-krenz/
     - name: Ravil Dorozhinskii
-      link: https://www.in.tum.de/i05/personen/personen/ravil-dorozhinskii/
+      link: https://www.cs.cit.tum.de/sccs/personen/ravil-dorozhinskii/
     - name: Nico Schliwa
       link: https://www.geophysik.uni-muenchen.de/en/Members/nschliwa
     - name: Sebastian Wolf
-      link: https://www.in.tum.de/i05/personen/personen/sebastian-wolf/
+      link: https://www.cs.cit.tum.de/sccs/personen/sebastian-wolf/
       photo: sw.jpg
+    - name: David Schneller
+      link: https://www.cs.cit.tum.de/sccs/personen/david-schneller/
+      photo: ds.jpg
 former:
     - name: Dr. Alexander Breuer
       link: https://scalable.uni-jena.de
