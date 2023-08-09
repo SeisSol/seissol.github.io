@@ -15,4 +15,4 @@ Further Information:
 - [The Unexpected Physics Behind Turkey’s Devastating 2023 Earthquakes](https://scripps.ucsd.edu/news/unexpected-physics-behind-turkeys-devastating-2023-earthquakes)
 - [The complex dynamics of the 2023 Kahramanmaraş, Turkey, Mw 7.8-7.7 earthquake doublet](https://doi.org/10.1126/science.adi0685)
 
-![Dynamic rupture plots of the simulation of the 2023, Kahramanmaraş earthquake.](/img/turkey_rupture.jpg)
+![Dynamic rupture plots of the simulation of the 2023, Kahramanmaraş earthquake.](/img/turkey_rupture.png)
