@@ -11,10 +11,6 @@ team:
     - name: Sara Aniko Wirp
       link: https://www.geophysik.uni-muenchen.de/en/Members/swirp
       photo: Aniko.jpg
-    - name: Lukas Krenz
-      link: https://www.cs.cit.tum.de/sccs/personen/lukas-krenz/
-    - name: Ravil Dorozhinskii
-      link: https://www.cs.cit.tum.de/sccs/personen/ravil-dorozhinskii/
     - name: Nico Schliwa
       link: https://www.geophysik.uni-muenchen.de/en/Members/nschliwa
     - name: Sebastian Wolf
@@ -23,6 +19,8 @@ team:
     - name: David Schneller
       link: https://www.cs.cit.tum.de/sccs/personen/david-schneller/
       photo: ds.jpg
+    - name: Vikas Kurapati
+      link: https://www.cs.cit.tum.de/sccs/personen/vikas-kurapati/
 former:
     - name: Dr. Alexander Breuer
       link: https://scalable.uni-jena.de
@@ -42,6 +40,8 @@ former:
     - name: Dr. Stephanie Wollherr
     - name: Dr. Betsy Madden
     - name: Sebastian Anger
+    - name: Ravil Dorozhinskii
+    - name: Lukas Krenz
 collaborators:
     - name: Prof. Dr. Martin Mai
       link: https://www.kaust.edu.sa/en/study/faculty/paul-martin-mai
