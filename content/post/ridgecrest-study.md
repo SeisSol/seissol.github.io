@@ -10,5 +10,7 @@ https://scripps.ucsd.edu/news/segment-jumping-ridgecrest-earthquakes-explored-ne
 
 Results of the Ridgecrest simulations were presented as an **SC23 Scientific Visualization & Data Analytics Showcase** at SC23: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
+![Snapshot of the SC23 Ridgecrest showcase: fault system and seismic waves.](/img/ridgecrest_SC23showcase.jpg)
+
 * See https://www.youtube.com/watch?v=JvMuQN4FuvU for the full video: "SC23: Conversing Faults: The 2019 Ridgecrest Earthquake".
 
