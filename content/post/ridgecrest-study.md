@@ -8,7 +8,7 @@ date: 2023-11-17T00:00:00+02:00
 **Read the entire article** on the Ridgecrest earthquakes and the SeisSol simulations of it at the Scripps Institution of Oceanography's blog:
 https://scripps.ucsd.edu/news/segment-jumping-ridgecrest-earthquakes-explored-new-study
 
-Results of the Ridgecrest simulations were presented as an **SC23 Scientific Visualization & Data Analytics Showcase** at SC23: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
+Led by the Texas Advanced Computing Center, results of the Ridgecrest simulations were presented as an **SC23 Scientific Visualization & Data Analytics Showcase** at SC23: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
 ![Snapshot of the SC23 Ridgecrest showcase: fault system and seismic waves.](/img/ridgecrest_SC23showcase.jpg)
 

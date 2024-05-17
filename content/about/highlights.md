@@ -13,4 +13,6 @@ menu:
 
 # Activities
 
+- **Ridgecrest Simulation as SC23 Scientific Visualization & Data Analytics Showcase**. Led by the Texas Advanced Computing Center, a SeisSol simulation of the 2019 Ridgecrest Earthquake was featured as Scientific Visualization & Data Analytics Showcase at SC23. See our [blog article](https://seissol.org/post/ridgecrest-study/) for more details.
+- **Mystery Application at the SC22 Student Cluster Competition**. The SC21 paper on the simulation of the 2018 Palu, Sulawesi eartquake-tsunami event was selected as the *Mystery Application* for the [Student Cluster Competition](https://www.studentclustercompetition.us/) 2022. See our [blog article](https://seissol.org/post/seissol-scc22/) for more details.  
 - **Reproducibility Challenge at the SC18 Student Cluster Competition**. The SC17 best paper on the simulation of the Sumatra 2004 earthquake with SeisSol was selected as the [Reproducibilty Challenge](https://sc18.supercomputing.org/sc18-announces-selected-paper-for-next-student-cluster-competition-reproducibility-challenge/) for the [Student Cluster Competition](https://www.studentclustercompetition.us/) 2018. Reports on the reproducibility efforts of the student tams were published in a [special issue of Parallel Computing](https://www.sciencedirect.com/journal/parallel-computing/vol/90/suppl/C). 
