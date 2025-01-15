@@ -13,9 +13,6 @@ team:
       photo: Aniko.jpg
     - name: Nico Schliwa
       link: https://www.geophysik.uni-muenchen.de/en/Members/nschliwa
-    - name: Sebastian Wolf
-      link: https://www.cs.cit.tum.de/sccs/personen/sebastian-wolf/
-      photo: sw.jpg
     - name: David Schneller
       link: https://www.cs.cit.tum.de/sccs/personen/david-schneller/
       photo: ds.jpg
@@ -40,8 +37,9 @@ former:
     - name: Dr. Stephanie Wollherr
     - name: Dr. Betsy Madden
     - name: Sebastian Anger
-    - name: Ravil Dorozhinskii
-    - name: Lukas Krenz
+    - name: Dr. Ravil Dorozhinskii
+    - name: Dr. Lukas Krenz
+    - name: Dr. Sebastian Wolf
 collaborators:
     - name: Prof. Dr. Martin Mai
       link: https://www.kaust.edu.sa/en/study/faculty/paul-martin-mai
