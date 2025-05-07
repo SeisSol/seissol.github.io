@@ -10,7 +10,7 @@ menu:
 
 - **[ChEESE-2P](https://cheese-coe.eu/)** (2023-2026; Centre of Excellence for Exascale computing in the domain of Solid Earth - EuroHPC JU). 
 - **TEAR: Truely Extended Earthquake Rupture** (ERC Starting Grant 2019 to Alice-Agnes Gabriel)
-- **[targetDART] (https://targetdart.github.io/)** (2022-2025; BMBF SCALEXA)
+- **[targetDART](https://targetdart.github.io/)** (2022-2025; BMBF SCALEXA)
 
 ### Selected Past Projects
 
