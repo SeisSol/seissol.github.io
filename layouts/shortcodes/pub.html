@@ -1,0 +1,7 @@
+{{ range $.Site.Data.bib }}
+    {{ range .references }}
+        {{ if .id | eq ($.Get 0) }}
+            {{ partial "publong.html" . }}
+        {{ end }}
+    {{ end }}
+{{ end }}
