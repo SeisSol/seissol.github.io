@@ -7,7 +7,7 @@
             {{ $data := newScratch }}
             {{ $data.Set "year" "0" }}
             {{ range .references }}
-                {{ $year := index (index .issued 0) "year" }}
+                {{ $year := .year }}
                 {{ if ne $year ($data.Get "year") }}
                     </ul>
                     <h3 class="subtitle">{{ $year }}</h3>
