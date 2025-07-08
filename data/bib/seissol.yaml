@@ -1,33 +1,337 @@
 references:
-- doi: 10.1029/2021JB023382
-  url: https://doi.org/10.1029/2021JB023382
+- abstract: "With the rise of data volume and computing power, seismological research\
+    \ requires more advanced skills in data processing, numerical methods, and parallel\
+    \ computing. We present the experience of conducting training workshops in various\
+    \ forms of delivery to support the adoption of large\u2010scale high\u2010performance\
+    \ computing (HPC) and cloud computing, advancing seismological research. The seismological\
+    \ foci were on earthquake source parameter estimation in catalogs, forward and\
+    \ adjoint wavefield simulations in 2D and 3D at local, regional, and global scales,\
+    \ earthquake dynamics, ambient noise seismology, and machine learning. This contribution\
+    \ describes the series of workshops delivered as part of research projects, the\
+    \ learning outcomes for participants, and lessons learned by the instructors.\
+    \ Our curriculum was grounded on open and reproducible science, large\u2010scale\
+    \ scientific computing and data mining, and computing infrastructure (access and\
+    \ usage) for HPC and the cloud. We also describe the types of teaching materials\
+    \ that have proven beneficial to the instruction and the sustainability of the\
+    \ program. We propose guidelines to deliver future workshops on these topics."
   author:
-  - {family: Madden, given: Elizabeth H.}
-  - {family: Ulrich, given: Thomas}
-  - {family: Gabriel, given: Alice-Agnes}
-  container-title: JGR Solid Earth
-  id: Madden2022
-  issued: 2022
-  page: 'e2021JB023382'
-  title: "The State of Pore Fluid Pressure and 3-D Megathrust Earthquake Dynamics"
+  - family: Denolle
+    given: Marine A.
+  - family: Tape
+    given: Carl
+  - family: "Bozda\u011F"
+    given: Ebru
+  - family: Wang
+    given: Yinzhi
+  - family: Waldhauser
+    given: Felix
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Braunmiller
+    given: Jochen
+  - family: Chow
+    given: Bryant
+  - family: Ding
+    given: Liang
+  - family: Feng
+    given: "Kuan\u2010Fu"
+  - family: Ghosh
+    given: Ayon
+  - family: Groebner
+    given: Nathan
+  - family: Gupta
+    given: Aakash
+  - family: Krauss
+    given: Zoe
+  - family: McPherson
+    given: Amanda M.
+  - family: Nagaso
+    given: Masaru
+  - family: Niu
+    given: Zihua
+  - family: Ni
+    given: Yiyu
+  - family: "\xD6rsvuran"
+    given: "R\u0131dvan"
+  - family: Pavlis
+    given: Gary
+  - family: "Rodriguez\u2010Cardozo"
+    given: Felix
+  - family: Sawi
+    given: Theresa
+  - family: Schaff
+    given: David
+  - family: Schliwa
+    given: Nico
+  - family: Schneller
+    given: David
+  - family: Shi
+    given: Qibin
+  - family: Thurin
+    given: Julien
+  - family: Wang
+    given: Chenxiao
+  - family: Wang
+    given: Kaiwen
+  - family: Wong
+    given: Jeremy Wing Ching
+  - family: Wolf
+    given: Sebastian
+  - family: Yuan
+    given: Congcong
+  container-title: Seismological Research Letters
+  doi: 10.1785/0220240413
+  id: Denolle2025
+  issn: 0895-0695
+  issued: 2025-06
+  title: "Training the Next Generation of Seismologists: Delivering Research\u2010\
+    Grade Software Education for Cloud and HPC Computing Through Diverse Training\
+    \ Modalities"
+  title-short: Training the Next Generation of Seismologists
   type: article-journal
-  volume: '127'
-  issue: '4'
-  year: 2022
-- doi: 10.1038/s41561-021-00863-5
-  url: https://www.nature.com/articles/s41561-021-00863-5
+  url: https://doi.org/10.1785/0220240413
+  year: 2025
+- abstract: "Numerical simulations of earthquakes and seismic wave propagation require\
+    \ accurate material models of the solid Earth. In contrast to purely elastic rheology,\
+    \ poroelasticity accounts for pore fluid pressure and fluid flow in porous media.\
+    \ Poroelastic effects can alter both the seismic wave field and the dynamic rupture\
+    \ characteristics of earthquakes. For example, the presence of fluids may affect\
+    \ cascading multifault ruptures, potentially leading to larger-than-expected earthquakes.\
+    \ However, incorporating poroelastic coupling into the elastodynamic wave equations\_\
+    increases the computational complexity of numerical simulations compared to elastic\
+    \ or viscoelastic material models, as the underlying partial differential equations\_\
+    become stiff. In this study, we use a Discontinuous Galerkin solver with Arbitrary\
+    \ High-Order DERivative time stepping of the poroelastic wave equations\_implemented\
+    \ in the open-source software SeisSol to simulate 3-D complex seismic wave propagation\
+    \ and 3-D dynamic rupture in poroelastic media. We verify our approach for double-couple\
+    \ point sources using independent methods including a semi-analytical solution\
+    \ and a finite-difference scheme and a homogeneous full-space and a poroelastic\
+    \ layer-over-half-space model, respectively. In a realistic carbon capture and\
+    \ storage reservoir scenario at the Sleipner site in the Utsira Formation, Norway,\
+    \ we model 3-D wave propagation through poroelastic sandstone layers separated\
+    \ by impermeable shale. Our results show a sudden change in the pressure field\
+    \ across material interfaces, which manifests as a discontinuity when viewed at\
+    \ the length scale of the dominant wavelengths of S or fast P waves. Accurately\
+    \ resolving the resulting steep pressure gradient dramatically increases the computational\
+    \ demands, requiring high-resolution modelling. We show that the Gassmann elastic\
+    \ equivalent model yields almost identical results to the fully poroelastic model\
+    \ when focusing solely on solid particle velocities. We extend this approach using\
+    \ suitable numerical fluxes to 3-D dynamic rupture simulations in complex fault\
+    \ systems, presenting the first 3-D scenarios that combine poroelastic media with\
+    \ geometrically complex, multifault rupture dynamics and tetrahedral meshes. Our\
+    \ findings reveal that, in contrast to modelling wave propagation only, poroelastic\
+    \ materials significantly alter rupture characteristics compared to using elastic\
+    \ equivalent media since the elastic equivalent fails to capture the evolution\
+    \ of pore pressure. Particularly in fault branching scenarios, the Biot coefficient\
+    \ plays a key role in either promoting or inhibiting fault activation. In some\
+    \ cases, ruptures are diverted to secondary faults, while in others, poroelastic\
+    \ effects induce rupture arrest. In a fault zone dynamic rupture model, we find\
+    \ poroelasticity aiding pulse-like rupture. A healing front is induced by the\
+    \ reduced pore pressure due to reflected waves from the boundaries of the poroelastic\
+    \ damage zone. Our results highlight that poroelastic effects are important for\
+    \ realistic simulations of seismic waves and earthquake rupture dynamics. In particular,\
+    \ our poroelastic simulations may offer new insights on the complexity of multifault\
+    \ rupture dynamics, fault-to-fault interaction and seismic wave propagation in\
+    \ realistic models of the Earth's subsurface."
   author:
-  - {family: Ulrich, given: Thomas}
-  - {family: Gabriel, given: Alice-Agnes}
-  - {family: Madden, given: Elizabeth H.}
+  - family: Wolf
+    given: Sebastian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Galis
+    given: Martin
+  - family: Moczo
+    given: Peter
+  - family: Gregor
+    given: David
+  - family: Bader
+    given: Michael
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggaf184
+  id: Wolf2025
+  issn: 1365-246X
+  issue: 2
+  issued: 2025-05
+  page: ggaf184
+  title: Three-dimensional wave propagation and earthquake dynamic rupture simulations
+    in complex poroelastic media
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggaf184
+  volume: 242
+  year: 2025
+- abstract: Abstract The nonlinear mechanical responses of rocks and soils to seismic
+    waves play an important role in earthquake physics, influencing ground motion
+    from source to site. Continuous geophysical monitoring, such as ambient noise
+    interferometry, has revealed co-seismic wave speed reductions extending tens of
+    kilometers from earthquake sources. However, the mechanisms governing these changes
+    remain challenging to model, especially at regional scales. Using a nonlinear
+    damage model constrained by laboratory experiments, we develop and apply an open-source
+    3D discontinuous Galerkin method to simulate regional co-seismic wave speed changes
+    during the 2015 Mw 7.8 Gorkha earthquake. We find pronounced spatial variations
+    of co-seismic wave speed reduction, ranging from \<0.01% to \>50%, particularly
+    close to the source and within the Kathmandu Basin, while disagreement with observations
+    remains. The most significant reduction occurs within the sedimentary basin and
+    varies with basin depths, whereas wave speed reductions correlate with the fault
+    slip distribution near the source. By comparing ground motions from simulations
+    with elastic, viscoelastic, elastoplastic, and nonlinear damage rheologies, we
+    demonstrate that the nonlinear damage model effectively captures low-frequency
+    ground motion amplification due to strain-dependent wave speed reductions in soft
+    sediments. We verify the accuracy of our approach through comparisons with analytical
+    solutions and assess its scalability on high-performance computing systems. The
+    model shows near-linear strong and weak scaling up to 2,048 nodes, enabling efficient
+    large-scale simulations. Our findings provide a physics-based framework to quantify
+    nonlinear earthquake effects and emphasize the importance of damage-induced wave
+    speed variations for seismic hazard assessment and ground motion predictions.
+  author:
+  - family: Niu
+    given: Zihua
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Wolf
+    given: Sebastian
+  - family: Ulrich
+    given: Thomas
+  - family: Lyakhovsky
+    given: Vladimir
+  - family: Igel
+    given: Heiner
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2025JB031378
+  id: Niu2025
+  issue: 7
+  issued: 2025
+  keyword: nonlinear models, numerical algorithm, wave propagation, co-seismic wave
+    speed changes, ground motion, supercomputing
+  note: e2025JB031378 2025JB031378
+  page: e2025JB031378
+  title: 'A Discontinuous Galerkin Method for Simulating 3D Seismic Wave Propagation
+    in Nonlinear Rock Models: Verification and Application to the Mw 7.8 2015 Gorkha,
+    Nepal Earthquake'
+  title-short: A Discontinuous Galerkin Method for Simulating 3D Seismic Wave Propagation
+    in Nonlinear Rock Models
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB031378
+  volume: 130
+  year: 2025
+- abstract: 'Bayesian inference enables greater scientific insight into simulation
+    models, determining model parameters and meaningful confidence regions from observed
+    data. With hierarchical methods like Multilevel Delayed Acceptance (MLDA) drastically
+    reducing compute cost, sampling Bayesian posteriors for computationally intensive
+    models becomes increasingly feasible. Pushing MLDA towards the strong scaling
+    regime (i.e. high compute resources, short time-to-solution) remains a challenge:
+    Even though MLDA only requires a moderate number of high-accuracy simulation runs,
+    it inherits the sequential chain structure and need for chain burn-in from Markov
+    chain Monte Carlo (MCMC).We present fully asynchronous parallel prefetching for
+    MLDA, adding an axis of scalability complementary to forward model parallelization
+    and parallel chains. A thorough scaling analysis demonstrates that prefetching
+    is advantageous in strong scaling scenarios. We investigate the behavior of prefetching
+    MLDA in small-scale test problems. A large-scale geophysics application, namely
+    parameter identification for non-linear earthquake modelling, highlights interaction
+    with coarse-level quality and model scalability.'
+  author:
+  - family: Kruse
+    given: Maximilian
+  - family: Niu
+    given: Zihua
+  - family: Wolf
+    given: Sebastian
+  - family: Lykkegaard
+    given: Mikkel
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Seelinger
+    given: Linus
+  collection-title: PASC '25
+  container-title: Proceedings of the Platform for Advanced Scientific Computing Conference
+  doi: 10.1145/3732775.3733581
+  id: Kruse2025
+  isbn: 9798400718861
+  issued: 2025
+  keyword: uncertainty quantification, bayesian inference, high performance computing,
+    parallelization, geophysics, earthquake modeling
+  page: 1-13
+  publisher: Association for Computing Machinery
+  publisher-place: New York, NY, USA
+  title: Scalable Bayesian Inference of Large Simulations via Asynchronous Prefetching
+    Multilevel Delayed Acceptance
+  type: paper-conference
+  url: https://doi.org/10.1145/3732775.3733581
+  year: 2025
+- abstract: Summary This study shows how GPU performance of the ADER discontinuous
+    Galerkin method in SeisSol (an earthquake simulation software) can be further
+    improved while preserving its original design that ensures high CPU performance.
+    We introduce a new code generator ("ChainForge") that fuses subsequent batched
+    matrix multiplications ("GEMMs") into a single GPU kernel, holding intermediate
+    results in shared memory as long as necessary. The generator operates as an external
+    module linked against SeisSol's domain specific language YATeTo and, as a result,
+    the original SeisSol source code remains mainly unchanged. In this paper, we discuss
+    several challenges related to automatic fusion of GPU kernels and provide solutions
+    to them. By and large, we gain \$\$ `\approx `{=latex}\$\$60% in performance of
+    SeisSol's wave propagation solver using Fused-GEMMs compared to the original GPU
+    implementation. We demonstrated this on benchmarks as well as on a real production
+    scenario simulating the Northridge 1994 earthquake.
+  author:
+  - family: Dorozhinskii
+    given: Ravil
+  - family: Gadeschi
+    given: Gonzalo Brito
+  - family: Bader
+    given: Michael
+  container-title: 'Concurrency and Computation: Practice and Experience'
+  doi: https://doi.org/10.1002/cpe.8037
+  id: Dorozhinskii2024
+  issue: 12
+  issued: 2024
+  keyword: ADER-DG, code generation, discontinuous Galerkin, earthquake simulation,
+    fusion, GEMM, GPU, SeisSol
+  page: e8037
+  title: Fused GEMMs towards an efficient GPU implementation of the ADER-DG method
+    in SeisSol
+  type: article-journal
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.8037
+  volume: 36
+  year: 2024
+- abstract: Megathrust faults host the largest earthquakes on Earth, which can trigger
+    cascading hazards such as devastating tsunamis. Determining characteristics that
+    control subduction-zone earthquake and tsunami dynamics is critical to mitigate
+    megathrust hazards but is impeded by structural complexity, large spatio-temporal
+    scales and scarce or asymmetric instrumental coverage. Here we use high-performance
+    computing multi-physics simulations to show that tsunami genesis and earthquake
+    dynamics are controlled by along-arc variability in regional tectonic stresses
+    together with depth-dependent variations in rigidity and yield strength of near-fault
+    sediments. We aim to identify dominant regional factors controlling megathrust
+    hazards. To this end, we demonstrate how to unify and verify the required initial
+    conditions for geometrically complex, multi-physics earthquake--tsunami modelling
+    from interdisciplinary geophysical observations. We present large-scale computational
+    models of the 2004 Sumatra--Andaman earthquake and Indian Ocean tsunami that reconcile
+    near- and far-field seismic, geodetic, geological, and tsunami observations and
+    reveal tsunamigenic trade-offs between slip to the trench, splay faulting and
+    bulk yielding of the accretionary wedge. Our computational capabilities render
+    possible the incorporation of present and emerging high-resolution observations
+    into dynamic-rupture-tsunami models and will be applicable to other large megathrust
+    earthquakes. Our findings highlight the importance of regional-scale structural
+    heterogeneity to decipher megathrust hazards.
+  author:
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Madden
+    given: Elizabeth H.
   container-title: Nature Geoscience
+  doi: 10.1038/s41561-021-00863-5
   id: Ulrich2022
-  issued: 2022
-  page: '67-73'
-  title: "Stress, Rigidity and Sediment Strength Control Megathrust Earthquake and Tsunami Dynamics"
+  issn: 1752-0908
+  issue: 1
+  issued: 2022-01-01
+  page: 67-73
+  title: Stress, rigidity and sediment strength control megathrust earthquake and
+    tsunami dynamics
   type: article-journal
-  volume: '15'
-  issue: '1'
+  url: https://doi.org/10.1038/s41561-021-00863-5
+  volume: 15
   year: 2022
 - author:
   - family: Wolf
@@ -52,8 +356,110 @@ references:
   title: An efficient ADER-DG local time stepping scheme for 3D HPC simulation of
     seismic waves in poroelastic media
   type: article-journal
-  url: https://arxiv.org/abs/2108.10565
   volume: 455
+  year: 2022
+- abstract: Many applications from the fields of seismology and geoengineering require
+    simulations of seismic waves in porous media. Biot's theory of poroelasticity
+    describes the coupling between solid and fluid phases and introduces a stiff reactive
+    source term (Darcy's Law) into the elastodynamic wave equations, thereby increasing
+    computational cost of respective numerical solvers and motivating efficient methods
+    utilising High-Performance Computing. We present a novel realisation of the discontinuous
+    Galerkin scheme with Arbitrary High-Order DERivative time stepping (ADER-DG) that
+    copes with stiff source terms. To integrate this source term with a reasonable
+    time step size, we utilise an element-local space-time predictor, which needs
+    to solve medium-sized linear systems -- each with 1,000 to 10,000 unknowns --
+    in each element update (i.e., billions of times). We present a novel block-wise
+    back-substitution algorithm for solving these systems efficiently, thus enabling
+    large-scale 3D simulations. In comparison to LU decomposition, we reduce the number
+    of floating-point operations by a factor of up to 25, when using polynomials of
+    degree 6. The block-wise back-substitution is mapped to a sequence of small matrix-matrix
+    multiplications, for which code generators are available to generate highly optimised
+    code. We verify the new solver thoroughly against analytical and semi-analytical
+    reference solutions in problems of increasing complexity. We demonstrate high-order
+    convergence of the scheme for 3D problems. We verify the correct treatment of
+    point sources and boundary conditions, including homogeneous and heterogeneous
+    full space problems as well as problems with traction-free boundary conditions.
+    In addition, we compare against a finite difference solution for a newly defined
+    3D layer over half-space problem containing an internal material interface and
+    free surface. We find that extremely high accuracy is required to accurately resolve
+    the slow, diffusive P-wave at a or near a free surface, while we also demonstrate
+    that solid particle velocities are not affected by coarser resolutions. We demonstrate
+    that by using a clustered local time stepping scheme, time to solution is reduced
+    by a factor of 6 to 10 compared to global time stepping. We conclude our study
+    with a scaling and performance analysis on the SuperMUC-NG supercomputer, demonstrating
+    our implementation's high computational efficiency and its potential for extreme-scale
+    simulations.
+  author:
+  - family: Wolf
+    given: Sebastian
+  - family: Galis
+    given: Martin
+  - family: Uphoff
+    given: Carsten
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Moczo
+    given: Peter
+  - family: Gregor
+    given: David
+  - family: Bader
+    given: Michael
+  container-title: Journal of Computational Physics
+  doi: https://doi.org/10.1016/j.jcp.2021.110886
+  id: Wolf2022
+  issn: 0021-9991
+  issued: 2022
+  keyword: Poroelasticity, Discontinuous Galerkin, Wave propagation, High Performance
+    Computing (HPC), Computational seismology, ADER-DG
+  page: 110886
+  title: An efficient ADER-DG local time stepping scheme for 3D HPC simulation of
+    seismic waves in poroelastic media
+  type: article-journal
+  url: https://www.sciencedirect.com/science/article/pii/S0021999121007816
+  volume: 455
+  year: 2022
+- abstract: "Abstract We study the effects of pore fluid pressure (Pf) on the pre-earthquake,\
+    \ near-fault stress state, and 3-D earthquake rupture dynamics through six scenarios\
+    \ utilizing a structural model based on the 2004 Mw 9.1 Sumatra-Andaman earthquake.\
+    \ As pre-earthquake Pf magnitude increases, effective normal stress and fault\
+    \ shear strength decrease. As a result, magnitude, slip, peak slip rate, stress\
+    \ drop, and rupture velocity of the scenario earthquakes decrease. Comparison\
+    \ of results with observations of the 2004 earthquake support that pre-earthquake\
+    \ Pf averages near 97% of lithostatic pressure, leading to pre-earthquake average\
+    \ shear and effective normal tractions of 4--5 and 22\_MPa. The megathrust in\
+    \ these scenarios is weak, in terms of low mean shear traction at static failure\
+    \ and low dynamic friction coefficient during rupture. Apparent co-seismic principal\
+    \ stress rotations and absolute post-seismic stresses in these scenarios are consistent\
+    \ with the variety of observed aftershock focal mechanisms. In all scenarios,\
+    \ the mean apparent stress rotations are larger above than below the megathrust.\
+    \ Scenarios with larger Pf magnitudes exhibit lower mean apparent principal stress\
+    \ rotations. We further evaluate pre-earthquake Pf depth distribution. If Pf follows\
+    \ a sublithostatic gradient, pre-earthquake effective normal stress increases\
+    \ with depth. If Pf follows the lithostatic gradient exactly, then this normal\
+    \ stress is constant, shifting peak slip and peak slip rate updip. This renders\
+    \ constraints on near-trench strength and constitutive behavior crucial for mitigating\
+    \ hazard. These scenarios provide opportunity for future calibration with site-specific\
+    \ measurements to constrain dynamically plausible megathrust strength and Pf gradients."
+  author:
+  - family: Madden
+    given: Elizabeth H.
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2021JB023382
+  id: Madden2022
+  issue: 4
+  issued: 2022
+  keyword: earthquake, hazard, pore fluid pressure, high-performance computing, mechanics,
+    dynamics
+  note: e2021JB023382 2021JB023382
+  page: e2021JB023382
+  title: The State of Pore Fluid Pressure and 3-D Megathrust Earthquake Dynamics
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JB023382
+  volume: 127
   year: 2022
 - author:
   - family: Krenz
@@ -73,7 +479,7 @@ references:
   container-title: Proceedings of the International Conference for High Performance
     Computing, Networking, Storage and Analysis
   doi: 10.1145/3458817.3476173
-  id: 10.1145/3458817.3476173
+  id: seissol-sc21
   issued: 2021-11
   publisher: Association for Computing Machinery
   title: '3D acoustic-elastic coupling with gravity: the dynamics of the 2018 Palu,
@@ -82,6 +488,88 @@ references:
   type: paper-conference
   url: https://dl.acm.org/doi/10.1145/3458817.3476173
   year: 2021
+- abstract: The numerical solution of partial differential equations is at the heart
+    of many grand challenges in supercomputing. Solvers based on high-order discontinuous
+    Galerkin (DG) discretisation have been shown to scale on large supercomputers
+    with excellent performance and efficiency if the implementation exploits all levels
+    of parallelism and is tailored to the specific architecture. However, every year
+    new supercomputers emerge and the list of hardware-specific considerations grows
+    simultaneously with the list of desired features in a DG code. Thus, we believe
+    that a sustainable DG code needs an abstraction layer to implement the numerical
+    scheme in a suitable language. We explore the possibility to abstract the numerical
+    scheme as small tensor operations, describe them in a domain-specific language
+    (DSL) resembling the Einstein notation, and to map them to small General Matrix-Matrix
+    Multiplication routines. The compiler for our DSL implements classic optimisations
+    that are used for large tensor contractions, and we present novel optimisation
+    techniques such as equivalent sparsity patterns and optimal index permutations
+    for temporary tensors. Our application examples, which include the earthquake
+    simulation software SeisSol, show that the generated kernels achieve over 50%
+    peak performance of a recent 48-core Skylake system while the DSL considerably
+    simplifies the implementation.
+  author:
+  - family: Uphoff
+    given: Carsten
+  - family: Bader
+    given: Michael
+  container-title: ACM Trans. Math. Softw.
+  doi: 10.1145/3406835
+  id: Uphoff2020
+  issn: 0098-3500
+  issue: 4
+  issued: 2020-10
+  keyword: ADER-DG, Tensor operations, finite element method, high-performance computing
+  publisher: Association for Computing Machinery
+  publisher-place: New York, NY, USA
+  title: Yet Another Tensor Toolbox for Discontinuous Galerkin Methods and Other Applications
+  type: article-journal
+  url: https://doi.org/10.1145/3406835
+  volume: 46
+  year: 2020
+- abstract: We present an extension of the earthquake simulation software SeisSol
+    to support seismic wave propagation in fully triclinic anisotropic materials.
+    To our best knowledge, SeisSol is one of the few open-source codes that offer
+    this feature for simulations at petascale performance and beyond. We employ a
+    Discontinuous Galerkin (DG) method with arbitrary high-order derivative (ADER)
+    time stepping. Here, we present a novel implementation of fully physical anisotropy
+    with a two-sided Godunov flux and local time stepping. We validate our implementation
+    on various benchmarks and present convergence analysis with respect to analytic
+    solutions. An application example of seismic waves scattering around the Zugspitze
+    in the Bavarian Alps demonstrates the capabilities of our implementation to solve
+    geophysics problems fast.
+  author:
+  - family: Wolf
+    given: Sebastian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bader
+    given: Michael
+  container-title: Computational Science -- ICCS 2020
+  doi: 10.1007/978-3-030-50420-5_3
+  editor:
+  - family: Krzhizhanovskaya
+    given: Valeria V.
+  - family: "Z\xE1vodszky"
+    given: "G\xE1bor"
+  - family: Lees
+    given: Michael H.
+  - family: Dongarra
+    given: Jack J.
+  - family: Sloot
+    given: Peter M. A.
+  - family: Brissos
+    given: "S\xE9rgio"
+  - family: Teixeira
+    given: "Jo\xE3o"
+  id: Wolf2020
+  isbn: 978-3-030-50420-5
+  issued: 2020
+  page: 32-45
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  title: Optimization and Local Time Stepping of an ADER-DG Scheme for Fully Anisotropic
+    Wave Propagation in Complex Geometries
+  type: paper-conference
+  year: 2020
 - abstract: "We present a dynamic rupture model of the 2016 Mw 7.8 Kaik\u014Dura earthquake\
     \ to unravel the event's riddles in a physics-based manner and provide insight\
     \ on the mechanical viability of competing hypotheses proposed to explain them.\
@@ -153,7 +641,7 @@ references:
     given: Carsten
   container-title: Geophysical Journal International
   doi: 10.1093/gji/ggy213
-  id: 10.1093/gji/ggy213
+  id: Wollherr2018
   issn: 0956-540X
   issue: 3
   issued: 2018-05
@@ -164,6 +652,93 @@ references:
   type: article-journal
   url: https://doi.org/10.1093/gji/ggy213
   volume: 214
+  year: 2018
+- abstract: "We describe a set of benchmark exercises that are designed to test if\
+    \ computer codes that simulate dynamic earthquake rupture are working as intended.\
+    \ These types of computer codes are often used to understand how earthquakes operate,\
+    \ and they produce simulation results that include earthquake size, amounts of\
+    \ fault slip, and the patterns of ground shaking and crustal deformation. The\
+    \ benchmark exercises examine a range of features that scientists incorporate\
+    \ in their dynamic earthquake rupture simulations. These include implementations\
+    \ of simple or complex fault geometry, off\u2010fault rock response to an earthquake,\
+    \ stress conditions, and a variety of formulations for fault friction. Many of\
+    \ the benchmarks were designed to investigate scientific problems at the forefronts\
+    \ of earthquake physics and strong ground motions research. The exercises are\
+    \ freely available on our website for use by the scientific community."
+  author:
+  - family: Harris
+    given: Ruth A.
+  - family: Barall
+    given: Michael
+  - family: Aagaard
+    given: Brad
+  - family: Ma
+    given: Shuo
+  - family: Roten
+    given: Daniel
+  - family: Olsen
+    given: Kim
+  - family: Duan
+    given: Benchun
+  - family: Liu
+    given: Dunyu
+  - family: Luo
+    given: Bin
+  - family: Bai
+    given: Kangchen
+  - family: Ampuero
+    given: "Jean\u2010Paul"
+  - family: Kaneko
+    given: Yoshihiro
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Duru
+    given: Kenneth
+  - family: Ulrich
+    given: Thomas
+  - family: Wollherr
+    given: Stephanie
+  - family: Shi
+    given: Zheqiang
+  - family: Dunham
+    given: Eric
+  - family: Bydlon
+    given: Sam
+  - family: Zhang
+    given: Zhenguo
+  - family: Chen
+    given: Xiaofei
+  - family: Somala
+    given: Surendra Nadh
+  - family: Pelties
+    given: Christian
+  - family: Tago
+    given: "Josu\xE9"
+  - family: "Cruz\u2010Atienza"
+    given: Victor Manuel
+  - family: Kozdon
+    given: Jeremy
+  - family: Daub
+    given: Eric
+  - family: Aslam
+    given: Khurram
+  - family: Kase
+    given: Yuko
+  - family: Withers
+    given: Kyle
+  - family: Dalguer
+    given: Luis
+  container-title: Seismological Research Letters
+  doi: 10.1785/0220170222
+  id: Harris2018
+  issn: 0895-0695
+  issue: 3
+  issued: 2018-04
+  page: 1146-1162
+  title: A Suite of Exercises for Verifying Dynamic Earthquake Rupture Codes
+  type: article-journal
+  url: https://doi.org/10.1785/0220170222
+  volume: 89
   year: 2018
 - abstract: Abstract:Function-on-scalar regression models feature a function over
     some domain as the response while the regressors are scalars. Collections of time
@@ -227,7 +802,7 @@ references:
   container-title: Proceedings of the International Conference for High Performance
     Computing, Networking, Storage and Analysis
   doi: 10.1145/3126908.3126948
-  id: 10.1145/3126908.3126948
+  id: seissol-sc17
   isbn: 9781450351140
   issued: 2017
   keyword: dynamic rupture, tsunami coupling, asynchronous output, petascale performance,
@@ -239,6 +814,79 @@ references:
   type: paper-conference
   url: https://doi.org/10.1145/3126908.3126948
   year: 2017
+- author:
+  - family: Uphoff
+    given: Carsten
+  - family: Bader
+    given: Michael
+  container-title: 2016 International Conference on High Performance Computing & Simulation
+    (HPCS)
+  doi: 10.1109/HPCSim.2016.7568431
+  id: Uphoff2016
+  issued: 2016
+  keyword: Mathematical model;Sparse matrices;Computational modeling;Seismic waves;Numerical
+    models;Stress;Attenuation
+  page: 908-916
+  title: Generating high performance matrix kernels for earthquake simulations with
+    viscoelastic attenuation
+  type: paper-conference
+  year: 2016
+- abstract: We present ASAGI, an open-source library with a simple interface to access
+    Cartesian material and geographic datasets in massively parallel simulations with
+    dynamically adaptive mesh refinement (AMR). ASAGI distributes geographic datasets
+    over all compute nodes storing only a portion of the dataset on each node. An
+    automatic replication mechanism copies the data between nodes to assure fast local
+    access even after load migration in the application. We demonstrate ASAGI's preparedness
+    for up-to-petascale simulations in three use cases. We simulate a Tsunami on 512
+    cores and a porous media flow on up to 8,192 cores of SuperMUC with the AMR framework
+    sam(oa)2. We also run an earthquake simulation with SeiSol on 65,536 cores. For
+    all applications, ASAGI provides large complex 3D material datasets required for
+    the realistic scenarios. The NUMA-awareness of ASAGI turned out to be especially
+    useful for the hybrid MPI+OpenMP parallelization of both codes.
+  author:
+  - family: Rettenberger
+    given: Sebastian
+  - family: Meister
+    given: Oliver
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  collection-title: EASC '16
+  container-title: Proceedings of the Exascale Applications and Software Conference
+    2016
+  doi: 10.1145/2938615.2938618
+  id: Rettenberger2016
+  isbn: 9781450341226
+  issued: 2016
+  keyword: Adaptive mesh refinement, Geoinformation, Large scale applications, Realistic
+    simulations
+  publisher: Association for Computing Machinery
+  publisher-place: New York, NY, USA
+  title: 'ASAGI: A Parallel Server for Adaptive Geoinformation'
+  title-short: ASAGI
+  type: paper-conference
+  url: https://doi.org/10.1145/2938615.2938618
+  year: 2016
+- author:
+  - family: Breuer
+    given: Alexander
+  - family: Heinecke
+    given: Alexander
+  - family: Bader
+    given: Michael
+  container-title: 2016 IEEE International Parallel and Distributed Processing Symposium
+    (IPDPS)
+  doi: 10.1109/IPDPS.2016.109
+  id: Breuer2016
+  issued: 2016
+  keyword: Kernel;Finite element analysis;Computational modeling;Numerical models;Supercomputers;Jacobian
+    matrices;Earthquakes;FEM;ADER-DG;local time stepping;parallel alogithms;high-performance
+    computing;hardware-aware algorithms
+  page: 854-863
+  title: Petascale Local Time Stepping for the ADER-DG Finite Element Method
+  type: paper-conference
+  year: 2016
 - abstract: "We present an end-to-end optimization of the innovative Arbitrary high-order\
     \ DERivative Discontinuous Galerkin (ADER-DG) software SeisSol targeting Intel\xAE\
     \ Xeon Phi coprocessor platforms, achieving unprecedented earthquake model complexity\
@@ -275,7 +923,7 @@ references:
   container-title: 'SC ''14: Proceedings of the International Conference for High
     Performance Computing, Networking, Storage and Analysis'
   doi: 10.1109/SC.2014.6
-  id: 10.1109/SC.2014.6
+  id: seissol-sc14
   isbn: 9,78148E+12
   issued: 2014-11
   keyword: Gordon Bell Prize Finalist
@@ -289,3 +937,384 @@ references:
   type: paper-conference
   url: https://ieeexplore.ieee.org/document/7012188
   year: 2014
+- author:
+  - family: Pelties
+    given: C.
+  - family: Gabriel
+    given: A.-A.
+  - family: Ampuero
+    given: J.-P.
+  container-title: Geoscientific Model Development
+  doi: 10.5194/gmd-7-847-2014
+  id: Pelties2014
+  issue: 3
+  issued: 2014
+  page: 847-866
+  title: Verification of an ADER-DG method for complex dynamic rupture problems
+  type: article-journal
+  url: https://gmd.copernicus.org/articles/7/847/2014/
+  volume: 7
+  year: 2014
+- abstract: Accurate and efficient numerical methods to simulate dynamic earthquake
+    rupture and wave propagation in complex media and complex fault geometries are
+    needed to address fundamental questions in earthquake dynamics, to integrate seismic
+    and geodetic data into emerging approaches for dynamic source inversion, and to
+    generate realistic physics-based earthquake scenarios for hazard assessment. Modeling
+    of spontaneous earthquake rupture and seismic wave propagation by a high-order
+    discontinuous Galerkin (DG) method combined with an arbitrarily high-order derivatives
+    (ADER) time integration method was introduced in two dimensions by de la Puente
+    et al. (2009). The ADER-DG method enables high accuracy in space and time and
+    discretization by unstructured meshes. Here we extend this method to three-dimensional
+    dynamic rupture problems. The high geometrical flexibility provided by the usage
+    of tetrahedral elements and the lack of spurious mesh reflections in the ADER-DG
+    method allows the refinement of the mesh close to the fault to model the rupture
+    dynamics adequately while concentrating computational resources only where needed.
+    Moreover, ADER-DG does not generate spurious high-frequency perturbations on the
+    fault and hence does not require artificial Kelvin-Voigt damping. We verify our
+    three-dimensional implementation by comparing results of the SCEC TPV3 test problem
+    with two well-established numerical methods, finite differences, and spectral
+    boundary integral. Furthermore, a convergence study is presented to demonstrate
+    the systematic consistency of the method. To illustrate the capabilities of the
+    high-order accurate ADER-DG scheme on unstructured meshes, we simulate an earthquake
+    scenario, inspired by the 1992 Landers earthquake, that includes curved faults,
+    fault branches, and surface topography.
+  author:
+  - family: Pelties
+    given: Christian
+  - dropping-particle: de la
+    family: Puente
+    given: Josep
+  - family: Ampuero
+    given: Jean-Paul
+  - family: Brietzke
+    given: Gilbert B.
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2011JB008857
+  id: Pelties2012
+  issue: B2
+  issued: 2012
+  keyword: computational seismology, dynamic rupture, earthquake physics, strong ground
+    motion
+  title: Three-dimensional dynamic rupture simulation with a high-order discontinuous
+    Galerkin method on unstructured tetrahedral meshes
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011JB008857
+  volume: 117
+  year: 2012
+- abstract: We introduce the application of an arbitrary high-order derivative (ADER)
+    discontinuous Galerkin (DG) method to simulate earthquake rupture dynamics. The
+    ADER-DG method uses triangles as computational cells which simplifies the process
+    of discretization of very complex surfaces and volumes by using external automated
+    tools. Discontinuous Galerkin methods are well suited for solving dynamic rupture
+    problems in the velocity-stress formulation as the variables are naturally discontinuous
+    at the interface between two elements. Therefore, the fault has to be honored
+    by the computational mesh. The so-called Riemann problem can be solved to obtain
+    well defined values of the variables at the discontinuity itself. Fault geometries
+    of high complexity can be modeled thanks to the flexibility of unstructured meshes,
+    which solves a major bottleneck of other high-order numerical methods. Additionally,
+    element refinement and coarsening are easily controlled in the meshing process
+    to better resolve the near-fault area of the model. The fundamental properties
+    of the method are shown, as well as a series of validating exercises with reference
+    solutions and a comparison with the well-established finite difference, boundary
+    integral, and spectral element methods, in order to test the accuracy of our formulation.
+    An example of dynamic rupture on a nonplanar fault based upon the Landers 1992
+    earthquake fault system is presented to illustrate the main potentials of the
+    new method.
+  author:
+  - dropping-particle: de la
+    family: Puente
+    given: J.
+  - family: Ampuero
+    given: J.-P.
+  - family: "K\xE4ser"
+    given: M.
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2008JB006271
+  id: delaPuente2009
+  issue: B10
+  issued: 2009
+  keyword: fault, rupture, modeling
+  title: Dynamic rupture modeling on unstructured meshes using a discontinuous Galerkin
+    method
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008JB006271
+  volume: 114
+  year: 2009
+- abstract: We present a quantitative accuracy analysis of the Discontinuous Galerkin
+    Finite-Element method for the simulation of seismic wave propagation on tetrahedral
+    meshes. Several parameters are responsible for the accuracy of results, such as
+    the chosen approximation order, the spatial discretization, that is, number of
+    elements per wavelength, and the propagation distance of the waves due to numerical
+    dispersion and dissipation. As error norm we choose the time--frequency representation
+    of the envelope and phase misfit of seismograms to assess the accuracy of the
+    resulting seismograms since this provides the time evolution of the spectral content
+    and allows for the clear separation of amplitude and phase errors obtained by
+    the numerical method. Our results can be directly used to set up the necessary
+    modelling parameters for practical applications, such as the minimum approximation
+    order for a given mesh spacing to reach a desired accuracy. Finally, we apply
+    our results to the well-acknowledged LOH.1 and LOH.3 problems of the SPICE Code
+    Validation project, including heterogeneous material and the free surface boundary
+    condition, and compare our solutions with those of other methods. In general,
+    we want to stress the increasing importance of certain standard procedures to
+    facilitate future code validations and comparisons of results in the community
+    of numerical seismology.
+  author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Hermann
+    given: Verena
+  - family: Puente
+    given: Josep de la
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2008.03781.x
+  id: "K\xE4ser2008"
+  issn: 0956-540X
+  issue: 3
+  issued: 2008-06
+  page: 990-999
+  title: Quantitative accuracy analysis of the discontinuous Galerkin method for seismic
+    wave propagation
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2008.03781.x
+  volume: 173
+  year: 2008
+- abstract: We have developed a new numerical method to solve the heterogeneous poroelastic
+    wave equations in bounded three-dimensional domains. This method is a discontinuous
+    Galerkin method that achieves arbitrary high-order accuracy on unstructured tetrahedral
+    meshes for the low-frequency range and the inviscid case. By using Biot's equations
+    and Darcy's dynamic laws, we have built a scheme that can successfully model wave
+    propagation in fluid-saturated porous media when anisotropy of the pore structure
+    is allowed. Zero-inflow fluxes are used as absorbing boundary conditions. A continuous
+    arbitrary high-order derivatives time integration is used for the high-frequency
+    inviscid case, whereas a space-time discontinuous scheme is applied for the low-frequency
+    case. We conducted a numerical convergence test of the proposed methods. We used
+    a series of examples to quantify the quality of our numerical results, comparing
+    them to analytic solutions as well as numerical solutions obtained by other methodologies.
+    In particular, a large scale 3D reservoir model showed the method's suitability
+    to solve poroelastic wave-propagation problems for complex geometries using unstructured
+    tetrahedral meshes. The resulting method is proved to be high-order accurate in
+    space and time, stable for the low-frequency case, and asymptotically consistent
+    with the diffusion limit.
+  author:
+  - dropping-particle: de la
+    family: Puente
+    given: Josep
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Igel
+    given: Heiner
+  container-title: GEOPHYSICS
+  doi: 10.1190/1.2965027
+  id: delaPuente2008
+  issue: 5
+  issued: 2008
+  page: T77-T97
+  title: Discontinuous Galerkin methods for wave propagation in poroelastic media
+  type: article-journal
+  url: ' https://doi.org/10.1190/1.2965027 '
+  volume: 73
+  year: 2008
+- abstract: We present a new numerical method to solve the heterogeneous elastic anisotropic
+    wave equation with arbitrary high-order accuracy in space and time on unstructured
+    tetrahedral meshes. Using the most general Hooke's tensor we derive the velocity-stress
+    formulation leading to a linear hyperbolic system which accounts for the variation
+    of the material properties depending on direction. This approach allows for the
+    accurate modelling even of the most general crystalline symmetry class, the triclinic
+    anisotropy, as no interpolation of material properties to particular mesh vertices
+    is necessary. The proposed method combines the Discontinuous Galerkin method with
+    the arbitrary high-order derivatives (ADER) time integration approach using arbitrary
+    high-order derivatives of the piecewise polynomial representation of the unknown
+    solution. The discontinuities of this piecewise polynomial approximation at element
+    interfaces permit the application of the well-established theory of finite volumes
+    and numerical fluxes across element interfaces obtained by the solution of derivative
+    Riemann problems. Due to the novel ADER time integration technique the scheme
+    provides the same approximation order in space and time automatically. A numerical
+    convergence study confirms that the new scheme achieves the desired arbitrary
+    high-order accuracy even for anisotropic material on unstructured tetrahedral
+    meshes. Furthermore, it shows that higher accuracy can be reached with higher-order
+    schemes while reducing computational cost and storage space. To this end, we also
+    present a new Godunov-type numerical flux for anisotropic material and compare
+    its accuracy with a computationally simpler Rusanov flux. As a further extension,
+    we include the coupling of anisotropy and viscoelastic attenuation based on the
+    Generalized Maxwell Body rheology and the mean and deviatoric stress concepts.
+    Finally, we validate the new scheme by comparing the results of our simulations
+    to an analytic solution as well as to spectral element computations.
+  author:
+  - dropping-particle: de la
+    family: Puente
+    given: Josep
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Dumbser
+    given: Michael
+  - family: Igel
+    given: Heiner
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2007.03381.x
+  id: delaPuente2007
+  issn: 0956-540X
+  issue: 3
+  issued: 2007-06
+  page: 1210-1228
+  title: An arbitrary high-order discontinuous Galerkin method for elastic waves on
+    unstructured meshes - IV. Anisotropy
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2007.03381.x
+  volume: 169
+  year: 2007
+- abstract: We present a new numerical method to solve the heterogeneous anelastic,
+    seismic wave equations with arbitrary high order accuracy in space and time on
+    3-D unstructured tetrahedral meshes. Using the velocity--stress formulation provides
+    a linear hyperbolic system of equations with source terms that is completed by
+    additional equations for the anelastic functions including the strain history
+    of the material. These additional equations result from the rheological model
+    of the generalized Maxwell body and permit the incorporation of realistic attenuation
+    properties of viscoelastic material accounting for the behaviour of elastic solids
+    and viscous fluids. The proposed method combines the Discontinuous Galerkin (DG)
+    finite element (FE) method with the ADER approach using Arbitrary high order DERivatives
+    for flux calculations. The DG approach, in contrast to classical FE methods, uses
+    a piecewise polynomial approximation of the numerical solution which allows for
+    discontinuities at element interfaces. Therefore, the well-established theory
+    of numerical fluxes across element interfaces obtained by the solution of Riemann
+    problems can be applied as in the finite volume framework. The main idea of the
+    ADER time integration approach is a Taylor expansion in time in which all time
+    derivatives are replaced by space derivatives using the so-called Cauchy---Kovalewski
+    procedure which makes extensive use of the governing PDE. Due to the ADER time
+    integration technique the same approximation order in space and time is achieved
+    automatically and the method is a one-step scheme advancing the solution for one
+    time step without intermediate stages. To this end, we introduce a new unrolled
+    recursive algorithm for efficiently computing the Cauchy--Kovalewski procedure
+    by making use of the sparsity of the system matrices. The numerical convergence
+    analysis demonstrates that the new schemes provide very high order accuracy even
+    on unstructured tetrahedral meshes while computational cost and storage space
+    for a desired accuracy can be reduced when applying higher degree approximation
+    polynomials. In addition, we investigate the increase in computing time, when
+    the number of relaxation mechanisms due to the generalized Maxwell body are increased.
+    An application to a well-acknowledged test case and comparisons with analytic
+    and reference solutions, obtained by different well-established numerical methods,
+    confirm the performance of the proposed method. Therefore, the development of
+    the highly accurate ADER---DG approach for tetrahedral meshes including viscoelastic
+    material provides a novel, flexible and efficient numerical technique to approach
+    3-D wave propagation problems including realistic attenuation and complex geometry.
+  author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Dumbser
+    given: Michael
+  - family: De La Puente
+    given: Josep
+  - family: Igel
+    given: Heiner
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2006.03193.x
+  id: "K\xE4ser2007"
+  issn: 0956-540X
+  issue: 1
+  issued: 2007-01
+  page: 224-242
+  title: An arbitrary high-order Discontinuous Galerkin method for elastic waves on
+    unstructured meshes --- III. Viscoelastic attenuation
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2006.03193.x
+  volume: 168
+  year: 2007
+- abstract: We present a new numerical method to solve the heterogeneous elastic wave
+    equations formulated as a linear hyperbolic system using first-order derivatives
+    with arbitrary high-order accuracy in space and time on 3-D unstructured tetrahedral
+    meshes. The method combines the Discontinuous Galerkin (DG) Finite Element (FE)
+    method with the ADER approach using Arbitrary high-order DERivatives for flux
+    calculation. In the DG framework, in contrast to classical FE methods, the numerical
+    solution is approximated by piecewise polynomials which allow for discontinuities
+    at element interfaces. Therefore, the well-established theory of numerical fluxes
+    across element interfaces obtained by the solution of Riemann-Problems can be
+    applied as in the finite volume framework. To define a suitable flux over the
+    element surfaces, we solve so-called Generalized Riemann-Problems (GRP) at the
+    element interfaces. The GRP solution provides simultaneously a numerical flux
+    function as well as a time-integration method. The main idea is a Taylor expansion
+    in time in which all time-derivatives are replaced by space derivatives using
+    the so-called Cauchy--Kovalewski or Lax--Wendroff procedure which makes extensive
+    use of the governing PDE. The numerical solution can thus be advanced for one
+    time step without intermediate stages as typical, for example, for classical Runge--Kutta
+    time stepping schemes. Due to the ADER time-integration technique, the same approximation
+    order in space and time is achieved automatically. Furthermore, the projection
+    of the tetrahedral elements in physical space on to a canonical reference tetrahedron
+    allows for an efficient implementation, as many computations of 3-D integrals
+    can be carried out analytically beforehand. Based on a numerical convergence analysis,
+    we demonstrate that the new schemes provide very high order accuracy even on unstructured
+    tetrahedral meshes and computational cost and storage space for a desired accuracy
+    can be reduced by higher-order schemes. Moreover, due to the choice of the basis
+    functions for the piecewise polynomial approximation, the new ADER--DG method
+    shows spectral convergence on tetrahedral meshes. An application of the new method
+    to a well-acknowledged test case and comparisons with analytical and reference
+    solutions, obtained by different well-established methods, confirm the performance
+    of the proposed method. Therefore, the development of the highly accurate ADER--DG
+    approach for tetrahedral meshes provides a numerical technique to approach 3-D
+    wave propagation problems in complex geometry with unforeseen accuracy.
+  author:
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2006.03120.x
+  id: "K\xE4ser2006-2"
+  issn: 0956-540X
+  issue: 1
+  issued: 2006-10
+  page: 319-336
+  title: An arbitrary high-order discontinuous Galerkin method for elastic waves on
+    unstructured meshes --- II. The three-dimensional isotropic case
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2006.03120.x
+  volume: 167
+  year: 2006
+- abstract: We present a new numerical approach to solve the elastic wave equation
+    in heterogeneous media in the presence of externally given source terms with arbitrary
+    high-order accuracy in space and time on unstructured triangular meshes. We combine
+    a discontinuous Galerkin (DG) method with the ideas of the ADER time integration
+    approach using Arbitrary high-order DERivatives. The time integration is performed
+    via the so-called Cauchy-Kovalewski procedure using repeatedly the governing partial
+    differential equation itself. In contrast to classical finite element methods
+    we allow for discontinuities of the piecewise polynomial approximation of the
+    solution at element interfaces. This way, we can use the well-established theory
+    of fluxes across element interfaces based on the solution of Riemann problems
+    as developed in the finite volume framework. In particular, we replace time derivatives
+    in the Taylor expansion of the time integration procedure by space derivatives
+    to obtain a numerical scheme of the same high order in space and time using only
+    one single explicit step to evolve the solution from one time level to another.
+    The method is specially suited for linear hyperbolic systems such as the heterogeneous
+    elastic wave equations and allows an efficient implementation. We consider continuous
+    sources in space and time and point sources characterized by a Delta distribution
+    in space and some continuous source time function. Hereby, the method is able
+    to deal with point sources at any position in the computational domain that does
+    not necessarily need to coincide with a mesh point. Interpolation is automatically
+    performed by evaluation of test functions at the source locations. The convergence
+    analysis demonstrates that very high accuracy is retained even on strongly irregular
+    meshes and by increasing the order of the ADER--DG schemes computational time
+    and storage space can be reduced remarkably. Applications of the proposed method
+    to Lamb's Problem, a problem of strong material heterogeneities and to an example
+    of global seismic wave propagation finally confirm its accuracy, robustness and
+    high flexibility.
+  author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Dumbser
+    given: Michael
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2006.03051.x
+  id: "K\xE4ser2006-1"
+  issn: 0956-540X
+  issue: 2
+  issued: 2006-08
+  page: 855-877
+  title: An arbitrary high-order discontinuous Galerkin method for elastic waves on
+    unstructured meshes --- I. The two-dimensional isotropic case with external source
+    terms
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2006.03051.x
+  volume: 166
+  year: 2006
