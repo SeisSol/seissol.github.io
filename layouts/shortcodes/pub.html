@@ -5,3 +5,10 @@
         {{ end }}
     {{ end }}
 {{ end }}
+{{ range $.Site.Data.bibprivate }}
+    {{ range .references }}
+        {{ if .id | eq ($.Get 0) }}
+            {{ partial "publong.html" . }}
+        {{ end }}
+    {{ end }}
+{{ end }}

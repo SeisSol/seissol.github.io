@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
 import yaml
+import sys
 
-name = 'seissol.yaml'
+name = sys.argv[1]
 
 bib = dict()
 with open(name, 'r') as f:

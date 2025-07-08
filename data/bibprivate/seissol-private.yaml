@@ -1,0 +1,43 @@
+references:
+- author:
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Kurapati
+    given: Vikas
+  - family: Niu
+    given: Zihua
+  - family: Schliwa
+    given: Nico
+  - family: Schneller
+    given: David
+  - family: Ulrich
+    given: Thomas
+  - family: Dorozhinskii
+    given: Ravil
+  - family: Krenz
+    given: Lukas
+  - family: Uphoff
+    given: Carsten
+  - family: Wolf
+    given: Sebastian
+  - family: Breuer
+    given: Alexander
+  - family: Heinecke
+    given: Alexander
+  - family: Pelties
+    given: Christian
+  - family: Rettenberger
+    given: Sebastian
+  - family: Wollherr
+    given: Stephanie
+  - family: Bader
+    given: Michael
+  doi: 10.5281/zenodo.15685917
+  id: gabriel_2025_15685917
+  issued: 2025-06
+  publisher: Zenodo
+  title: SeisSol
+  type: software
+  url: https://doi.org/10.5281/zenodo.15685917
+  version: v1.3.2
+  year: 2025
