@@ -91,6 +91,60 @@ references:
   type: article-journal
   url: https://doi.org/10.1785/0220240413
   year: 2025
+- abstract: "Fault zones exhibit geometrical complexity and are often surrounded by\
+    \ multiscale fracture networks within their damage zones, potentially influencing\
+    \ rupture dynamics and near\u2010field ground motions. In this study, we investigate\
+    \ the ground\u2010motion characteristics of cascading ruptures across damage zone\
+    \ fracture networks of moderate\u2010size earthquakes (Mw\_5.5--6.0) using high\u2010\
+    resolution 3D dynamic rupture simulations. Our models feature a listric normal\
+    \ fault surrounded by more than 800 fractures, emulating a major fault and its\
+    \ associated damage zone. We analyze three cases: a cascading rupture propagating\
+    \ within the fracture network (Mw\_5.5), a non\u2010cascading main\u2010fault\
+    \ rupture with off\u2010fault fracture slip (Mw\_6.0), and a main\u2010fault rupture\
+    \ without a fracture network (Mw\_6.0). Cascading ruptures within the fracture\
+    \ network produce distinct ground\u2010motion signatures with enriched high\u2010\
+    frequency content, arising from simultaneous slip of multiple fractures and parts\
+    \ of the main fault, resembling source coda\u2010wave\u2010like signatures. This\
+    \ case shows elevated near\u2010field characteristic frequency (fc) and stress\
+    \ drop, approximately an order of magnitude higher than the estimation directly\
+    \ on the fault of the dynamic rupture simulation. The inferred fc of the modeled\
+    \ vertical ground\u2010motion components reflects the complexity of the radiation\
+    \ pattern and rupture directivity of fracture\u2010network cascading earthquakes.\
+    \ We show that this is consistent with observations of strong azimuthal dependence\
+    \ of corner frequency in the 2009--2016 central Apennines, Italy, earthquake,\
+    \ sequence. Simulated ground motions from fracture\u2010network cascading ruptures\
+    \ also show pronounced azimuthal variations in peak ground acceleration (PGA),\
+    \ peak ground velocity, and pseudospectral acceleration, with average PGA nearly\
+    \ double that of the non\u2010cascading cases. Cascading ruptures radiate high\u2010\
+    frequency seismic energy, yield nontypical ground\u2010motion characteristics\
+    \ including coda\u2010wave\u2010like signatures, and may result in a significantly\
+    \ higher seismologically inferred stress drop and PGA. Such outcomes emphasize\
+    \ the critical role of fault\u2010zone complexity in affecting rupture dynamics\
+    \ and seismic radiation and have important implications for physics\u2010based\
+    \ seismic hazard assessment."
+  author:
+  - family: Palgunadi
+    given: Kadek Hendrawan
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Garagash
+    given: Dmitry Igor
+  - family: Ulrich
+    given: Thomas
+  - family: Schliwa
+    given: Nico
+  - family: Mai
+    given: P. Martin
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120240281
+  id: Pagulnadi2025
+  issn: 0037-1106
+  issued: 2025-06
+  title: "Ground\u2010Motion Characteristics of Cascading Earthquakes in a Multiscale\
+    \ Fracture Network"
+  type: article-journal
+  url: https://doi.org/10.1785/0120240281
+  year: 2025
 - abstract: "Numerical simulations of earthquakes and seismic wave propagation require\
     \ accurate material models of the solid Earth. In contrast to purely elastic rheology,\
     \ poroelasticity accounts for pore fluid pressure and fluid flow in porous media.\
@@ -158,6 +212,55 @@ references:
   type: article-journal
   url: https://doi.org/10.1093/gji/ggaf184
   volume: 242
+  year: 2025
+- abstract: "Elastodynamic Green's functions are an essential ingredient in\nseismology\
+    \ as they form the connection between direct observations\nof seismic waves and\
+    \ the earthquake source. They are also\nfundamental to various seismological techniques\
+    \ including\nphysics-based ground motion prediction and kinematic or dynamic\n\
+    source inversions. In regions with established 3-D models of the\nEarth's elastic\
+    \ structure, such as southern California, 3-D Green's\nfunctions can be computed\
+    \ using numerical simulations of seismic\nwave propagation. However, such simulations\
+    \ are computationally\nexpensive, which poses challenges for real-time ground\
+    \ motion\nprediction and uncertainty quantification in source inversions. In\n\
+    this study, we address these challenges by using a reduced-order\nmodel (ROM)\
+    \ approach that enables the rapid evaluation of\napproximate Green's functions.\
+    \ The ROM technique developed\napproximates three-component time-dependent surface\
+    \ velocity\nwavefields obtained from numerical simulations of seismic wave\npropagation.\
+    \ We apply our ROM approach to a 50\_km \\$\\\ntimes\\$ 40\_km area in greater\
+    \ Los Angeles accounting for topography,\nsite effects, 3-D subsurface velocity\
+    \ structure, and viscoelastic\nattenuation. The ROM constructed for this region\
+    \ enables rapid\ncomputation (\\$\\\napprox 0.0001\\$ CPU hr) of complete, high-resolution\
+    \ (500\_m\nspacing), 0.5\_Hz surface velocity wavefields that are accurate for\
+    \ a\nshortest wavelength of 1.0\_km for a single elementary moment tensor\nsource.\
+    \ Using leave-one-out cross validation, we measure the\naccuracy of our Green's\
+    \ functions for the CVM-S velocity model in\nboth the time domain and frequency\
+    \ domain. Averaged across all\nsources, receivers, and time steps, the error in\
+    \ the rapid\nseismograms is less than 0.01\_cm s\u22121. We demonstrate that the\
+    \ ROM\ncan accurately and rapidly reproduce simulated seismograms for\ngeneralized\
+    \ moment tensor sources in our region, as well as\nkinematic sources by using\
+    \ a finite fault model of the 1987 \\$M\\_\\\nmathrm{ W}\\$ 5.9 Whittier Narrows\
+    \ earthquake as an example. We\nenvision that rapid, accurate Green's functions\
+    \ from reduced-order\nmodelling for complex 3-D seismic wave propagation simulations\
+    \ will\nbe useful for constructing real-time ground motion synthetics and\nsource\
+    \ inversions with high spatial resolution.\n"
+  author:
+  - family: Rekoske
+    given: John M
+  - family: May
+    given: Dave A
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggaf049
+  id: Rekoske2025
+  issn: 1365-246X
+  issue: 1
+  issued: 2025-02
+  page: 526-548
+  title: Reduced-order modelling for complex three-dimensional seismic wave propagation
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggaf049
+  volume: 241
   year: 2025
 - abstract: Abstract The nonlinear mechanical responses of rocks and soils to seismic
     waves play an important role in earthquake physics, influencing ground motion
@@ -259,6 +362,188 @@ references:
   type: paper-conference
   url: https://doi.org/10.1145/3732775.3733581
   year: 2025
+- abstract: "Abstract Seismic faults are surrounded by damaged rocks with reduced\
+    \ rigidity and enhanced attenuation. These damaged fault zone structures can amplify\
+    \ seismic waves and affect earthquake dynamics, yet they are typically omitted\
+    \ in physics-based regional ground motion simulations. We report on the significant\
+    \ effects of a shallow, flower-shaped fault zone in foreshock-mainshock 3D dynamic\
+    \ rupture models of the 2019 Ridgecrest earthquake sequence. We find that the\
+    \ fault zone structure both amplifies and reduces ground motions not only locally\
+    \ but at distances exceeding 100\_km. This impact on ground motions is frequency-\
+    \ and magnitude-dependent, particularly affecting higher frequency ground motions\
+    \ from the foreshock because its corner frequency is closer to the fault zone's\
+    \ fundamental eigenfrequency. Within the fault zone, the shallow transition to\
+    \ a velocity-strengthening frictional regime leads to a depth-dependent peak slip\
+    \ rate increase of up to 70% and confines fault zone-induced supershear transitions\
+    \ mostly to the fault zone's velocity-weakening roots. However, the interplay\
+    \ of fault zone waves, free surface reflections, and rupture directivity can generate\
+    \ localized supershear rupture, even in narrow velocity-strengthening regions,\
+    \ which are typically thought to inhibit supershear rupture. This study demonstrates\
+    \ that shallow fault zone structures may significantly affect intermediate- and\
+    \ far-field ground motions and cause localized supershear rupture penetrating\
+    \ into velocity-strengthening regions, with important implications for seismic\
+    \ hazard assessment."
+  author:
+  - family: Schliwa
+    given: Nico
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ben-Zion
+    given: Yehuda
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2025JB031194
+  id: Schliwa2025
+  issue: 6
+  issued: 2025
+  note: e2025JB031194 2025JB031194
+  page: e2025JB031194
+  title: Shallow Fault Zone Structure Affects Rupture Dynamics and Ground Motions
+    of the 2019 Ridgecrest Sequence to Regional Distances
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JB031194
+  volume: 130
+  year: 2025
+- abstract: "Abstract Understanding the dynamics of microearthquakes is a timely challenge\
+    \ with the potential to address current paradoxes in earthquake mechanics, and\
+    \ to better understand earthquake ruptures induced by fluid injection. We perform\
+    \ fully 3D dynamic rupture simulations caused by fluid injection on a target fault\
+    \ for Fault Activation and Earthquake Ruptures experiments generating Mw\_\u2264\
+    \_1 earthquakes. We investigate the dynamics of rupture propagation with spatially\
+    \ variable stress drop caused by pore pressure changes and assuming different\
+    \ slip-weakening constitutive parameters. We show that the spontaneous arrest\
+    \ of propagating ruptures is possible by assuming a high fault strength parameter\
+    \ S, that is, a high ratio between strength excess and dynamic stress drop. In\
+    \ faults with high S values (low rupturing potential), even minor variations in\
+    \ Dc (from 0.45 to 0.6\_mm) have a substantial effect on the rupture propagation\
+    \ and the ultimate earthquake size. Modest spatial variations of dynamic stress\
+    \ drop determine the rupture mode, distinguishing self-arresting from run-away\
+    \ ruptures. Our results suggest that several characteristics inferred for accelerating\
+    \ dynamic ruptures differ from those observed during rupture deceleration of a\
+    \ self-arresting earthquake. During deceleration, a decrease of peak slip velocity\
+    \ is associated with a nearly constant cohesive zone size. Moreover, the residual\
+    \ slip velocity value (asymptotic value for a crack-like rupture) decreases to\
+    \ nearly zero. This means that an initially crack-like rupture becomes a pulse-like\
+    \ rupture during spontaneous arrest. These findings highlight the complex dynamics\
+    \ of small induced earthquakes, which differ from solutions obtained from conventional\
+    \ crack-like models of earthquake rupture."
+  author:
+  - family: Mosconi
+    given: Francesco
+  - family: Tinti
+    given: Elisa
+  - family: Casarotti
+    given: Emanuele
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Rinaldi
+    given: Antonio Pio
+  - family: Dal Zilio
+    given: Luca
+  - family: Cocco
+    given: Massimo
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2024JB029621
+  id: Mosconi2025
+  issue: 3
+  issued: 2025
+  keyword: induced earthquake, self-arresting rupture, runaway rupture, pore pressure
+    changes, dynamic rupture propagation
+  note: e2024JB029621 2024JB029621
+  page: e2024JB029621
+  title: Modeling the 3D Dynamic Rupture of Microearthquakes Induced by Fluid Injection
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029621
+  volume: 130
+  year: 2025
+- abstract: Near-field earthquake ground motions characterized by strong velocity
+    pulses can cause extensive damage to buildings and structures. Such pulses were
+    identified during the Mw 7.8 and Mw 7.5 earthquake doublet of the 2023 Turkey
+    seismic sequence, potentially contributing to the extensive damage it caused.
+    Therefore, a better understanding and characterization of pulse properties (e.g.
+    period and amplitude) and their underlying physical factors are crucial for earthquake-resistant
+    design. In this study, we characterize the velocity pulses reported in observed
+    records and synthetic waveforms generated by a three-dimensional (3D) dynamic
+    rupture simulation of the Mw 7.8 event. We observed significant variability in
+    the pulse properties of the observed records in near-fault regions, particularly
+    regarding their orientations. This variability was not fully captured by the dynamic
+    rupture simulation. Our results indicate that directivity effects are not the
+    only factors influencing pulse characteristics in this earthquake doublet. While
+    site effects (e.g. basin effects) may influence pulse characteristics at some
+    stations, local heterogeneities in slip amplitude, orientations, and fault geometries
+    can be critical in generating or influencing pulse properties in this earthquake
+    doublet.
+  author:
+  - family: Yen
+    given: Ming-Hsuan
+  - family: "T\xFCrker"
+    given: Elif
+  - family: Ulrich
+    given: Thomas
+  - family: Marchandon
+    given: Mathilde
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Cotton
+    given: Fabrice
+  container-title: Earthquake Spectra
+  doi: 10.1177/87552930241305012
+  id: Yen2025
+  issue: 2
+  issued: 2025
+  page: 1669-1688
+  title: An analysis of directivity pulses using empirical data and dynamic rupture
+    simulations of the 2023 Kahramanmaras earthquake doublet
+  type: article-journal
+  url: ' https://doi.org/10.1177/87552930241305012 '
+  volume: 41
+  year: 2025
+- abstract: "Seismic arrays constrain local wave propagation that can be used to infer\
+    \ earthquake source characteristics. Array processing is routinely used to infer\
+    \ detailed earthquake properties of intermediate and large events. However, the\
+    \ source properties of microseismicity often remain elusive. In this study, we\
+    \ use high signal\u2010to\u2010noise ratio seismograms of 204 ML\_0.0--1.8 earthquakes\
+    \ induced by the 6\_km deep 2018 Espoo/Helsinki geothermal stimulation to evaluate\
+    \ the performance and capabilities of beamforming and backprojection array methods.\
+    \ Using accurate travel\u2010time\u2010based event locations as a reference, we\
+    \ first show that miniarray beamforming is sensitive to medium heterogeneities\
+    \ and requires calibration to mitigate local systematic slowness biases. A catalog\u2010\
+    based calibration significantly improves our multiarray beam raytracing estimates\
+    \ of source locations. Second, the application of the backprojection technique\
+    \ using P\u2010wave signals with sufficient azimuthal coverage yields hypocenter\
+    \ estimates with generally good horizontal but poor vertical resolution. The short\
+    \ local source--receiver distances result in incomplete separation of P\u2010\
+    \ and S\u2010wave arrivals during backprojection. Numerical tests show that the\
+    \ relatively large S\u2010wave amplitudes can influence coherent P\u2010wave stacks,\
+    \ resulting in large location errors. Our combined P\u2010 and S\u2010wave backprojection\
+    \ approach mitigates the influence of the large S\u2010wave amplitude and improves\
+    \ the depth resolution significantly. The average depth offset to the reference\
+    \ catalog locations reduces from \u22651.4\_km to \u223C91\_m. Third, 3D numerical\
+    \ simulations demonstrate that backprojection swimming patterns are not merely\
+    \ processing or configuration artifacts. We show that the swimming patterns correlate\
+    \ with and can resolve the source focal mechanism when the azimuthal wavefield\
+    \ sampling is sufficiently complete. Our work demonstrates that the backprojection\
+    \ techniques can help to better constrain important properties of local\u2010\
+    scale microseismicity."
+  author:
+  - family: Li
+    given: Bo
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Hillers
+    given: Gregor
+  container-title: Seismological Research Letters
+  doi: 10.1785/0220240122
+  id: LiBo2024
+  issn: 0895-0695
+  issue: 1
+  issued: 2024-09
+  page: 111-129
+  title: "Source Properties of the Induced ML\_0.0--1.8 Earthquakes from Local Beamforming\
+    \ and Backprojection in the Helsinki Area, Southern Finland"
+  type: article-journal
+  url: https://doi.org/10.1785/0220240122
+  volume: 96
+  year: 2024
 - abstract: Summary This study shows how GPU performance of the ADER discontinuous
     Galerkin method in SeisSol (an earthquake simulation software) can be further
     improved while preserving its original design that ensures high CPU performance.
@@ -293,6 +578,989 @@ references:
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.8037
   volume: 36
   year: 2024
+- abstract: Earthquakes vary in size over many orders of magnitude, often rupturing
+    in complex multifault and multievent sequences. Despite the large number of observed
+    earthquakes, the scaling of the earthquake energy budget remains enigmatic. We
+    propose that fundamentally different fracture processes govern small and large
+    earthquakes. We combined seismological observations with physics-based earthquake
+    models, finding that both dynamic weakening and restrengthening effects are non-negligible
+    in the energy budget of small earthquakes. We established a linear scaling relationship
+    between fracture energy and fault size and a break in scaling with slip. We applied
+    this scaling using supercomputing and unveiled large dynamic rupture earthquake
+    cascades involving &gt;700 multiscale fractures within a fault damage zone. We
+    provide a simple explanation for seismicity across all scales with implications
+    for comprehending earthquake genesis and multifault rupture cascades. Earthquakes
+    vary in size, with the largest and most complex also being the most dangerous.
+    The challenge is trying to figure out whether the information gleaned from smaller
+    events can simply be scaled up to understand larger events. Gabriel et al. combined
+    seismic observations with physics-based earthquake models to determine the differences.
+    Their results outline conditions for when multiple-fault, complex ruptures occur
+    and show that fundamentally different fracture processes govern both large and
+    small earthquakes. ---Brent Grocholski
+  author:
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Garagash
+    given: Dmitry I.
+  - family: Palgunadi
+    given: Kadek H.
+  - family: Mai
+    given: P. Martin
+  container-title: Science
+  doi: 10.1126/science.adj9587
+  id: Gabriel2024
+  issue: 6707
+  issued: 2024
+  page: eadj9587
+  title: Fault size--dependent fracture energy explains multiscale seismicity and
+    cascading earthquakes
+  type: article-journal
+  url: https://www.science.org/doi/abs/10.1126/science.adj9587
+  volume: 385
+  year: 2024
+- abstract: Abstract The Mediterranean Hellenic Arc subduction zone (HASZ) has generated
+    several \$`\mathrm{M}`{=latex}\_W`\ge `{=latex}\$8 earthquakes and tsunamis. Seismic-probabilistic
+    tsunami hazard assessment typically utilizes uniform or stochastic earthquake
+    models, which may not represent dynamic rupture and tsunami generation complexity.
+    We present an ensemble of ten 3D dynamic rupture earthquake scenarios for the
+    HASZ, utilizing a realistic slab geometry. Our simplest models use uniform along-arc
+    pre-stresses or a single circular initial stress asperity. We then introduce progressively
+    more complex models varying initial shear stress along-arc, multiple asperities
+    based on scale-dependent critical slip weakening distance, and a most complex
+    model blending all aforementioned heterogeneities. Thereby, regional initial conditions
+    are constrained without relying on detailed geodetic locking models. Varying epicentral
+    locations in the simplest, homogeneous model leads to different rupture speeds
+    and moment magnitudes. We observe dynamic fault slip penetrating the shallow slip-strengthening
+    region and affecting seafloor uplift. Off-fault plastic deformation can double
+    vertical seafloor uplift. A single-asperity model generates a \$`\mathrm{M}`{=latex}\_W\~\$8
+    scenario resembling the 1303 Crete earthquake. Using along-strike varying initial
+    stresses results in \$`\mathrm{M}`{=latex}\_W\~\$8.0--8.5 dynamic rupture scenarios
+    with diverse slip rates and uplift patterns. The model with the most heterogeneous
+    initial conditions yields a \$`\mathrm{M}`{=latex}\_W\~\$7.5 scenario. Dynamic
+    rupture complexity in prestress and fracture energy tends to lower earthquake
+    magnitude but enhances tsunamigenic displacements. Our results offer insights
+    into the dynamics of potential large Hellenic Arc megathrust earthquakes and may
+    inform future physics-based joint seismic and tsunami hazard assessments.
+  author:
+  - family: Wirp
+    given: Sara Aniko
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: Lorito
+    given: Stefano
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2024JB029320
+  id: Wirp2024
+  issue: 11
+  issued: 2024
+  note: e2024JB029320 2024JB029320
+  page: e2024JB029320
+  title: Dynamic Rupture Modeling of Large Earthquake Scenarios at the Hellenic Arc
+    Toward Physics-Based Seismic and Tsunami Hazard Assessment
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB029320
+  volume: 129
+  year: 2024
+- abstract: Abstract Despite routine detection of coseismic acoustic-gravity waves
+    (AGWs) in Global Navigation Satellite System (GNSS) total electron content (TEC)
+    observations, models of the earthquake-atmosphere-ionosphere dynamics, essential
+    for validating data-driven studies, remain limited. We present the results of
+    three-dimensional numerical simulations encompassing the entire coupling from
+    Earth's interior to the ionosphere during the \$M\_w\$ 7.8 2016 Kaikoura earthquake.
+    Incorporating the impact of data/model uncertainties in estimating the ionospheric
+    state, the results show a good agreement between observed and simulated slant
+    TEC (sTEC) signals, assessed through a set of metrics. The signals exhibit intricate
+    waveforms, resulting from the integrated nature of TEC and phase cancellation
+    effects, emphasizing the significance of direct signal comparisons along realistic
+    line-of-sight paths. By comparing simulation results initialized with kinematic
+    and dynamic source models, the study demonstrates the quantifiable sensitivity
+    of sTEC to AGW source specifications, pointing to their utility in the analysis
+    of coupled dynamics.
+  author:
+  - family: Inchin
+    given: P. A.
+  - family: Kaneko
+    given: Y.
+  - family: Gabriel
+    given: A.-A.
+  - family: Ulrich
+    given: T.
+  - family: Martire
+    given: L.
+  - family: Komjathy
+    given: A.
+  - family: Aguilar Guerrero
+    given: J.
+  - family: Zettergren
+    given: M. D.
+  - family: Snively
+    given: J. B.
+  container-title: Geophysical Research Letters
+  doi: https://doi.org/10.1029/2023GL108068
+  id: Inchin2024
+  issue: 21
+  issued: 2024
+  keyword: acoustic-gravity waves, numerical modeling, total electron content
+  note: e2023GL108068 2023GL108068
+  page: e2023GL108068
+  title: Three-Dimensional Numerical Modeling of Coseismic Atmospheric Dynamics and
+    Ionospheric Responses in Slant Total Electron Content Observations
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL108068
+  volume: 51
+  year: 2024
+- abstract: Abstract Previous geodetic and teleseismic observations of the 2021 \$M\_`\mathrm{w}`{=latex}\$7.4
+    Maduo earthquake imply surprising but difficult-to-constrain complexity, including
+    rupture across multiple fault segments and supershear rupture. Here, we present
+    an integrated analysis of multi-fault 3D dynamic rupture models, high-resolution
+    optical correlation analysis, and joint optical-InSAR slip inversion. Our preferred
+    model, validated by the teleseismic multi-peak moment rate release, includes unilateral
+    eastward double-onset supershear speeds and cascading rupture dynamically triggering
+    two adjacent fault branches. We propose that pronounced along-strike variation
+    in fracture energy, complex fault geometries, and multi-scale variable prestress
+    drives this event's complex rupture dynamics. We illustrate how supershear transition
+    has signatures in modeled and observed off-fault deformation. Our study opens
+    new avenues to combine observations and models to better understand complex earthquake
+    dynamics, including local and potentially repeating supershear episodes across
+    immature faults or under heterogeneous stress and strength conditions, which are
+    potentially not unusual.
+  author:
+  - family: Hayek
+    given: J. N.
+  - family: Marchandon
+    given: M.
+  - family: Li
+    given: D.
+  - family: Pousse-Beltran
+    given: L.
+  - family: Hollingsworth
+    given: J.
+  - family: Li
+    given: T.
+  - family: Gabriel
+    given: A.-A.
+  container-title: Geophysical Research Letters
+  doi: https://doi.org/10.1029/2024GL110128
+  id: Hayek2024
+  issue: 20
+  issued: 2024
+  keyword: dynamic rupture simulations, high-resolution geodetic analysis, fault interaction
+    and segmentation, 2021 Mw7.4 Maduo earthquake, fault geometry and frictional complexity,
+    off-fault damage
+  note: e2024GL110128 2024GL110128
+  page: e2024GL110128
+  title: 'Non-Typical Supershear Rupture: Fault Heterogeneity and Segmentation Govern
+    Unilateral Supershear and Cascading Multi-Fault Rupture in the 2021 \$M\_w\$7.4
+    Maduo Earthquake'
+  title-short: Non-Typical Supershear Rupture
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024GL110128
+  volume: 51
+  year: 2024
+- abstract: Abstract Slow slip events (SSEs) have been observed in spatial and temporal
+    proximity to megathrust earthquakes in various subduction zones, including the
+    2014 Mw 7.3 Guerrero, Mexico earthquake which was preceded by a Mw 7.6 SSE. However,
+    the underlying physics connecting SSEs to earthquakes remains elusive. Here, we
+    link 3D slow-slip cycle models with dynamic rupture simulations across the geometrically
+    complex flat-slab Cocos plate boundary. Our physics-based models reproduce key
+    regional geodetic and teleseismic fault slip observations on timescales from decades
+    to seconds. We find that accelerating SSE fronts transiently increase shear stress
+    at the down-dip end of the seismogenic zone, modulated by the complex geometry
+    beneath the Guerrero segment. The shear stresses cast by the migrating fronts
+    of the 2014 Mw 7.6 SSE are significantly larger than those during the three previous
+    episodic SSEs that occurred along the same portion of the megathrust. We show
+    that the SSE transient stresses are large enough to nucleate earthquake dynamic
+    rupture and affect rupture dynamics. However, additional frictional asperities
+    in the seismogenic part of the megathrust are required to explain the observed
+    complexities in the coseismic energy release and static surface displacements
+    of the Guerrero earthquake. We conclude that it is crucial to jointly analyze
+    the long- and short-term interactions and complexities of SSEs and megathrust
+    earthquakes across several (a)seismic cycles accounting for megathrust geometry.
+    Our study has important implications for identifying earthquake precursors and
+    understanding the link between transient and sudden megathrust faulting processes.
+  author:
+  - family: Li
+    given: Duo
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: AGU Advances
+  doi: https://doi.org/10.1029/2023AV000979
+  id: LiDuo2024
+  issue: 2
+  issued: 2024
+  keyword: megathrust earthquake, slow slip cycles, earthquake initiation, physics-based
+    numerical modeling
+  note: e2023AV000979 2023AV000979
+  page: e2023AV000979
+  title: 'Linking 3D Long-Term Slow-Slip Cycle Models With Rupture Dynamics: The Nucleation
+    of the 2014 Mw 7.3 Guerrero, Mexico Earthquake'
+  title-short: Linking 3D Long-Term Slow-Slip Cycle Models With Rupture Dynamics
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023AV000979
+  volume: 5
+  year: 2024
+- abstract: "Abstract Fault-damage zones comprise multiscale fracture networks that\
+    \ may slip dynamically and interact with the main fault during earthquake rupture.\
+    \ Using 3D dynamic rupture simulations and scale-dependent fracture energy, we\
+    \ examine dynamic interactions of more than 800 intersecting multiscale fractures\
+    \ surrounding a listric fault, emulating a major listric fault and its damage\
+    \ zone. We investigate 10 distinct orientations of maximum horizontal stress,\
+    \ probing the conditions necessary for sustained slip within the fracture network\
+    \ or activating the main fault. Additionally, we assess the feasibility of nucleating\
+    \ dynamic rupture earthquake cascades from a distant fracture and investigate\
+    \ the sensitivity of fracture network cascading rupture to the effective normal\
+    \ stress level. We model either pure cascades or main fault rupture with limited\
+    \ off-fault slip. We find that cascading ruptures within the fracture network\
+    \ are dynamically feasible under certain conditions, including: (a) the fracture\
+    \ energy scales with fracture and fault size, (b) favorable relative pre-stress\
+    \ of fractures within the ambient stress field, and (c) close proximity of fractures.\
+    \ We find that cascading rupture within the fracture network discourages rupture\
+    \ on the main fault. Our simulations suggest that fractures with favorable relative\
+    \ pre-stress, embedded within a fault damage zone, may lead to cascading earthquake\
+    \ rupture that shadows main fault slip. We find that such off-fault events may\
+    \ reach moment magnitudes up to Mw\_\u2248\_5.5, comparable to magnitudes that\
+    \ can be otherwise hosted by the main fault. Our findings offer insights into\
+    \ physical processes governing cascading earthquake dynamic rupture within multiscale\
+    \ fracture networks."
+  author:
+  - family: Palgunadi
+    given: Kadek Hendrawan
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Garagash
+    given: Dmitry Igor
+  - family: Ulrich
+    given: Thomas
+  - family: Mai
+    given: Paul Martin
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2023JB027578
+  id: Palgunadi2024
+  issue: 3
+  issued: 2024
+  keyword: earthquake physics, dynamic rupture, cascading rupture, earthquake simulation,
+    fracture network, damage zone
+  note: e2023JB027578 2023JB027578
+  page: e2023JB027578
+  title: Rupture Dynamics of Cascading Earthquakes in a Multiscale Fracture Network
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JB027578
+  volume: 129
+  year: 2024
+- author:
+  - family: Kutschera
+    given: F.
+  - family: Gabriel
+    given: A.-A.
+  - family: Wirp
+    given: S. A.
+  - family: Li
+    given: B.
+  - family: Ulrich
+    given: T.
+  - family: Abril
+    given: C.
+  - family: "Halld\xF3rsson"
+    given: B.
+  container-title: Solid Earth
+  doi: 10.5194/se-15-251-2024
+  id: Kutschera2024
+  issue: 2
+  issued: 2024
+  page: 251-280
+  title: "Linked and fully coupled 3D earthquake dynamic rupture and tsunami modeling\
+    \ for the H\xFAsav\xEDk--Flatey Fault Zone in North Iceland"
+  type: article-journal
+  url: https://se.copernicus.org/articles/15/251/2024/
+  volume: 15
+  year: 2024
+- abstract: "Dynamic rupture simulations generate synthetic waveforms that account\
+    \ for nonlinear source and path complexity. Here, we analyze millions of spatially\
+    \ dense waveforms from 3D dynamic rupture simulations in a novel way to illuminate\
+    \ the spectral fingerprints of earthquake physics. We define a Brune\u2010type\
+    \ equivalent near\u2010field corner frequency (fc) to analyze the spatial variability\
+    \ of ground\u2010motion spectra and unravel their link to source complexity. We\
+    \ first investigate a simple 3D strike\u2010slip setup, including an asperity\
+    \ and a barrier, and illustrate basic relations between source properties and\
+    \ fc variations. Next, we analyze &gt;13,000,000 synthetic near\u2010field strong\u2010\
+    motion waveforms generated in three high\u2010resolution dynamic rupture simulations\
+    \ of real earthquakes, the 2019 Mw\_7.1 Ridgecrest mainshock, the Mw\_6.4 Searles\
+    \ Valley foreshock, and the 1992 Mw\_7.3 Landers earthquake. All scenarios consider\
+    \ 3D fault geometries, topography, off\u2010fault plasticity, viscoelastic attenuation,\
+    \ and 3D velocity structure and resolve frequencies up to 1--2\_Hz. Our analysis\
+    \ reveals pronounced and localized patterns of elevated fc, specifically in the\
+    \ vertical components. We validate such fc variability with observed near\u2010\
+    fault spectra. Using isochrone analysis, we identify the complex dynamic mechanisms\
+    \ that explain rays of elevated fc and cause unexpectedly impulsive, localized,\
+    \ vertical ground motions. Although the high vertical frequencies are also associated\
+    \ with path effects, rupture directivity, and coalescence of multiple rupture\
+    \ fronts, we show that they are dominantly caused by rake\u2010rotated surface\u2010\
+    breaking rupture fronts that decelerate due to fault heterogeneities or geometric\
+    \ complexity. Our findings highlight the potential of spatially dense ground\u2010\
+    motion observations to further our understanding of earthquake physics directly\
+    \ from near\u2010field data. Observed near\u2010field fc variability may inform\
+    \ on directivity, surface rupture, and slip segmentation. Physics\u2010based models\
+    \ can identify \"what to look for,\" for example, in the potentially vast amount\
+    \ of near\u2010field large array or distributed acoustic sensing data."
+  author:
+  - family: Schliwa
+    given: Nico
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  container-title: Seismological Research Letters
+  doi: 10.1785/0220230225
+  id: Schliwa2023
+  issn: 0895-0695
+  issue: 2A
+  issued: 2023-12
+  page: 900-924
+  title: "Equivalent Near\u2010Field Corner Frequency Analysis of 3D Dynamic Rupture\
+    \ Simulations Reveals Dynamic Source Effects"
+  type: article-journal
+  url: https://doi.org/10.1785/0220230225
+  volume: 95
+  year: 2023
+- abstract: "The 2023 Turkey earthquake sequence involved unexpected ruptures across\
+    \ numerous fault segments. We present 3D dynamic rupture simulations to illuminate\
+    \ the complex dynamics of the earthquake doublet. Our models are constrained by\
+    \ observations available within days of the sequence and deliver timely, mechanically\
+    \ consistent explanations of the unforeseen rupture paths, diverse rupture speeds,\
+    \ multiple slip episodes, heterogeneous fault offsets, locally strong shaking,\
+    \ and fault system interactions. Our simulations link both earthquakes, matching\
+    \ geodetic and seismic observations and reconciling regional seismotectonics,\
+    \ rupture dynamics, and ground motions of a fault system represented by 10 curved\
+    \ dipping segments and embedded in a heterogeneous stress field. The Mw\_7.8 earthquake\
+    \ features delayed backward branching from a steeply branching splay fault, not\
+    \ requiring supershear speeds. The asymmetrical dynamics of the distinct, bilateral\
+    \ Mw\_7.7 earthquake are explained by heterogeneous fault strength, prestress\
+    \ orientation, fracture energy, and static stress changes from the previous earthquake.\
+    \ Our models explain the northward deviation of its eastern rupture and the minimal\
+    \ slip observed on the S\xFCrg\xFC fault. 3D dynamic rupture scenarios can elucidate\
+    \ unexpected observations shortly after major earthquakes, providing timely insights\
+    \ for data\u2010driven analysis and hazard assessment toward a comprehensive,\
+    \ physically consistent understanding of the mechanics of multifault systems."
+  author:
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Ulrich
+    given: Thomas
+  - family: Marchandon
+    given: Mathilde
+  - family: Biemiller
+    given: James
+  - family: Rekoske
+    given: John
+  container-title: The Seismic Record
+  doi: 10.1785/0320230028
+  id: Gabriel2023
+  issn: 2694-4006
+  issue: 4
+  issued: 2023-12
+  page: 342-356
+  title: "3D Dynamic Rupture Modeling of the 6 February 2023, Kahramanmara\u015F,\
+    \ Turkey Mw\_7.8 and 7.7 Earthquake Doublet Using Early Observations"
+  type: article-journal
+  url: https://doi.org/10.1785/0320230028
+  volume: 3
+  year: 2023
+- abstract: "Seismic waves can couple with the atmosphere and generate sound waves.\
+    \ The influence of faulting mechanisms on earthquake sound patterns provides opportunities\
+    \ for earthquake source characterization. Sound radiated from earthquakes can\
+    \ be perceived as disturbing, even at low ground\u2010shaking levels, which can\
+    \ negatively impact the social acceptance of geoengineering applications. Motivated\
+    \ by consistent reports of felt and heard disturbances associated with the weeks\u2010\
+    long stimulation of a 6\u2010km\u2010deep geothermal system in 2018 below the\
+    \ Otaniemi district of Espoo, Helsinki, we conduct fully coupled 3D numerical\
+    \ simulations of wave propagation in the solid Earth and the atmosphere. We assess\
+    \ the sensitivity of the ground shaking and audible noise distributions to the\
+    \ source geometry of the induced earthquakes based on the properties of the largest\
+    \ local magnitude ML\_1.8 event. Utilizing recent computational advances and the\
+    \ open\u2010source software SeisSol, we model seismoacoustic frequencies up to\
+    \ 25\_Hz, thereby reaching the lower limit of the human audible sound frequency\
+    \ range. We present synthetic distributions of shaking and audible sounds at the\
+    \ 50--100\_m scale across a 12\_km \xD7 12\_km area and discuss implications for\
+    \ better understanding seismic nuisances in metropolitan regions. In five 3D coupled\
+    \ elastic--acoustic scenario simulations that include data on topography and subsurface\
+    \ structure, we analyze the ground velocity and pressure levels of earthquake\u2010\
+    generated seismic and acoustic waves. We show that S waves generate the strongest\
+    \ sound disturbance with sound pressure levels \u22640.04\_Pa. We use statistical\
+    \ analysis to compare our noise distributions with commonly used empirical relationships.\
+    \ We find that our 3D synthetic amplitudes are generally smaller than the empirical\
+    \ predictions and that the interaction of the source mechanism\u2010specific radiation\
+    \ pattern and topography can lead to significant nonlinear effects. Our study\
+    \ highlights the complexity and information content of spatially variable audible\
+    \ effects associated with small induced earthquakes on local scales."
+  author:
+  - family: Krenz
+    given: Lukas
+  - family: Wolf
+    given: Sebastian
+  - family: Hillers
+    given: Gregor
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Bader
+    given: Michael
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120220225
+  id: Krenz2023
+  issn: 0037-1106
+  issue: 4
+  issued: 2023-07
+  page: 1596-1615
+  title: Numerical Simulations of Seismoacoustic Nuisance Patterns from an Induced
+    M 1.8 Earthquake in the Helsinki, Southern Finland, Metropolitan Area
+  type: article-journal
+  url: https://doi.org/10.1785/0120220225
+  volume: 113
+  year: 2023
+- abstract: 'The observational difficulties and the complexity of earthquake physics
+    have rendered seismic hazard assessment largely empirical. Despite increasingly
+    high-quality geodetic, seismic and field observations, data-driven earthquake
+    imaging yields stark differences and physics-based models explaining all observed
+    dynamic complexities are elusive. Here we present data-assimilated three-dimensional
+    dynamic rupture models of California''s biggest earthquakes in more than 20`\thinspace`{=latex}years:
+    the moment magnitude (Mw) 6.4 Searles Valley and Mw`\thinspace`{=latex}7.1 Ridgecrest
+    sequence, which ruptured multiple segments of a non-vertical quasi-orthogonal
+    conjugate fault system1. Our models use supercomputing to find the link between
+    the two earthquakes. We explain strong-motion, teleseismic, field mapping, high-rate
+    global positioning system and space geodetic datasets with earthquake physics.
+    We find that regional structure, ambient long- and short-term stress, and dynamic
+    and static fault system interactions driven by overpressurized fluids and low
+    dynamic friction are conjointly crucial to understand the dynamics and delays
+    of the sequence. We demonstrate that a joint physics-based and data-driven approach
+    can be used to determine the mechanics of complex fault systems and earthquake
+    sequences when reconciling dense earthquake recordings, three-dimensional regional
+    structure and stress models. We foresee that physics-based interpretation of big
+    observational datasets will have a transformative impact on future geohazard mitigation.'
+  author:
+  - family: Taufiqurrahman
+    given: Taufiq
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Li
+    given: Duo
+  - family: Ulrich
+    given: Thomas
+  - family: Li
+    given: Bo
+  - family: Carena
+    given: Sara
+  - family: Verdecchia
+    given: Alessandro
+  - family: "Gallovi\u010D"
+    given: "Franti\u0161ek"
+  container-title: Nature
+  doi: 10.1038/s41586-023-05985-x
+  id: Taufiqurrahman2023
+  issn: 1476-4687
+  issue: 7964
+  issued: 2023-06-01
+  page: 308-315
+  title: Dynamics, interactions and delays of the 2019 Ridgecrest rupture sequence
+  type: article-journal
+  url: https://doi.org/10.1038/s41586-023-05985-x
+  volume: 618
+  year: 2023
+- abstract: "Frictional heating during earthquake rupture raises the fault\u2010zone\
+    \ fluid pressure, which affects dynamic rupture and seismic radiation. Here, we\
+    \ investigate two key parameters governing thermal pressurization of pore fluids\
+    \ -- hydraulic diffusivity and shear\u2010zone half\u2010width -- and their effects\
+    \ on earthquake rupture dynamics, kinematic source properties, and ground motions.\
+    \ We conduct 3D strike\u2010slip dynamic rupture simulations assuming a rate\u2010\
+    and\u2010state dependent friction law with strong velocity weakening coupled to\
+    \ thermal\u2010pressurization of pore fluids. Dynamic rupture evolution and ground\
+    \ shaking are densely evaluated across the fault and Earth's surface to analyze\
+    \ the variations of rupture parameters (slip, peak slip rate, rupture speed, and\
+    \ rise time), correlations among rupture parameters, and variability of peak ground\
+    \ velocity. Our simulations reveal how variations in thermal\u2010pressurization\
+    \ affect earthquake rupture properties. We find that the mean slip and rise time\
+    \ decrease with increasing hydraulic diffusivity, whereas mean rupture speed and\
+    \ peak slip\u2010rate remain almost constant. Mean slip, peak slip\u2010rate,\
+    \ and rupture speed decrease with increasing shear\u2010zone half\u2010width,\
+    \ whereas mean rise time increases. Shear\u2010zone half\u2010width distinctly\
+    \ affects the correlation between rupture parameters, especially for parameter\
+    \ pairs (slip, rupture speed), (peak slip\u2010rate, rupture speed), and (rupture\
+    \ speed, rise time). Hydraulic diffusivity has negligible effects on these correlations.\
+    \ Variations in shear\u2010zone half\u2010width primarily impact rupture speed,\
+    \ which then may affect other rupture parameters. We find a negative correlation\
+    \ between slip and peak slip\u2010rate, unlike simpler dynamic rupture models.\
+    \ Mean peak ground velocities decrease faster with increasing shear\u2010zone\
+    \ half\u2010width than with increasing hydraulic diffusivity, whereas ground\u2010\
+    motion variability is similarly affected by both the parameters. Our results show\
+    \ that shear\u2010zone half\u2010width affects rupture dynamics, kinematic rupture\
+    \ properties, and ground shaking more strongly than hydraulic diffusivity. We\
+    \ interpret the importance of shear\u2010zone half\u2010width based on the characteristic\
+    \ time of diffusion. Our findings may inform pseudodynamic rupture generators\
+    \ and guide future studies on how to account for thermal\u2010pressurization effects."
+  author:
+  - family: Vyas
+    given: Jagdish Chandra
+  - family: Gabriel
+    given: "Alice\u2010Agnes"
+  - family: Ulrich
+    given: Thomas
+  - family: Mai
+    given: Paul Martin
+  - family: Ampuero
+    given: "Jean\u2010Paul"
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120220205
+  id: Vyas2023
+  issn: 0037-1106
+  issue: 5
+  issued: 2023-05
+  page: 1992-2008
+  title: "How Does Thermal Pressurization of Pore Fluids Affect 3D Strike\u2010Slip\
+    \ Earthquake Dynamics and Ground Motions?"
+  type: article-journal
+  url: https://doi.org/10.1785/0120220205
+  volume: 113
+  year: 2023
+- abstract: "Tsunami generation by offshore earthquakes is a problem of scientific\
+    \ interest and practical relevance, and one that requires numerical modelling\
+    \ for data interpretation and hazard assessment. Most numerical models utilize\
+    \ two-step methods with one-way coupling between separate earthquake and tsunami\
+    \ models, based on approximations that might limit the applicability and accuracy\
+    \ of the resulting solution. In particular, standard methods focus exclusively\
+    \ on tsunami wave modelling, neglecting larger amplitude ocean acoustic and seismic\
+    \ waves that are superimposed on tsunami waves in the source region. In this study,\
+    \ we compare four earthquake-tsunami modelling methods. We identify dimensionless\
+    \ parameters to quantitatively approximate dominant wave modes in the earthquake-tsunami\
+    \ source region, highlighting how the method assumptions affect the results and\
+    \ discuss which methods are appropriate for various applications such as interpretation\
+    \ of data from offshore instruments in the source region. Most methods couple\
+    \ a 3-D solid earth model, which provides the seismic wavefield or at least the\
+    \ static elastic displacements, with a 2-D depth-averaged shallow water tsunami\
+    \ model. Assuming the ocean is incompressible and tsunami propagation is negligible\
+    \ over the earthquake duration leads to the instantaneous source method, which\
+    \ equates the static earthquake seafloor uplift with the initial tsunami sea surface\
+    \ height. For longer duration earthquakes, it is appropriate to follow the time-dependent\
+    \ source method, which uses time-dependent earthquake seafloor velocity as a forcing\
+    \ term in the tsunami mass balance. Neither method captures ocean acoustic or\
+    \ seismic waves, motivating more advanced methods that capture the full wavefield.\
+    \ The superposition method of Saito et\_al. solves the 3-D elastic and acoustic\
+    \ equations\_to model the seismic wavefield and response of a compressible ocean\
+    \ without gravity. Then, changes in sea surface height from the zero-gravity solution\
+    \ are used as a forcing term in a separate tsunami simulation, typically run with\
+    \ a shallow water solver. A superposition of the earthquake and tsunami solutions\
+    \ provides an approximation to the complete wavefield. This method is algorithmically\
+    \ a two-step method. The complete wavefield is captured in the fully coupled method,\
+    \ which utilizes a coupled solid Earth and compressible ocean model with gravity.\
+    \ The fully coupled method, recently incorporated into the 3-D open-source code\
+    \ SeisSol, simultaneously solves earthquake rupture, seismic waves and ocean response\
+    \ (including gravity). We show that the superposition method emerges as an approximation\
+    \ to the fully coupled method subject to often well-justified assumptions. Furthermore,\
+    \ using the fully coupled method, we examine how the source spectrum and ocean\
+    \ depth influence the expression of oceanic Rayleigh waves. Understanding the\
+    \ range of validity of each method, as well as its computational expense, facilitates\
+    \ the selection of modelling methods for the accurate assessment of earthquake\
+    \ and tsunami hazards and the interpretation of data from offshore instruments."
+  author:
+  - family: Abrahams
+    given: Lauren S
+  - family: Krenz
+    given: Lukas
+  - family: Dunham
+    given: Eric M
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Saito
+    given: Tatsuhiko
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggad053
+  id: Abrahams2023
+  issn: 0956-540X
+  issue: 1
+  issued: 2023-02
+  page: 404-426
+  title: Comparison of methods for coupled earthquake and tsunami modelling
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggad053
+  volume: 234
+  year: 2023
+- abstract: "The destructive 2023 moment magnitude (Mw) 7.8-7.7 earthquake doublet\
+    \ ruptured multiple segments of the East Anatolian Fault system in Turkey. We\
+    \ integrated multiscale seismic and space-geodetic observations with multifault\
+    \ kinematic inversions and dynamic rupture modeling to unravel the events' complex\
+    \ rupture history and stress-mediated fault interactions. Our analysis reveals\
+    \ three subshear slip episodes during the initial Mw 7.8 earthquake with a delayed\
+    \ rupture initiation to the southwest. The Mw 7.7 event occurred 9 hours later\
+    \ with a larger slip and supershear rupture on its western branch. Mechanically\
+    \ consistent dynamic models accounting for fault interactions can explain the\
+    \ unexpected rupture paths and require a heterogeneous background stress. Our\
+    \ results highlight the importance of combining near- and far-field observations\
+    \ with data-driven and physics-based models for seismic hazard assessment. The\
+    \ Kahramanmara\u015F earthquake sequence in Turkey on 6 February 2023 caused a\
+    \ tremendous amount of damage and loss of life. The sequence occurred across several\
+    \ faults, including and associated with the East Anatolian Fault, a strike-slip\
+    \ fault that has had many major earthquakes in the past. Jia et al. used an array\
+    \ of geophysical observations to produce models of how the ruptures occurred.\
+    \ The earthquake sequence ruptured at least six faults, including a large portion\
+    \ of the East Anatolian Fault. The rupture sequence was complex and contained\
+    \ surprises in the details of how the rupture occurred. These observations and\
+    \ models are important for understanding strike-slip faults and forecasting seismic\
+    \ hazards. ---Brent Grocholski The Kahramanmara\u015F earthquake sequence was\
+    \ a complex set of ruptures that resulted in a large amount of damage and casualties."
+  author:
+  - family: Jia
+    given: Zhe
+  - family: Jin
+    given: Zeyu
+  - family: Marchandon
+    given: Mathilde
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Fan
+    given: Wenyuan
+  - family: Shearer
+    given: Peter
+  - family: Zou
+    given: Xiaoyu
+  - family: Rekoske
+    given: John
+  - family: Bulut
+    given: Fatih
+  - family: Garagon
+    given: "Asl\u0131"
+  - family: Fialko
+    given: Yuri
+  container-title: Science
+  doi: 10.1126/science.adi0685
+  id: Jia2023
+  issue: 6661
+  issued: 2023
+  page: 985-990
+  title: The complex dynamics of the 2023 Kahramanmara&#x15f;, Turkey, \<i\>M\</i\>\<sub\>w\</sub\>
+    7.8-7.7 earthquake doublet
+  type: article-journal
+  url: https://www.science.org/doi/abs/10.1126/science.adi0685
+  volume: 381
+  year: 2023
+- abstract: "Abstract Physics-based simulations of earthquake ground motion are useful\
+    \ to complement recorded ground motions. However, the computational expense of\
+    \ performing numerical simulations hinders their applicability to tasks that require\
+    \ real-time solutions or ensembles of solutions for different earthquake sources.\
+    \ To enable rapid physics-based solutions, we present a reduced-order modeling\
+    \ approach based on interpolated proper orthogonal decomposition (POD) to predict\
+    \ peak ground velocities (PGVs). As a demonstrator, we consider PGVs from regional\
+    \ 3D wave propagation simulations at the location of the 2008 MW 5.4 Chino Hills\
+    \ earthquake using double-couple sources with varying depth and focal mechanisms.\
+    \ These simulations resolve frequencies \u22641.0\_Hz and include topography,\
+    \ viscoelastic attenuation, and S-wave speeds \u2265500\_m/s. We evaluate the\
+    \ accuracy of the interpolated POD reduced-order model (ROM) as a function of\
+    \ the approximation method. Comparing the radial basis function (RBF), multilayer\
+    \ perceptron neural network, random forest, and k-nearest neighbor, we find that\
+    \ the RBF interpolation gives the lowest error (\u22480.1\_cm/s) when tested against\
+    \ an independent data set. We also find that evaluating the ROM is 107--108 times\
+    \ faster than the wave propagation simulations. We use the ROM to generate PGV\
+    \ maps for 1 million different focal mechanisms, in which we identify potentially\
+    \ damaging ground motions and quantify correlations between focal mechanism, depth,\
+    \ and accuracy of the predicted PGV. Our results demonstrate that the ROM can\
+    \ rapidly and accurately approximate the PGV from wave propagation simulations\
+    \ with variable source properties, topography, and complex subsurface structure."
+  author:
+  - family: Rekoske
+    given: John M.
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: May
+    given: Dave A.
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2023JB026975
+  id: Rekoske2023
+  issue: 8
+  issued: 2023
+  keyword: reduced-order model, ground motion modeling, high-performance computing,
+    machine learning, earthquake early warning
+  note: e2023JB026975 2023JB026975
+  page: e2023JB026975
+  title: Instantaneous Physics-Based Ground Motion Maps Using Reduced-Order Modeling
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JB026975
+  volume: 128
+  year: 2023
+- abstract: "Abstract The H\xFAsav\xEDk-Flatey Fault Zone (HFFZ) is the largest strike-slip\
+    \ fault in Iceland and poses a high seismic risk to coastal communities. To investigate\
+    \ physics-based constraints on earthquake hazards, we construct three fault system\
+    \ models of varying geometric complexity and model 79 3-D multi-fault dynamic\
+    \ rupture scenarios in the HFFZ. By assuming a simple regional prestress and varying\
+    \ hypocenter locations, we analyze the rupture dynamics, fault interactions, and\
+    \ the associated ground motions up to 2.5\_Hz. All models account for regional\
+    \ seismotectonics, topo-bathymetry, 3-D subsurface velocity, viscoelastic attenuation,\
+    \ and off-fault plasticity, and we explore the effect of fault roughness. The\
+    \ rupture scenarios obey earthquake scaling relations and predict magnitudes comparable\
+    \ to those of historical events. We show how fault system geometry and segmentation,\
+    \ hypocenter location, and prestress can affect the potential for rupture cascading,\
+    \ leading to varying slip distributions across different portions of the fault\
+    \ system. Our earthquake scenarios yield spatially heterogeneous near-field ground\
+    \ motions modulated by geometric complexities, topography, and rupture directivity,\
+    \ particularly in the near-field. The average ground motion attenuation characteristics\
+    \ of dynamic rupture scenarios of comparable magnitudes and mean stress drop are\
+    \ independent of variations in source complexity, magnitude-consistent and in\
+    \ good agreement with the latest regional empirical ground motion models. However,\
+    \ physics-based ground motion variability changes considerably with fault-distance\
+    \ and increases for unilateral compared to bilateral ruptures. Systematic variations\
+    \ in physics-based near-fault ground motions provide important insights into the\
+    \ mechanics and potential earthquake hazard of large strike-slip fault systems,\
+    \ such as the HFFZ."
+  author:
+  - family: Li
+    given: Bo
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: Abril
+    given: Claudia
+  - family: Halldorsson
+    given: Benedikt
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2022JB025886
+  id: LiBo2023
+  issue: 6
+  issued: 2023
+  keyword: "H\xFAsav\xEDk-Flatey Fault Zone, dynamic rupture models, ground motion,\
+    \ rupture directivity, fault roughness, seismic hazard assessment"
+  note: e2022JB025886 2022JB025886
+  page: e2022JB025886
+  title: "Dynamic Rupture Models, Fault Interaction and Ground Motion Simulations\
+    \ for the Segmented H\xFAsav\xEDk-Flatey Fault Zone, Northern Iceland"
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JB025886
+  volume: 128
+  year: 2023
+- abstract: The EU Center of Excellence for Exascale in Solid Earth (ChEESE) develops
+    exascale transition capabilities in the domain of Solid Earth, an area of geophysics
+    rich in computational challenges embracing different approaches to exascale (capability,
+    capacity, and urgent computing). The first implementation phase of the project
+    (ChEESE-1P; 2018--2022) addressed scientific and technical computational challenges
+    in seismology, tsunami science, volcanology, and magnetohydrodynamics, in order
+    to understand the phenomena, anticipate the impact of natural disasters, and contribute
+    to risk management. The project initiated the optimisation of 10 community flagship
+    codes for the upcoming exascale systems and implemented 12 Pilot Demonstrators
+    that combine the flagship codes with dedicated workflows in order to address the
+    underlying capability and capacity computational challenges. Pilot Demonstrators
+    reaching more mature Technology Readiness Levels (TRLs) were further enabled in
+    operational service environments on critical aspects of geohazards such as long-term
+    and short-term probabilistic hazard assessment, urgent computing, and early warning
+    and probabilistic forecasting. Partnership and service co-design with members
+    of the project Industry and User Board (IUB) leveraged the uptake of results across
+    multiple research institutions, academia, industry, and public governance bodies
+    (e.g. civil protection agencies). This article summarises the implementation strategy
+    and the results from ChEESE-1P, outlining also the underpinning concepts and the
+    roadmap for the on-going second project implementation phase (ChEESE-2P; 2023--2026).
+  author:
+  - family: Folch
+    given: Arnau
+  - family: Abril
+    given: Claudia
+  - family: Afanasiev
+    given: Michael
+  - family: Amati
+    given: Giorgio
+  - family: Bader
+    given: Michael
+  - family: Badia
+    given: Rosa M.
+  - family: Bayraktar
+    given: Hafize B.
+  - family: Barsotti
+    given: Sara
+  - family: Basili
+    given: Roberto
+  - family: Bernardi
+    given: Fabrizio
+  - family: Boehm
+    given: Christian
+  - family: Brizuela
+    given: Beatriz
+  - family: Brogi
+    given: Federico
+  - family: Cabrera
+    given: Eduardo
+  - family: Casarotti
+    given: Emanuele
+  - family: Castro
+    given: Manuel J.
+  - family: Cerminara
+    given: Matteo
+  - family: Cirella
+    given: Antonella
+  - family: Cheptsov
+    given: Alexey
+  - family: Conejero
+    given: Javier
+  - family: Costa
+    given: Antonio
+  - family: "de la Asunci\xF3n"
+    given: Marc
+  - family: de la Puente
+    given: Josep
+  - family: Djuric
+    given: Marco
+  - family: Dorozhinskii
+    given: Ravil
+  - family: Espinosa
+    given: Gabriela
+  - family: Esposti-Ongaro
+    given: Tomaso
+  - family: "Farn\xF3s"
+    given: Joan
+  - family: Favretto-Cristini
+    given: Nathalie
+  - family: Fichtner
+    given: Andreas
+  - family: Fournier
+    given: Alexandre
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Gallard
+    given: Jean-Matthieu
+  - family: Gibbons
+    given: Steven J.
+  - family: Glimsdal
+    given: Sylfest
+  - family: "Gonz\xE1lez-Vida"
+    given: "Jos\xE9 Manuel"
+  - family: Gracia
+    given: Jose
+  - family: Gregorio
+    given: Rose
+  - family: Gutierrez
+    given: Natalia
+  - family: Halldorsson
+    given: Benedikt
+  - family: Hamitou
+    given: Okba
+  - family: Houzeaux
+    given: Guillaume
+  - family: Jaure
+    given: Stephan
+  - family: Kessar
+    given: Mouloud
+  - family: Krenz
+    given: Lukas
+  - family: Krischer
+    given: Lion
+  - family: Laforet
+    given: Soline
+  - family: Lanucara
+    given: Piero
+  - family: Li
+    given: Bo
+  - family: Lorenzino
+    given: Maria Concetta
+  - family: Lorito
+    given: Stefano
+  - family: "L\xF8vholt"
+    given: Finn
+  - family: Macedonio
+    given: Giovanni
+  - family: "Mac\xEDas"
+    given: Jorge
+  - family: "Mar\xEDn"
+    given: Guillermo
+  - family: "Mart\xEDnez Montesinos"
+    given: Beatriz
+  - family: Mingari
+    given: Leonardo
+  - family: Moguilny
+    given: "Genevi\xE8ve"
+  - family: Montellier
+    given: Vadim
+  - family: Monterrubio-Velasco
+    given: Marisol
+  - family: Moulard
+    given: Georges Emmanuel
+  - family: Nagaso
+    given: Masaru
+  - family: Nazaria
+    given: Massimo
+  - family: Niethammer
+    given: Christoph
+  - family: Pardini
+    given: Federica
+  - family: Pienkowska
+    given: Marta
+  - family: Pizzimenti
+    given: Luca
+  - family: Poiata
+    given: Natalia
+  - family: Rannabauer
+    given: Leonhard
+  - family: Rojas
+    given: Otilio
+  - family: Rodriguez
+    given: Juan Esteban
+  - family: Romano
+    given: Fabrizio
+  - family: Rudyy
+    given: Oleksandr
+  - family: Ruggiero
+    given: Vittorio
+  - family: Samfass
+    given: Philipp
+  - family: "S\xE1nchez-Linares"
+    given: Carlos
+  - family: Sanchez
+    given: Sabrina
+  - family: Sandri
+    given: Laura
+  - family: Scala
+    given: Antonio
+  - family: Schaeffer
+    given: Nathanael
+  - family: Schuchart
+    given: Joseph
+  - family: Selva
+    given: Jacopo
+  - family: Sergeant
+    given: Amadine
+  - family: Stallone
+    given: Angela
+  - family: Taroni
+    given: Matteo
+  - family: Thrastarson
+    given: Solvi
+  - family: Titos
+    given: Manuel
+  - family: Tonelllo
+    given: Nadia
+  - family: Tonini
+    given: Roberto
+  - family: Ulrich
+    given: Thomas
+  - family: Vilotte
+    given: Jean-Pierre
+  - family: "V\xF6ge"
+    given: Malte
+  - family: Volpe
+    given: Manuela
+  - family: Aniko Wirp
+    given: Sara
+  - family: "W\xF6ssner"
+    given: Uwe
+  container-title: Future Generation Computer Systems
+  doi: https://doi.org/10.1016/j.future.2023.04.006
+  id: Folch2023
+  issn: 0167-739X
+  issued: 2023
+  keyword: Center of Excellence (CoE), EuroHPC, Exascale transition, Code scalability,
+    Geophysics, Natural hazards, HPC service enabling, Urgent computing, Early warning
+    forecast
+  page: 47-61
+  title: 'The EU Center of Excellence for Exascale in Solid Earth (ChEESE): Implementation,
+    results, and roadmap for the second phase'
+  title-short: The EU Center of Excellence for Exascale in Solid Earth (ChEESE)
+  type: article-journal
+  url: https://www.sciencedirect.com/science/article/pii/S0167739X23001401
+  volume: 146
+  year: 2023
 - abstract: Megathrust faults host the largest earthquakes on Earth, which can trigger
     cascading hazards such as devastating tsunamis. Determining characteristics that
     control subduction-zone earthquake and tsunami dynamics is critical to mitigate
@@ -332,31 +1600,6 @@ references:
   type: article-journal
   url: https://doi.org/10.1038/s41561-021-00863-5
   volume: 15
-  year: 2022
-- author:
-  - family: Wolf
-    given: Sebastian
-  - family: Galis
-    given: Martin
-  - family: Uphoff
-    given: Carsten
-  - family: Gabriel
-    given: Alice-Agnes
-  - family: Moczo
-    given: Peter
-  - family: Gregor
-    given: David
-  - family: Bader
-    given: Michael
-  container-title: Journal of Computational Physics
-  doi: 10.1016/j.jcp.2021.110886
-  id: 10.1016/j.jcp.2021.110886
-  issued: 2022
-  page: 110886
-  title: An efficient ADER-DG local time stepping scheme for 3D HPC simulation of
-    seismic waves in poroelastic media
-  type: article-journal
-  volume: 455
   year: 2022
 - abstract: Many applications from the fields of seismology and geoengineering require
     simulations of seismic waves in porous media. Biot's theory of poroelasticity
@@ -461,6 +1704,184 @@ references:
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JB023382
   volume: 127
   year: 2022
+- abstract: "Abstract Advances in physics-based earthquake simulations, utilizing\
+    \ high-performance computing, have been exploited to better understand the generation\
+    \ and characteristics of the high-frequency seismic wavefield. However, direct\
+    \ comparison to ground motion observations of a specific earthquake is challenging.\
+    \ We here propose a new approach to simulate data-fused broadband ground motion\
+    \ synthetics using 3D dynamic rupture modeling of the 2016 Mw 6.2 Amatrice, Italy\
+    \ earthquake. We augment a smooth, best-fitting model from Bayesian dynamic rupture\
+    \ source inversion of strong-motion data (\\<1\_Hz) with fractal fault roughness,\
+    \ frictional heterogeneities, viscoelastic attenuation, and topography. The required\
+    \ consistency to match long periods allows us to quantify the role of small-scale\
+    \ dynamic source heterogeneities, such as the 3D roughness drag, from observational\
+    \ broadband seismic waveforms. We demonstrate that 3D data-constrained fully dynamic\
+    \ rupture synthetics show good agreement with various observed ground-motion metrics\
+    \ up to \u223C5\_Hz and are an important avenue toward non-ergodic, physics-based\
+    \ seismic hazard assessment."
+  author:
+  - family: Taufiqurrahman
+    given: T.
+  - family: Gabriel
+    given: A.-A.
+  - family: Ulrich
+    given: T.
+  - family: "Valentov\xE1"
+    given: L.
+  - family: "Gallovi\u010D"
+    given: F.
+  container-title: Geophysical Research Letters
+  doi: https://doi.org/10.1029/2022GL098872
+  id: Taufiqurrahman2022
+  issue: 22
+  issued: 2022
+  note: e2022GL098872 2022GL098872
+  page: e2022GL098872
+  title: 'Broadband Dynamic Rupture Modeling With Fractal Fault Roughness, Frictional
+    Heterogeneity, Viscoelasticity and Topography: The 2016 Mw 6.2 Amatrice, Italy
+    Earthquake'
+  title-short: Broadband Dynamic Rupture Modeling With Fractal Fault Roughness, Frictional
+    Heterogeneity, Viscoelasticity and Topography
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL098872
+  volume: 49
+  year: 2022
+- abstract: "Abstract We study the effects of pore fluid pressure (Pf) on the pre-earthquake,\
+    \ near-fault stress state, and 3-D earthquake rupture dynamics through six scenarios\
+    \ utilizing a structural model based on the 2004 Mw 9.1 Sumatra-Andaman earthquake.\
+    \ As pre-earthquake Pf magnitude increases, effective normal stress and fault\
+    \ shear strength decrease. As a result, magnitude, slip, peak slip rate, stress\
+    \ drop, and rupture velocity of the scenario earthquakes decrease. Comparison\
+    \ of results with observations of the 2004 earthquake support that pre-earthquake\
+    \ Pf averages near 97% of lithostatic pressure, leading to pre-earthquake average\
+    \ shear and effective normal tractions of 4--5 and 22\_MPa. The megathrust in\
+    \ these scenarios is weak, in terms of low mean shear traction at static failure\
+    \ and low dynamic friction coefficient during rupture. Apparent co-seismic principal\
+    \ stress rotations and absolute post-seismic stresses in these scenarios are consistent\
+    \ with the variety of observed aftershock focal mechanisms. In all scenarios,\
+    \ the mean apparent stress rotations are larger above than below the megathrust.\
+    \ Scenarios with larger Pf magnitudes exhibit lower mean apparent principal stress\
+    \ rotations. We further evaluate pre-earthquake Pf depth distribution. If Pf follows\
+    \ a sublithostatic gradient, pre-earthquake effective normal stress increases\
+    \ with depth. If Pf follows the lithostatic gradient exactly, then this normal\
+    \ stress is constant, shifting peak slip and peak slip rate updip. This renders\
+    \ constraints on near-trench strength and constitutive behavior crucial for mitigating\
+    \ hazard. These scenarios provide opportunity for future calibration with site-specific\
+    \ measurements to constrain dynamically plausible megathrust strength and Pf gradients."
+  author:
+  - family: Madden
+    given: Elizabeth H.
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2021JB023382
+  id: Madden2022
+  issue: 4
+  issued: 2022
+  keyword: earthquake, hazard, pore fluid pressure, high-performance computing, mechanics,
+    dynamics
+  note: e2021JB023382 2021JB023382
+  page: e2021JB023382
+  title: The State of Pore Fluid Pressure and 3-D Megathrust Earthquake Dynamics
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JB023382
+  volume: 127
+  year: 2022
+- abstract: "Abstract Detailed imaging of accretionary wedges reveals splay fault\
+    \ networks that could pose a significant tsunami hazard. However, the dynamics\
+    \ of multiple splay fault activation during megathrust earthquakes and the consequent\
+    \ effects on tsunami generation are not well understood. We use a 2-D dynamic\
+    \ rupture model with complex topo-bathymetry and six curved splay fault geometries\
+    \ constrained from realistic tectonic loading modeled by a geodynamic seismic\
+    \ cycle model with consistent initial stress and strength conditions. We find\
+    \ that all splay faults rupture coseismically. While the largest splay fault slips\
+    \ due to a complex rupture branching process from the megathrust, all other splay\
+    \ faults are activated either top down or bottom up by dynamic stress transfer\
+    \ induced by trapped seismic waves. We ascribe these differences to local non-optimal\
+    \ fault orientations and variable along-dip strength excess. Generally, rupture\
+    \ on splay faults is facilitated by their favorable stress orientations and low\
+    \ strength excess as a result of high pore-fluid pressures. The ensuing tsunami\
+    \ modeled with non-linear 1-D shallow water equations consists of one high-amplitude\
+    \ crest related to rupture on the longest splay fault and a second broader wave\
+    \ packet resulting from slip on the other faults. This results in two episodes\
+    \ of flooding and a larger run-up distance than the single long-wavelength (300\_\
+    km) tsunami sourced by the megathrust-only rupture. Since splay fault activation\
+    \ is determined by both variable stress and strength conditions and dynamic activation,\
+    \ considering both tectonic and earthquake processes is relevant for understanding\
+    \ tsunamigenesis."
+  author:
+  - dropping-particle: van
+    family: Zelst
+    given: I.
+  - family: Rannabauer
+    given: L.
+  - family: Gabriel
+    given: A.-A.
+  - dropping-particle: van
+    family: Dinther
+    given: Y.
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: https://doi.org/10.1029/2022JB024300
+  id: vanZelst2022
+  issue: 8
+  issued: 2022
+  keyword: earthquake, tsunami, subduction zone, dynamic rupture, splay fault, numerical
+    modeling
+  note: e2022JB024300 2022JB024300
+  page: e2022JB024300
+  title: Earthquake Rupture on Multiple Splay Faults and Its Effect on Tsunamis
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JB024300
+  volume: 127
+  year: 2022
+- abstract: "Abstract Despite decades-long debate over the mechanics of low-angle\
+    \ normal faults (LANFs) dipping less than 30\xB0, many questions about their strength,\
+    \ stress, and slip remain unresolved. Recent geologic and geophysical observations\
+    \ have confirmed that gently dipping detachment faults can slip at such shallow\
+    \ dips and host moderate-to-large earthquakes. Here, we analyze the first 3D dynamic\
+    \ rupture models to assess how different stress and strength conditions affect\
+    \ rupture characteristics of LANF earthquakes. We model observationally constrained\
+    \ spontaneous rupture under different loading conditions on the active Mai'iu\
+    \ fault in Papua New Guinea, which dips 16\xB0--24\xB0 at the surface and accommodates\
+    \ \u223C8\_mm/yr of horizontal extension. We analyze four distinct fault-local\
+    \ stress scenarios: (1) Andersonian extension, as inferred in the hanging wall;\
+    \ (2) back-rotated principal stresses inferred paleopiezometrically from the exhumed\
+    \ footwall; (3) favorably rotated principal stresses well-aligned for low-angle\
+    \ normal-sense slip; and (4) Andersonian extension derived from depth-variable\
+    \ static fault friction decreasing toward the surface. Our modeling suggests that\
+    \ subcritically stressed detachment faults can host moderate earthquakes within\
+    \ purely Andersonian stress fields. Near-surface rupture is impeded by free-surface\
+    \ stress interactions and dynamic effects of the gently dipping geometry and frictionally\
+    \ stable gouges of the shallowest portion of the fault. Although favorably inclined\
+    \ principal stresses have been proposed for some detachments, these conditions\
+    \ are not necessary for seismic slip on these faults. Our results demonstrate\
+    \ how integrated geophysical and geologic observations can constrain dynamic rupture\
+    \ model parameters to develop realistic rupture scenarios of active faults that\
+    \ may pose significant seismic and tsunami hazards to nearby communities."
+  author:
+  - family: Biemiller
+    given: J.
+  - family: Gabriel
+    given: A.-A.
+  - family: Ulrich
+    given: T.
+  container-title: Geochemistry, Geophysics, Geosystems
+  doi: https://doi.org/10.1029/2021GC010298
+  id: Biemiller2022
+  issue: 5
+  issued: 2022
+  keyword: dynamic rupture, low-angle normal fault, Woodlark Rift, slip tendency
+  note: e2021GC010298 2021GC010298
+  page: e2021GC010298
+  title: 'The Dynamics of Unlikely Slip: 3D Modeling of Low-Angle Normal Fault Rupture
+    at the Mai''iu Fault, Papua New Guinea'
+  title-short: The Dynamics of Unlikely Slip
+  type: article-journal
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GC010298
+  volume: 23
+  year: 2022
 - author:
   - family: Krenz
     given: Lukas
@@ -479,7 +1900,7 @@ references:
   container-title: Proceedings of the International Conference for High Performance
     Computing, Networking, Storage and Analysis
   doi: 10.1145/3458817.3476173
-  id: seissol-sc21
+  id: Krenz2021
   issued: 2021-11
   publisher: Association for Computing Machinery
   title: '3D acoustic-elastic coupling with gravity: the dynamics of the 2018 Palu,
@@ -487,6 +1908,60 @@ references:
   title-short: 3D acoustic-elastic coupling with gravity
   type: paper-conference
   url: https://dl.acm.org/doi/10.1145/3458817.3476173
+  year: 2021
+- abstract: The 2016 Central Italy earthquake sequence is characterized by remarkable
+    rupture complexity, including highly heterogeneous slip across multiple faults
+    in an extensional tectonic regime. The dense coverage and high quality of geodetic
+    and seismic data allow us to image intriguing details of the rupture kinematics
+    of the largest earthquake of the sequence, the Mw 6.5 October 30th, 2016 Norcia
+    earthquake, such as an energetically weak nucleation phase. Several kinematic
+    models suggest multiple fault planes rupturing simultaneously, however, the mechanical
+    viability of such models is not guaranteed. Using 3D dynamic rupture and seismic
+    wave propagation simulations accounting for two fault planes, we constrain "families"
+    of spontaneous dynamic models informed by a high-resolution kinematic rupture
+    model of the earthquake. These families differ in their parameterization of initial
+    heterogeneous shear stress and strength in the framework of linear slip weakening
+    friction. First, we dynamically validate the kinematically inferred two-fault
+    geometry and rake inferences with models based on only depth-dependent stress
+    and constant friction coefficients. Then, more complex models with spatially heterogeneous
+    dynamic parameters allow us to retrieve slip distributions similar to the target
+    kinematic model and yield good agreement with seismic and geodetic observations.
+    We discuss the consistency of the assumed constant or heterogeneous static and
+    dynamic friction coefficients with mechanical properties of rocks at 3-10 km depth
+    characterizing the Italian Central Apennines and their local geological and lithological
+    implications. We suggest that suites of well-fitting dynamic rupture models belonging
+    to the same family generally exist and can be derived by exploiting the trade-offs
+    between dynamic parameters. Our approach will be applicable to validate the viability
+    of kinematic models and classify spontaneous dynamic rupture scenarios that match
+    seismic and geodetic observations as well as geological constraints.
+  author:
+  - family: Tinti
+    given: Elisa
+  - family: Casarotti
+    given: Emanuele
+  - family: Ulrich
+    given: Thomas
+  - family: Taufiqurrahman
+    given: Taufiq
+  - family: Li
+    given: Duo
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Earth and Planetary Science Letters
+  doi: https://doi.org/10.1016/j.epsl.2021.117237
+  id: Tinti2021
+  issn: 0012-821X
+  issued: 2021
+  keyword: earthquake source, data-integrated dynamic modeling, frictional heterogeneity,
+    dynamic rupture, high-performance computing
+  page: 117237
+  title: 'Constraining families of dynamic models using geological, geodetic and strong
+    ground motion data: The Mw 6.5, October 30th, 2016, Norcia earthquake, Italy'
+  title-short: Constraining families of dynamic models using geological, geodetic
+    and strong ground motion data
+  type: article-journal
+  url: https://www.sciencedirect.com/science/article/pii/S0012821X21004933
+  volume: 576
   year: 2021
 - abstract: The numerical solution of partial differential equations is at the heart
     of many grand challenges in supercomputing. Solvers based on high-order discontinuous
@@ -761,7 +2236,7 @@ references:
     given: Alice-Agnes
   container-title: Statistical Modelling
   doi: 10.1177/1471082X17748034
-  id: doi:10.1177/1471082X17748034
+  id: Bauer2018
   issue: 3-4
   issued: 2018
   page: 346-364
@@ -802,7 +2277,7 @@ references:
   container-title: Proceedings of the International Conference for High Performance
     Computing, Networking, Storage and Analysis
   doi: 10.1145/3126908.3126948
-  id: seissol-sc17
+  id: Uphoff2017
   isbn: 9781450351140
   issued: 2017
   keyword: dynamic rupture, tsunami coupling, asynchronous output, petascale performance,
@@ -923,7 +2398,7 @@ references:
   container-title: 'SC ''14: Proceedings of the International Conference for High
     Performance Computing, Networking, Storage and Analysis'
   doi: 10.1109/SC.2014.6
-  id: seissol-sc14
+  id: Heinecke2014
   isbn: 9,78148E+12
   issued: 2014-11
   keyword: Gordon Bell Prize Finalist
@@ -1003,6 +2478,58 @@ references:
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011JB008857
   volume: 117
   year: 2012
+- abstract: "During the nineteenth and twentieth centuries observational seismologists\
+    \ recorded primarily the earthquake-induced translational wave field, while the\
+    \ rotational motion still remains poorly observed and investigated. We aim to\
+    \ further understand the rotational ground motion and its relation to the translational\
+    \ wave field, with a special emphasis on the near field, a few wavelengths away\
+    \ from the hypocenter, where damage related to rotational motion might need to\
+    \ be considered. A broad picture of the available values of rotational amplitudes\
+    \ and their variability is obtained by gathering most of the published data on\
+    \ strong rotational motion. To obtain a more detailed picture we perform a large\
+    \ scale 3D numerical study of a strike-slip event in the Grenoble valley where\
+    \ a combination of topographic, source, and site effects produces a realistic\
+    \ wave field. We analyzed the synthetic dataset in terms of the rotational and\
+    \ translational peak amplitudes and their dependence on two effects: nonlinear\
+    \ soil behavior and source directivity. On a soft soil deposit, we observe peak\
+    \ ground rotation of 1\_mrad and the peak ground rotation rate of 10 mrad/sec,\
+    \ for an Mw\_6.0 event. Those values show a strong dependence on the hypocenter\
+    \ location, the local site conditions, and the topographical features, inducing\
+    \ a variability of almost one order of magnitude in a range of distances of 20\_\
+    km. Finally, we compare our numerical results in terms of peak ground velocity\
+    \ (PGV) versus peak ground rotation (PG\u03C9) with field data obtained at similar\
+    \ scenarios (e.g., Parkfield) by array techniques to investigate the relation\
+    \ between translational and rotational amplitudes expected in the near field for\
+    \ shallow, medium-sized earthquakes. Results of our numerical simulation fit reasonably\
+    \ well with those observed in past studies. Furthermore, the spatial variations\
+    \ of the PGV/PG\u03C9 ratio show a trend, which is correlated with the velocity\
+    \ structure of the model under study."
+  author:
+  - family: Stupazzini
+    given: Marco
+  - dropping-particle: de la
+    family: Puente
+    given: Josep
+  - family: Smerzini
+    given: Chiara
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Igel
+    given: Heiner
+  - family: Castellani
+    given: Alberto
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120080153
+  id: Stupazzini2009
+  issn: 0037-1106
+  issue: 2B
+  issued: 2009-05
+  page: 1271-1286
+  title: Study of Rotational Ground Motion in the Near-Field Region
+  type: article-journal
+  url: https://doi.org/10.1785/0120080153
+  volume: 99
+  year: 2009
 - abstract: We introduce the application of an arbitrary high-order derivative (ADER)
     discontinuous Galerkin (DG) method to simulate earthquake rupture dynamics. The
     ADER-DG method uses triangles as computational cells which simplifies the process

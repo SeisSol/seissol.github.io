@@ -19,8 +19,8 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 ##### HPC Optimization
 
-- {{<pub "seissol-sc17">}}
-- {{<pub "seissol-sc14">}}
+- {{<pub "Uphoff2017">}}
+- {{<pub "Heinecke2014">}}
 
 ##### ADER-DG
 
@@ -65,7 +65,7 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 ##### Fully-Coupled Earthquake-Tsunami Simulations with SeisSol
 
-- {{<pub "seissol-sc21">}}
+- {{<pub "Krenz2021">}}
 
 ##### ASAGI and Parallel I/O
 
@@ -95,7 +95,58 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 - {{<pub "Denolle2025">}}
 
-<!--
+
 #### Application studies using SeisSol
-TODO
--->
+
+##### 2025
+
+- {{<pub "Schliwa2025">}}
+- {{<pub "Pagulnadi2025">}}
+<!--Glehman2025 is missing-->
+- {{<pub "Mosconi2025">}}
+- {{<pub "Rekoske2025">}}
+- {{<pub "Yen2025">}}
+
+##### 2024
+
+- {{<pub "Gabriel2024">}}
+- {{<pub "Wirp2024">}}
+- {{<pub "Inchin2024">}}
+- {{<pub "Hayek2024">}}
+- {{<pub "LiBo2024">}}
+- {{<pub "LiDuo2024">}}
+- {{<pub "Pagulnadi2024">}}
+- {{<pub "Kutschera2024">}}
+
+##### 2023
+
+- {{<pub "Jia2023">}}
+- {{<pub "Taufiqurrahman2023">}}
+- {{<pub "Schliwa2023">}}
+- {{<pub "Gabriel2023">}}
+- {{<pub "Rekoske2023">}}
+- {{<pub "Krenz2023">}}
+- {{<pub "LiBo2023">}}
+- {{<pub "Folch2023">}}
+- {{<pub "Vyas2023">}}
+- {{<pub "Abrahams2023">}}
+
+##### 2022
+
+- {{<pub "Ulrich2022">}}
+- {{<pub "Madden2022">}}
+- {{<pub "Taufiqurrahman2022">}}
+- {{<pub "vanZelst2022">}}
+- {{<pub "Biemiller2022">}}
+
+##### 2021
+
+- {{<pub "Tinti2021">}}
+
+##### 2018
+
+- {{<pub "Bauer2018">}}
+
+##### 2009
+
+- {{<pub "Stupazzini2009">}}
