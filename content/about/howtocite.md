@@ -24,8 +24,8 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 ##### ADER-DG
 
-- {{<pub "Käser2006-1">}}
 - {{<pub "Käser2006-2">}}
+- {{<pub "Käser2006-1">}}
 
 ##### High-Order Accuracy
 
@@ -33,10 +33,10 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 ##### Dynamic Rupture
 
-- {{<pub "delaPuente2009">}}
-- {{<pub "Pelties2012">}}
-- {{<pub "Pelties2014">}}
 - {{<pub "Ulrich2019">}}
+- {{<pub "Pelties2014">}}
+- {{<pub "Pelties2012">}}
+- {{<pub "delaPuente2009">}}
 
 ##### Off-Fault Plasticity
 
@@ -49,19 +49,19 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 -->
 ##### Viscoelasticity
 
-- {{<pub "Käser2007">}}
 - {{<pub "Uphoff2016">}}
+- {{<pub "Käser2007">}}
 
 ##### Anisotropy
 
-- {{<pub "delaPuente2007">}}
 - {{<pub "Wolf2020">}}
+- {{<pub "delaPuente2007">}}
 
 ##### Poroelasticity
 
-- {{<pub "delaPuente2008">}}
-- {{<pub "Wolf2022">}}
 - {{<pub "Wolf2025">}}
+- {{<pub "Wolf2022">}}
+- {{<pub "delaPuente2008">}}
 
 ##### Fully-Coupled Earthquake-Tsunami Simulations with SeisSol
 
@@ -101,7 +101,7 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 ##### 2025
 
 - {{<pub "Schliwa2025">}}
-- {{<pub "Pagulnadi2025">}}
+- {{<pub "Palgunadi2025">}}
 <!--Glehman2025 is missing-->
 - {{<pub "Mosconi2025">}}
 - {{<pub "Rekoske2025">}}
@@ -115,7 +115,7 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 - {{<pub "Hayek2024">}}
 - {{<pub "LiBo2024">}}
 - {{<pub "LiDuo2024">}}
-- {{<pub "Pagulnadi2024">}}
+- {{<pub "Palgunadi2024">}}
 - {{<pub "Kutschera2024">}}
 
 ##### 2023
