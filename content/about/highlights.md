@@ -1,14 +1,14 @@
 ---
-title: "Awards and Honours"
+title: "Awards and Honors"
 date: 2021-05-10T11:36:23+02:00
 menu:
     main:
         parent: "about"
 ---
 
-- **[SC17 Best Paper Award](https://www.gauss-centre.eu/news/newsflashes/lmu-tum-research-team-wins-best-paper-award-at-sc17)**, SC17 Supercomputing Conference, Denver, USA. Most prestigious prize for application driven high-performance computing awarding the longest and largest multi-physics simulations performed to date modelling the 2004 Sumatra-Andaman earthquake
-- **IWSM 2017 Award Winning Poster**. Bauer, Alexander, Fabian Scheipl, Helmut Küchenhoff, and Alice-Agnes Gabriel. (2017), Modeling spatio-temporal earthquake dynamics using generalized functional additive regression, in Proceedings of the 32nd International Workshop on Statistical Modelling, 3-7 July, 2017, Groningen, Netherlands. .
-- **[2014 ACM Gordon Bell Prize Finalist](https://www.scientific-computing.com/news/2014-gordon-bell-prize-finalists-announced?news_id=2534)**, Association for Computing Machinery (ACM) at Supercomputing Conference SC14, New Orleans, USA. Highly competitive, annually awarded prize for outstanding achievements in high-performance computing. In our submission, we performed multi-physics simulations of a 1992 Landers earthquake scenario on the largest existing supercomputers
+- **[SC17 Best Paper Award](https://www.gauss-centre.eu/news/newsflashes/lmu-tum-research-team-wins-best-paper-award-at-sc17)**, SC17 Supercomputing Conference, Denver, USA. Most prestigious prize for application driven high-performance computing awarding the longest and largest multi-physics simulations performed to date modelling the 2004 Sumatra-Andaman earthquake.
+- **IWSM 2017 Award Winning Poster**. Bauer, Alexander, Fabian Scheipl, Helmut Küchenhoff, and Alice-Agnes Gabriel. (2017), Modeling spatio-temporal earthquake dynamics using generalized functional additive regression, in Proceedings of the 32nd International Workshop on Statistical Modelling, 3-7 July, 2017, Groningen, Netherlands.
+- **[2014 ACM Gordon Bell Prize Finalist](https://www.scientific-computing.com/news/2014-gordon-bell-prize-finalists-announced?news_id=2534)**, Association for Computing Machinery (ACM) at Supercomputing Conference SC14, New Orleans, USA. Highly competitive, annually awarded prize for outstanding achievements in high-performance computing. In our submission, we performed multi-physics simulations of a 1992 Landers earthquake scenario on the largest existing supercomputers.
 - **[PRACE ISC Award 2014](https://prace-ri.eu/prace-awards-at-isc-2014/)**, best-paper-type prize awarded by the Partnership for Advanced Computing in Europe (PRACE) at the ISC High Performance conference. Our awarded paper featured the first petascale production run (wave propagation in Mount Merapi, with complex topography) with SeisSol on SuperMUC. 
 
 # Activities
