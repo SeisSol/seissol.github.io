@@ -5,48 +5,52 @@ menu:
         parent: "about"
 ---
 
-If you use or want to refer to SeisSol please cite the following **primary references**:
+SeisSol does not have a particular "release paper" to cite.
+As **primary reference**, we therefore ask you to cite at least one paper that most closely matches the model you have used, for example:
+
+* [Elastic wave propagation](#ader-dg-and-isotropic-elastic-wave-propagation)
+* [Anisotropic elastic wave propagation](#anisotropy)
+* [Viscoelasticity](#viscoelasticity)
+* [Poroelasticity](#poroelasticity)
+* [Elastic-acoustic coupling](#fully-coupled-earthquake-tsunami-simulations-with-seissol)
+<!--* General non-linearity and brittle off-fault damage-->
+
+This also includes model extensions, such as:
+
+* [Dynamic rupture modelling](#dynamic-rupture)
+* [Off-fault plastic deformation](#off-fault-plasticity)
+
+Please see the respective category below and select an appropriate paper. 
+
+If you want to cite the algorithmic or HPC aspects of SeisSol, please pick a paper from the following categories:
+
+* [Extreme scalability](#extreme-scalability)
+* [GPU parallelism](#seissol-on-gpus)
+* [Local time stepping](#local-time-stepping)
+* [Code generation](#code-generation)
+* [ASAGI and parallel I/O](#asagi-and-parallel-io)
+
+
+To refer to the specific code version that you used in a paper, we recommend
+to remark that with a comment like
+
+"We use the open-source software SeisSol v1.3.2 (Gabriel et al., 2025)",
+
+and refer to the Zenodo archive under
 
 - {{<pub "gabriel_2025_15685917">}}
 
-Example: "We use the open-source software SeisSol v1.3.2 (Gabriel et al., 2025)".
-
-### Secondary references 
+### Reference List 
 
 Please also check the [SeisSol Google Scholar profile](https://scholar.google.com/citations?user=HzD2nZkAAAAJ&hl ).
 
-#### SeisSol Feature References
+#### Model References
 
-##### HPC Optimization
-
-- {{<pub "Uphoff2017">}}
-- {{<pub "Heinecke2014">}}
-
-##### ADER-DG
+##### ADER-DG and Isotropic Elastic Wave Propagation
 
 - {{<pub "Käser2006-2">}}
 - {{<pub "Käser2006-1">}}
 
-##### High-Order Accuracy
-
-- {{<pub "Käser2008">}}
-
-##### Dynamic Rupture
-
-- {{<pub "Ulrich2019">}}
-- {{<pub "Pelties2014">}}
-- {{<pub "Pelties2012">}}
-- {{<pub "delaPuente2009">}}
-
-##### Off-Fault Plasticity
-
-- {{<pub "Wollherr2018">}}
-
-<!--
-##### General Non-Linearity and Brittle Off-Fault Damage
-
-- {{<pub "Niu2025">}}
--->
 ##### Viscoelasticity
 
 - {{<pub "Uphoff2016">}}
@@ -67,9 +71,29 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 - {{<pub "Krenz2021">}}
 
-##### ASAGI and Parallel I/O
+<!--
+##### General Non-Linearity and Brittle Off-Fault Damage
 
-- {{<pub "Rettenberger2016">}}
+- {{<pub "Niu2025">}}
+-->
+##### Dynamic Rupture
+
+- {{<pub "Ulrich2019">}}
+- {{<pub "Pelties2014">}}
+- {{<pub "Pelties2012">}}
+- {{<pub "delaPuente2009">}}
+
+##### Off-Fault Plasticity
+
+- {{<pub "Wollherr2018">}}
+
+#### HPC/Algorithmic References
+
+##### Extreme scalability
+
+- {{<pub "Uphoff2017">}}
+- {{<pub "Heinecke2014">}}
+- {{<pub "Breuer2014">}}
 
 ##### Local-Time Stepping
 
@@ -79,9 +103,19 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 - {{<pub "Dorozhinskii2024">}}
 
-##### YATeTo (Tensor Toolbox)
+##### Code Generation
 
 - {{<pub "Uphoff2020">}}
+
+##### ASAGI and Parallel I/O
+
+- {{<pub "Rettenberger2016">}}
+
+#### Training and Verification
+
+##### High-Order Accuracy
+
+- {{<pub "Käser2008">}}
 
 ##### SeisSol Code Verification
 
@@ -102,10 +136,11 @@ Please also check the [SeisSol Google Scholar profile](https://scholar.google.co
 
 - {{<pub "Schliwa2025">}}
 - {{<pub "Palgunadi2025">}}
-<!--Glehman2025 is missing-->
 - {{<pub "Mosconi2025">}}
 - {{<pub "Rekoske2025">}}
 - {{<pub "Yen2025">}}
+
+<!--Glehman2025 is missing-->
 
 ##### 2024
 

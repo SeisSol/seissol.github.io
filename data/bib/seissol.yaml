@@ -2430,6 +2430,50 @@ references:
   url: https://gmd.copernicus.org/articles/7/847/2014/
   volume: 7
   year: 2014
+- abstract: "Seismic simulations in realistic 3D Earth models require peta- or even\
+    \ exascale computing power to capture small-scale features of high relevance for\
+    \ scientific and industrial applications. In this paper, we present optimizations\
+    \ of SeisSol -- a seismic wave propagation solver based on the Arbitrary high-order\
+    \ accurate DERivative Discontinuous Galerkin (ADER-DG) method on fully adaptive,\
+    \ unstructured tetrahedral meshes -- to run simulations under production conditions\
+    \ at petascale performance. Improvements cover the entire simulation chain: from\
+    \ an enhanced ADER time integration via highly scalable routines for mesh input\
+    \ up to hardware-aware optimization of the innermost sparse-/dense-matrix kernels.\
+    \ Strong and weak scaling studies on the SuperMUC machine demonstrated up to 90%\
+    \ parallel efficiency and 45% floating point peak efficiency on 147k cores. For\
+    \ a simulation under production conditions (108 grid cells, 5`\\textperiodcentered`{=latex}1010\
+    \ degrees of freedom, 5 seconds simulated time), we achieved a sustained performance\
+    \ of 1.09\_PFLOPS."
+  author:
+  - family: Breuer
+    given: Alexander
+  - family: Heinecke
+    given: Alexander
+  - family: Rettenberger
+    given: Sebastian
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Pelties
+    given: Christian
+  container-title: Supercomputing
+  editor:
+  - family: Kunkel
+    given: Julian Martin
+  - family: Ludwig
+    given: Thomas
+  - family: Meuer
+    given: Hans Werner
+  id: Breuer2014
+  isbn: 978-3-319-07518-1
+  issued: 2014
+  page: 1-18
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  title: Sustained Petascale Performance of Seismic Simulations with SeisSol on SuperMUC
+  type: paper-conference
+  year: 2014
 - abstract: Accurate and efficient numerical methods to simulate dynamic earthquake
     rupture and wave propagation in complex media and complex fault geometries are
     needed to address fundamental questions in earthquake dynamics, to integrate seismic
