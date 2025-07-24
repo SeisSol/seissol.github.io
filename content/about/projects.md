@@ -13,7 +13,7 @@ menu:
 - **[DEFORM](https://www.dfg.de/en/news/news-topics/announcements-proposals/2024/ifr-24-43):** Plate Deformation and Geohazards: The Eastern Margin of the Adriatic Plate (DFG Priority Programme SPP 2497, 2025-31)
 - **[DT-Geo](https://dtgeo.eu/):** A Digital Twin for GEOphysical extremes (EU Horizon Europe, 2022-25)
 - **[GeoInquire](https://www.geo-inquire.eu/):** Geosphere INfrastructures for QUestions into Integrated REsearch (EU Horizon Europe, 2022-26)
-- **[LCCF](https://lccf.tacc.utexas.edu/): CSA:** Leadership-Class Computing Facility at TACC: Characteristic Science Application (NSF, 2022-27)
+- **LCCF-CSA:** [Leadership-Class Computing Facility](https://lccf.tacc.utexas.edu/) at TACC: Characteristic Science Application (NSF, 2022-27)
 - **[MTMOD](https://sites.utexas.edu/mtmod/):** Megathrust Modeling Framework:  A collaborative effort to advance our understanding of megathrust earthquakes (NSF, 2021-26)
 - **[QUAKEWORX](https://quakeworx.org/):** A science gateway for seismic simulations (NSF, 2023-28)
 - **[SCEC](https://www.scec.org/):** Statewide California Earthquake Center (NSF, USGS, NASA, PG&E, ExCom)
