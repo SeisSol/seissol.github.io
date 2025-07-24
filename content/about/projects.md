@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-date: 2021-05-10T11:36:23+02:00
+date: 2025-07-24T11:36:23+02:00
 menu:
     main:
         parent: "about"
@@ -20,7 +20,7 @@ menu:
 - **[SPIN](https://spin-itn.eu/):** Seismological Parameters and INstrumentation (EU Marie Sklodowska-Curie Innovative Training Network, 2021-25)
 - **TEAR: Truely Extended Earthquake Rupture** (ERC Starting Grant 2019 to Alice-Agnes Gabriel)
 - **[TREAD](https://tread-horizon.eu/):** Data and processes in seismic hazard (EU Marie Sklodowska-Curie Innovative Training Network, 2023-27)
-- **[targetDART](https://targetdart.github.io/)** (2022-2025; BMBF SCALEXA)
+- **[targetDART](https://targetdart.github.io/)** (BMFTR SCALEXA, 2022-2025)
 
 ### Selected Past Projects
 
