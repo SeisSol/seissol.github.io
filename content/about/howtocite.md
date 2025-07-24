@@ -31,20 +31,20 @@ If you want to cite the algorithmic or HPC aspects of SeisSol, please pick a pap
 * [ASAGI and parallel I/O](#asagi-and-parallel-io)
 
 
-To refer to the specific code version that you used in a paper, we recommend
+To **refer to the specific code version** that you used in a paper, we recommend
 to remark that with a comment like
 
 "We use the open-source software SeisSol v1.3.2 (Gabriel et al., 2025)",
 
-and refer to the Zenodo archive under
+and refer to the **Zenodo** archive under
 
 - {{<pub "gabriel_2025_15685917">}}
 
 ### Reference List 
 
-Please also check the [SeisSol Google Scholar profile](https://scholar.google.com/citations?user=HzD2nZkAAAAJ&hl ).
+For a general overview on papers, see [SeisSol's Google Scholar profile](https://scholar.google.com/citations?user=HzD2nZkAAAAJ&hl).
 
-#### Model References
+#### Modelling References
 
 ##### ADER-DG and Isotropic Elastic Wave Propagation
 
