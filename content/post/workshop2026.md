@@ -1,5 +1,5 @@
 ---
-title: Joint SeisSol & ExaHyPE User Workshop, Training and Hackathon - June 11&12, 2026
+title: Joint SeisSol and ExaHyPE User Workshop, Training and Hackathon - June 11/12, 2026
 date: 2026-02-09T00:00:00+02:00
 ---
 
@@ -20,7 +20,7 @@ The **user training and hackathon (Jun 12)** is supported by the projects [Geo-I
 
 Existing and more experienced users of SeisSol and ExaHyPE are invited to discuss issues of usage, optimisation and further development of SeisSol and ExaHyPE during our Hackathon session on Jun 12. 
 
-**Registration:** Please refer to the [registration link](Indico) for further info and registration.
+**Registration:** Please refer to the [registration link](https://events.hifis.net/event/3608/) for further info and registration.
 
 We hope you can join us.
 
