@@ -7,6 +7,7 @@ In celebration of **20 years of SeisSol and 10 years of ExaHyPE**, we are happy 
 * The first Joint SeisSol+ExaHyPE User Workshop,
 * A combined SeisSol+ExaHyPE user training
 * The first SeisSol+ExaHyPE Hackathon, 
+
 taking place on June 11–12, 2026 in Garching (Munich), in the Leibniz Supercomputing Centre (LRZ).
 
 For the **user workshop (Jun 11)**, we call for contributed talks on usage and development of SeisSol or ExaHyPE, and closely related topics. 
