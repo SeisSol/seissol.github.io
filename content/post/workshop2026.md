@@ -39,7 +39,7 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 | | Nico Schliwa (ETHZ) | Forecasting induced microearthquakes in the BedrettoLab with SeisSol |
 | 10:30-12:00 | Tobias Weinzierl (Durham Univ.) | How ExaHyPE changed the world: dynamic task graph construction, ranges, scheduling policies and task merging in OpenMP and TBB mainstream APIs |
 | | Steven J. Gibbons (NGI) | Landslide and tsunami simulation using ExaHyPE and HySEA |
-| | Chung Ming Loi (Durhan Univ.) | User Friendly Tsunami UQ Application with ExaHyPE and UM-Bridge |
+| | Chung Ming Loi (Durham Univ.) | User Friendly Tsunami UQ Application with ExaHyPE and UM-Bridge |
 | | Mario Wille (TUM) | ExaHyPE on GPUs |
 | 13:00-14:30 | Gabrielle Hobson (UCSD) | Mesh Morphing and Model Order Reduction for Earthquake Dynamic Rupture on the Southern San Andreas Fault |
 | | Sébastien Hok (ASNR) | Different applications of SEISSOL in the scope of seismic hazard assessment |
@@ -49,3 +49,10 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 | | Olindo Zanotti (Univ. of Trento) | High order numerical schemes within a new first-order BSSNOK formulation of the Einstein equations |
 | | Iris Christadler (LMU) | Geo-INQUIRE Transnational Access, SDL & Training Programm |
 | 17:30-18:00 | Michael Dumbser (Univ. of Trento) | A simple and general framework for the construction of exactly div-rot-grad compatible discontinuous Galerkin finite element schemes on unstructured simplex meshes |
+
+## Training - June 12
+| Time | Topic | Speakers |
+| 09:00 - 10:00 | SeisSol introduction | Alice Gabriel, Fabian Kutschera, Gabrielle Hobson, Thomas Ulrich, Mathilde Marchandon
+10:00 - 11:00 | ExaHyPE introduction | Tobias Weinzierl, Mario Wille, Piyush Karki, Han Zhang |
+| 12:00-14:00 | SeisSol/ExaHyPE Training & Hackathon | |
+| 14:30-16:00 | SeisSol/ExaHyPE Training & Hackathon | |
