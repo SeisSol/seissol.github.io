@@ -55,5 +55,5 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 |------|-------|----------|
 | 09:00 - 10:00 | SeisSol introduction | Alice Gabriel, Fabian Kutschera, Gabrielle Hobson, Thomas Ulrich, Mathilde Marchandon
 10:00 - 11:00 | ExaHyPE introduction | Tobias Weinzierl, Mario Wille, Piyush Karki, Han Zhang |
-| 12:00-14:00 | SeisSol/ExaHyPE Training & Hackathon | |
-| 14:30-16:00 | SeisSol/ExaHyPE Training & Hackathon | |
+| 12:00-14:00 | SeisSol/ExaHyPE Training & Hackathon | *(hands-on session)* |
+| 14:30-16:00 | SeisSol/ExaHyPE Training & Hackathon | *(hands-on session)* |
