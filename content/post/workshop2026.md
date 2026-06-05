@@ -28,3 +28,23 @@ We hope you can join us.
 Best regards,
 
 Michael Bader, Tobias Weinzierl and Alice Gabriel
+
+## Workshop Program - June 11
+| Time | Speaker | Topic |
+|------|---------|-------|
+| 08:30-08:45 | Michael Bader (TUM) | Welcome Note, Basic overview of SeisSol & ExaHyPE |
+| 08:45-10:15 | Rachel Preca Trapani (LMU) | Do 3D Dynamic Rupture Models Capture the Variability in Long-Period Velocity Pulses? Insights from the 2023 Mw 7.8 Kahramanmaraş Earthquake |
+| | Thomas Ulrich (LMU) | Rupture dynamics on a mature strike-slip fault: insights from ensemble modeling of the 2025 Myanmar earthquake |
+| | Fabian Kutschera (Scripps) | Untangling seismo-acoustic and gravity waves in 3D fully coupled earthquake-tsunami simulations |
+| | Nico Schliwa (ETHZ) | Forecasting induced microearthquakes in the BedrettoLab with SeisSol |
+| 10:30-12:00 | Tobias Weinzierl (Durham Univ.) | How ExaHyPE changed the world: dynamic task graph construction, ranges, scheduling policies and task merging in OpenMP and TBB mainstream APIs |
+| | Steven J. Gibbons (NGI) | Landslide and tsunami simulation using ExaHyPE and HySEA |
+| | Chung Ming Loi (Durhan Univ.) | User Friendly Tsunami UQ Application with ExaHyPE and UM-Bridge |
+| | Mario Wille (TUM) | ExaHyPE on GPUs |
+| 13:00-14:30 | Gabrielle Hobson (UCSD) | Mesh Morphing and Model Order Reduction for Earthquake Dynamic Rupture on the Southern San Andreas Fault |
+| | Sébastien Hok (ASNR) | Different applications of SEISSOL in the scope of seismic hazard assessment |
+| | Daniel Dreier (Univ. of Padua) | Formation of fault damage zones in carbonates |
+| 15:00-16:30 | Alice Gabriel (Scripps/LMU) | 20 Years of SeisSol and 10 Years of ExaHyPE |
+| | Shane Murphy (IFREMER) | Stochastic Slip distributions on non-planar faults described by unstructured mesh |
+| | Olindo Zanotti (Univ. of Trento) | High order numerical schemes within a new first-order BSSNOK formulation of the Einstein equations |
+| | Iris Christadler (LMU) | Geo-INQUIRE Transnational Access, SDL & Training Programm |
