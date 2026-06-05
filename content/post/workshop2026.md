@@ -48,3 +48,4 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 | | Shane Murphy (IFREMER) | Stochastic Slip distributions on non-planar faults described by unstructured mesh |
 | | Olindo Zanotti (Univ. of Trento) | High order numerical schemes within a new first-order BSSNOK formulation of the Einstein equations |
 | | Iris Christadler (LMU) | Geo-INQUIRE Transnational Access, SDL & Training Programm |
+| 17:30-18:00 | Michael Dumbser (Univ. of Trento) | A simple and general framework for the construction of exactly div-rot-grad compatible discontinuous Galerkin finite element schemes on unstructured simplex meshes |
