@@ -37,7 +37,7 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 | | Thomas Ulrich (LMU) | Rupture dynamics on a mature strike-slip fault: insights from ensemble modeling of the 2025 Myanmar earthquake |
 | | Fabian Kutschera (Scripps) | Untangling seismo-acoustic and gravity waves in 3D fully coupled earthquake-tsunami simulations |
 | | Nico Schliwa (ETHZ) | Forecasting induced microearthquakes in the BedrettoLab with SeisSol |
-| 10:30-12:00 | Tobias Weinzierl (Durham Univ.) | How ExaHyPE changed the world: dynamic task graph construction, ranges, scheduling policies and task merging in OpenMP and TBB mainstream APIs |
+| 10:30-12:00 | Han Zhang (Durham Univ.) | ExaGRyPE: How we build a Numerical relativity code with ExaHyPE 2 |
 | | Steven J. Gibbons (NGI) | Landslide and tsunami simulation using ExaHyPE and HySEA |
 | | Chung Ming Loi (Durham Univ.) | User Friendly Tsunami UQ Application with ExaHyPE and UM-Bridge |
 | | Mario Wille (TUM) | ExaHyPE on GPUs |
