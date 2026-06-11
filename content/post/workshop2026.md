@@ -44,6 +44,7 @@ Michael Bader, Tobias Weinzierl and Alice Gabriel
 | 13:00-14:30 | Gabrielle Hobson (UCSD) | Mesh Morphing and Model Order Reduction for Earthquake Dynamic Rupture on the Southern San Andreas Fault |
 | | Sébastien Hok (ASNR) | Different applications of SEISSOL in the scope of seismic hazard assessment |
 | | Daniel Dreier (Univ. of Padua) | Formation of fault damage zones in carbonates |
+| | Mathilde Marchandon (LMU) | Multi-segmented rupture, coseismically-triggered aseismic slip, and shallow rake rotation during the 2025 Mw 7.1 Tingri, South Tibet, earthquake |
 | 15:00-16:30 | Iris Christadler (LMU) | Geo-INQUIRE Transnational Access, SDL & Training Programm |
 | | Shane Murphy (IFREMER) | Stochastic Slip distributions on non-planar faults described by unstructured mesh |
 | | Olindo Zanotti (Univ. of Trento) | High order numerical schemes within a new first-order BSSNOK formulation of the Einstein equations |
