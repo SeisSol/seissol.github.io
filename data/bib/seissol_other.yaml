@@ -568,12 +568,11 @@ references:
   - family: Sodani
     given: Avinash
   container-title: 'Intel Xeon Phi Processor High Performance Programming: Knights
-    Landing Edition'
+    Landing Edition, chapter 21, written by Alexander Breuer and Alexander Heinecke'
   doi: 10.1016/B978-0-12-809194-4.00021-1
   id: Jeffers2016
   issued: 2016
-  note: Chapter on SeisSol. Authors as in Crossref (the book authors); the chapter
-    PDF does not name its contributors
+  note: Chapter 21, written by Alexander Breuer and Alexander Heinecke
   page: 471-498
   publisher: Morgan Kaufmann
   title: High performance seismic simulations
