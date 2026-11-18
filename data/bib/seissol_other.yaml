@@ -1,0 +1,811 @@
+references:
+- author:
+  - family: Henneking
+    given: Stefan
+  - family: Kutschera
+    given: Fabian
+  - family: Venkat
+    given: Sreeram
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ghattas
+    given: Omar
+  container-title: arXiv preprint arXiv:2603.14966
+  doi: 10.48550/arXiv.2603.14966
+  id: Henneking2026
+  issued: 2026
+  title: Real-time probabilistic tsunami forecasting in Cascadia from sparse offshore
+    pressure observations
+  type: article-journal
+  url: https://doi.org/10.48550/arXiv.2603.14966
+  year: 2026
+- author:
+  - family: Kheirdast
+    given: Navid
+  - family: Le Pourhiet
+    given: Laetitia
+  - family: Jourdon
+    given: Anthony
+  container-title: Zenodo, report and simulation data, version v1
+  doi: 10.5281/zenodo.23373067
+  id: Kheirdast2026
+  issued: 2026
+  title: Earthquake rupture nucleation, propagation and frictional sensitivity in
+    geodynamically informed fault networks
+  type: article-journal
+  url: https://doi.org/10.5281/zenodo.23373067
+  year: 2026
+- author:
+  - family: Kutschera
+    given: Fabian
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: EarthArXiv preprint
+  doi: 10.31223/X5H23W
+  id: Kutschera2026
+  issued: 2026
+  title: Source Representation and Earthquake-Ocean Coupling in Tsunami Generation
+    by the 2020 Samos Normal-Faulting Earthquake
+  type: article-journal
+  url: https://doi.org/10.31223/X5H23W
+  year: 2026
+- author:
+  - family: Li
+    given: Duo
+  - family: Thingbaijam
+    given: Kiran K. S.
+  - family: Bora
+    given: Sanjay S.
+  - family: Benites
+    given: Rafael
+  - family: Yuan
+    given: Shihao
+  - family: Hill
+    given: Matt
+  - family: Kaiser
+    given: Anna E.
+  - family: Gerstenberger
+    given: Matt C.
+  container-title: Proceedings of the 2026 NZSEE Annual Technical Conference
+  doi: 10.31223/X51J7W
+  id: LiWellington2026
+  issued: 2026
+  note: EarthArXiv preprint
+  title: Assessing Basin Amplification and Rupture Directivity Effects Using Physics-Based
+    Ground Motion Simulations in Wellington
+  type: paper-conference
+  url: https://doi.org/10.31223/X51J7W
+  year: 2026
+- author:
+  - family: Preca Trapani
+    given: Rachel
+  - family: Marchandon
+    given: Mathilde
+  - family: Palgunadi
+    given: Kadek Hendrawan
+  - family: Wu
+    given: Baoning
+  - family: Yen
+    given: Ming-Hsuan
+  - family: Cotton
+    given: Fabrice
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: EarthArXiv preprint
+  doi: 10.31223/X5Z76S
+  id: PrecaTrapani2026
+  issued: 2026
+  title: "Do 3D Dynamic Rupture Models Capture the Variability in Long-Period Velocity\
+    \ Pulses? Insights from the 2023 Mw 7.8 Kahramanmara\u015F Earthquake"
+  type: article-journal
+  url: https://doi.org/10.31223/X5Z76S
+  year: 2026
+- author:
+  - family: Wong
+    given: Jeremy Wing Ching
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Fan
+    given: Wenyuan
+  container-title: EarthArXiv preprint
+  doi: 10.31223/X52Z3T
+  id: Wong2026b
+  issued: 2026
+  title: Evaluating Dynamic Viability of Finite-Fault Slip Models with Ensemble Kalman
+    Inversion
+  type: article-journal
+  url: https://doi.org/10.31223/X52Z3T
+  year: 2026
+- author:
+  - family: Li
+    given: Duo
+  - family: Li
+    given: Bo
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: Wang
+    given: Kang
+  - family: Yuan
+    given: Shihao
+  - family: "B\xFCrgmann"
+    given: Roland
+  container-title: EarthArXiv preprint
+  doi: 10.31223/X5PB2T
+  id: LiDuo2025
+  issued: 2025
+  title: The role of thermal pressurization in driving deep fault slip during the
+    2021 Mw 8.2 Chignik, Alaska megathrust earthquake
+  type: article-journal
+  url: https://doi.org/10.31223/X5PB2T
+  year: 2025
+- author:
+  - family: Ulrich
+    given: Thomas
+  - family: Magen
+    given: Yohai
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: EarthArXiv preprint
+  doi: 10.31223/X5XT7Q
+  id: Ulrich2025
+  issued: 2025
+  title: 'The complex rupture dynamics of an oceanic transform fault: supershear rupture
+    and deep slip during the 2024 Mw7.0 Cape Mendocino Earthquake'
+  type: article-journal
+  url: https://doi.org/10.31223/X5XT7Q
+  year: 2025
+- author:
+  - family: Abram
+    given: Greg
+  - family: Samsel
+    given: Francesca
+  - family: Wang
+    given: Yinzhi
+  - family: Cunningham
+    given: Sean
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Schliwa
+    given: Nico
+  container-title: SC'23 Scientific Visualization and Data Analytics Showcase, International
+    Conference for High Performance Computing, Networking, Storage and Analysis, Denver,
+    CO
+  id: Abram2023
+  issued: 2023
+  title: 'Conversing Faults: The 2019 Ridgecrest Earthquake'
+  type: paper-conference
+  url: https://youtu.be/JvMuQN4FuvU
+  year: 2023
+- author:
+  - family: Kutschera
+    given: Fabian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Wirp
+    given: Sara Aniko
+  - family: Li
+    given: Bo
+  - family: Ulrich
+    given: Thomas
+  - family: Abril
+    given: Claudia
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  container-title: "NorthQuake 2022, Proceedings of the 4th International Workshop\
+    \ on Earthquakes in North Iceland, H\xFAsav\xEDk, North Iceland, 18\u201320 October\
+    \ 2022"
+  editor:
+  - family: "J\xF3nsson"
+    given: "Sigurj\xF3n"
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  - family: "Ing\xF3lfsd\xF3ttir"
+    given: "Helena Eyd\xEDs"
+  id: Kutschera2022
+  issued: 2022
+  note: ISBN 978-9935-405-70-8
+  page: 45-49
+  publisher: Husavik Academic Centre
+  title: "Modeling potential earthquake-tsunami scenarios from earthquake rupture\
+    \ simulations on the H\xFAsav\xEDk-Flatey Fault Zone, North Iceland"
+  type: paper-conference
+  year: 2022
+- author:
+  - family: Li
+    given: Bo
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: Abril
+    given: Claudia
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  - family: Krenz
+    given: Lukas
+  - family: Bader
+    given: Michael
+  container-title: "NorthQuake 2022, Proceedings of the 4th International Workshop\
+    \ on Earthquakes in North Iceland, H\xFAsav\xEDk, North Iceland, 18\u201320 October\
+    \ 2022"
+  editor:
+  - family: "J\xF3nsson"
+    given: "Sigurj\xF3n"
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  - family: "Ing\xF3lfsd\xF3ttir"
+    given: "Helena Eyd\xEDs"
+  id: LiBo2022
+  issued: 2022
+  note: ISBN 978-9935-405-70-8
+  page: 38-44
+  publisher: Husavik Academic Centre
+  title: "On the exploration of seismic ground motion amplitudes in North Iceland\
+    \ from dynamic rupture modeling of H\xFAsav\xEDk-Flatey Fault Zone earthquake\
+    \ scenarios"
+  type: paper-conference
+  year: 2022
+- author:
+  - family: Wolf
+    given: Sebastian
+  - family: Krenz
+    given: Lukas
+  - family: Hillers
+    given: Gregor
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bader
+    given: Michael
+  container-title: Quartl, Newsletter of KONWIHR and the Bavarian Graduate School
+    of Computational Engineering
+  id: Wolf2022quartl
+  issue: 4/22
+  issued: 2022
+  title: Earthquake shaking and noise disturbance
+  type: article-journal
+  volume: 104
+  year: 2022
+- author:
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2021"
+  editor:
+  - family: Bastian
+    given: Peter
+  - family: "Kranzlm\xFCller"
+    given: Dieter
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  - family: Mathias
+    given: Gerald
+  id: Bader2021lrz
+  issued: 2021
+  note: ISBN 978-3-9816675-4-7
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: Advanced Simulation of Coupled Earthquake-Tsunami Events
+  type: chapter
+  year: 2021
+- author:
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Quartl, Newsletter of KONWIHR and the Bavarian Graduate School
+    of Computational Engineering
+  id: Bader2021quartl
+  issue: 4/21
+  issued: 2021
+  note: In German
+  title: "Bitte einmal SeisSol \u2013 mit Allem!"
+  type: article-journal
+  volume: 100
+  year: 2021
+- author:
+  - family: Bauer
+    given: Alexander
+  - family: Scheipl
+    given: Fabian
+  - family: "K\xFCchenhoff"
+    given: Helmut
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: arXiv preprint 2108.05634
+  doi: 10.48550/arXiv.2108.05634
+  id: Bauer2021
+  issued: 2021
+  title: Registration for Incomplete Non-Gaussian Functional Data
+  type: article-journal
+  url: https://doi.org/10.48550/arXiv.2108.05634
+  year: 2021
+- author:
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Igel
+    given: Heiner
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2021"
+  editor:
+  - family: Bastian
+    given: Peter
+  - family: "Kranzlm\xFCller"
+    given: Dieter
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  - family: Mathias
+    given: Gerald
+  id: Gabriel2021lrz
+  issued: 2021
+  note: ISBN 978-3-9816675-4-7
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: 3D seismic wave propagation and earthquake rupture
+  type: chapter
+  year: 2021
+- author:
+  - family: Li
+    given: Bo
+  - family: Wirp
+    given: Sara Aniko
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bader
+    given: Michael
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  container-title: "Proceedings of Northquake 2019, 3rd International Workshop on\
+    \ Earthquakes in North Iceland, H\xFAsav\xEDk, North Iceland, 21\u201324 May 2019"
+  editor:
+  - family: "J\xF3nsson"
+    given: "Sigurj\xF3n"
+  - family: "Halld\xF3rsson"
+    given: Benedikt
+  - family: et al.
+    given: ''
+  id: LiBo2019
+  issued: 2019
+  note: ISBN 978-9935-405-58-6
+  page: 93-95
+  publisher: Husavik Academic Centre
+  title: "Towards physics-based probabilistic seismic hazard assessment in complex\
+    \ fault networks \u2013 the ChEESE project"
+  type: paper-conference
+  year: 2019
+- author:
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2018"
+  editor:
+  - family: Bastian
+    given: Peter
+  - family: "Kranzlm\xFCller"
+    given: Dieter
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  id: Bader2018lrz
+  issued: 2018
+  note: ISBN 978-3-9816675-2-3
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: Extreme scale simulations of the 2004 Sumatra-Andaman earthquake and the
+    Indian Ocean tsunami
+  type: chapter
+  year: 2018
+- author:
+  - family: Bauer
+    given: Alexander
+  - family: Scheipl
+    given: Fabian
+  - family: "K\xFCchenhoff"
+    given: Helmut
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Proceedings of the 49th Scientific Meeting of the Italian Statistical
+    Society, Palermo, Italy
+  id: Bauer2018b
+  issued: 2018
+  title: Application of semiparametric function-on-scalar regression for modeling
+    spatio-temporal earthquake dynamics
+  type: paper-conference
+  year: 2018
+- author:
+  - family: Igel
+    given: Heiner
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: et al.
+    given: ''
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2018"
+  editor:
+  - family: Bastian
+    given: Peter
+  - family: "Kranzlm\xFCller"
+    given: Dieter
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  id: Igel2018lrz
+  issued: 2018
+  note: ISBN 978-3-9816675-2-3
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: '3-D seismic wave propagation and earthquake rupture: New roads for the forward
+    and inverse problem'
+  type: chapter
+  year: 2018
+- author:
+  - family: Bauer
+    given: Alexander
+  - family: Scheipl
+    given: Fabian
+  - family: "K\xFCchenhoff"
+    given: Helmut
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: "Proceedings of the 32nd International Workshop on Statistical\
+    \ Modelling, Groningen, Netherlands, 3\u20137 July 2017"
+  id: Bauer2017
+  issued: 2017
+  page: 146-149
+  title: Modeling spatio-temporal earthquake dynamics using generalized functional
+    additive regression
+  type: paper-conference
+  volume: 2
+  year: 2017
+- author:
+  - family: Madden
+    given: Elizabeth H.
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: van Zelst
+    given: Iris
+  - family: van Dinther
+    given: Ylona
+  container-title: "Proceedings of the 14th International Conference on Fracture (ICF14),\
+    \ Rhodes, Greece, 18\u201323 June 2017"
+  editor:
+  - family: Gdoutos
+    given: Emmanuel E.
+  id: Madden2017
+  issued: 2017
+  title: "The role of splay faults in seafloor deformation and tsunami generation\
+    \ during the Mw 9.1\u20139.3 2004 Sumatra-Andaman earthquake"
+  type: paper-conference
+  year: 2017
+- author:
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2016"
+  editor:
+  - family: Wagner
+    given: Siegfried
+  - family: Bode
+    given: Arndt
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  id: Bader2016lrz
+  issued: 2016
+  note: ISBN 978-3-9816675-1-6
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: Dynamic Rupture Simulations at Petascale
+  type: chapter
+  year: 2016
+- author:
+  - family: Igel
+    given: Heiner
+  - family: Bernauer
+    given: Moritz
+  - family: Donner
+    given: Stefanie
+  - family: Dumbser
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Hadziioannou
+    given: "C\xE9line"
+  - family: Hosseini
+    given: Kasra
+  - family: Krischer
+    given: Lion
+  - family: Madden
+    given: Elizabeth H.
+  - family: Obermann
+    given: Anne
+  - family: "St\xE4hler"
+    given: Simon
+  - family: Ulrich
+    given: Thomas
+  - family: Wollherr
+    given: Stephanie
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2016"
+  editor:
+  - family: Wagner
+    given: Siegfried
+  - family: Bode
+    given: Arndt
+  - family: "Br\xFCchle"
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  id: Igel2016lrz
+  issued: 2016
+  note: ISBN 978-3-9816675-1-6
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: Computational Wave Propagation
+  type: chapter
+  year: 2016
+- author:
+  - family: Jeffers
+    given: James
+  - family: Reinders
+    given: James
+  - family: Sodani
+    given: Avinash
+  container-title: 'Intel Xeon Phi Processor High Performance Programming: Knights
+    Landing Edition'
+  doi: 10.1016/B978-0-12-809194-4.00021-1
+  id: Jeffers2016
+  issued: 2016
+  note: Chapter on SeisSol. Authors as in Crossref (the book authors); the chapter
+    PDF does not name its contributors
+  page: 471-498
+  publisher: Morgan Kaufmann
+  title: High performance seismic simulations
+  type: chapter
+  url: https://doi.org/10.1016/B978-0-12-809194-4.00021-1
+  year: 2016
+- author:
+  - family: "Weing\xE4rtner"
+    given: Mirjam
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Mai
+    given: P. Martin
+  container-title: "International Workshop on Earthquakes in North Iceland, H\xFA\
+    sav\xEDk, North Iceland, 31 May \u2013 3 June 2016"
+  id: Weingaertner2016
+  issued: 2016
+  note: Extended abstract
+  title: "Dynamic Rupture Earthquake Simulations on complex Fault Zones with SeisSol\
+    \ at the Example of the H\xFAsav\xEDk-Flatey Fault"
+  type: paper-conference
+  year: 2016
+- author:
+  - family: Igel
+    given: Heiner
+  - family: Pelties
+    given: Christian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Wenk
+    given: Stefan
+  - family: Schiemenz
+    given: Alexander
+  - family: Bernauer
+    given: Moritz
+  - family: Krischer
+    given: Lion
+  - family: "St\xE4hler"
+    given: Simon
+  container-title: "High Performance Computing in Science and Engineering \u2013 Garching/Munich\
+    \ 2014"
+  editor:
+  - family: Wagner
+    given: Siegfried
+  - family: Bode
+    given: Arndt
+  - family: Satzger
+    given: Helmut
+  - family: Brehm
+    given: Matthias
+  id: Igel2014lrz
+  issued: 2014
+  note: ISBN 978-3-9816675-0-9
+  publisher: Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and
+    Humanities
+  title: Advancements in Seismic Tomography and Seismic Source Analysis
+  type: chapter
+  year: 2014
+- author:
+  - family: Rettenberger
+    given: Sebastian
+  - family: Smith
+    given: Cameron W.
+  - family: Pelties
+    given: Christian
+  container-title: Poster, International Conference for High Performance Computing,
+    Networking, Storage and Analysis (SC14), New Orleans
+  id: Rettenberger2014
+  issued: 2014
+  title: Optimizing CAD and Mesh Generation Workflow for SeisSol
+  type: paper-conference
+  year: 2014
+- author:
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: Behrens
+    given: "J\xF6rn"
+  - family: Pelties
+    given: Christian
+  container-title: Geoscientific Model Development Discussions
+  doi: 10.5194/gmdd-6-3743-2013
+  id: Castro2013
+  issued: 2013
+  title: CUDA-C implementation of the ADER-DG method for linear hyperbolic PDEs
+  type: article-journal
+  url: https://doi.org/10.5194/gmdd-6-3743-2013
+  volume: 6
+  year: 2013
+- author:
+  - family: Heinecke
+    given: Alexander
+  - family: Breuer
+    given: Alexander
+  - family: Rettenberger
+    given: Sebastian
+  - family: Bader
+    given: Michael
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Pelties
+    given: Christian
+  - family: Wenk
+    given: Stefan
+  container-title: Poster, International Conference for High Performance Computing,
+    Networking, Storage and Analysis (SC13), Denver
+  id: Heinecke2013
+  issued: 2013
+  title: Optimized Kernels for large scale earthquake simulations with SeisSol, an
+    unstructured ADER-DG code
+  type: paper-conference
+  year: 2013
+- author:
+  - family: Igel
+    given: Heiner
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Stupazzini
+    given: Marco
+  container-title: Extreme Environmental Events
+  doi: 10.1007/978-1-4419-7695-6_41
+  id: Igel2011
+  issued: 2011
+  page: 765-787
+  publisher: Springer New York
+  title: Seismic Wave Propagation in Media with Complex Geometries, Simulation of
+  type: chapter
+  url: https://doi.org/10.1007/978-1-4419-7695-6_41
+  year: 2011
+- author:
+  - family: Hermann
+    given: Verena
+  - family: Pham
+    given: Nguyen Dinh
+  - family: Fichtner
+    given: Andreas
+  - family: Kremers
+    given: Simon
+  - family: Huang
+    given: Lianjie
+  - family: Johnson
+    given: Paul
+  - family: Larmat
+    given: "Car\xE8ne"
+  - family: Bunge
+    given: Hans-Peter
+  - family: Igel
+    given: Heiner
+  container-title: High Performance Computing in Science and Engineering, Garching/Munich
+    2009
+  doi: 10.1007/978-3-642-13872-0_25
+  id: Hermann2010
+  issued: 2010
+  page: 293-306
+  publisher: Springer Berlin Heidelberg
+  title: Advances in Modelling and Inversion of Seismic Wave Propagation
+  type: chapter
+  url: https://doi.org/10.1007/978-3-642-13872-0_25
+  year: 2010
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Djikpesse
+    given: Hugues
+  - family: Prange
+    given: Michael
+  container-title: SEG Technical Program Expanded Abstracts 2010
+  doi: 10.1190/1.3513849
+  id: Kaeser2010b
+  issued: 2010
+  page: 573-577
+  publisher: Society of Exploration Geophysicists
+  title: Numerical Modeling of Borehole-guided Waves and Reservoir Formation Reflections
+  type: paper-conference
+  url: https://doi.org/10.1190/1.3513849
+  year: 2010
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: Hermann
+    given: Verena
+  - family: Pelties
+    given: Christian
+  container-title: High Performance Computing in Science and Engineering, Garching/Munich
+    2009
+  doi: 10.1007/978-3-642-13872-0_24
+  id: Kaeser2010c
+  issued: 2010
+  page: 281-292
+  publisher: Springer Berlin Heidelberg
+  title: "SeisSol \u2013 A Software for Seismic Wave Propagation Simulations"
+  type: chapter
+  url: https://doi.org/10.1007/978-3-642-13872-0_24
+  year: 2010
+- author:
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: High Performance Computing in Science and Engineering, Garching/Munich
+    2007
+  doi: 10.1007/978-3-540-69182-2_44
+  id: Dumbser2008
+  issued: 2008
+  page: 569-584
+  publisher: Springer Berlin Heidelberg
+  title: A p-Adaptive Discontinuous Galerkin Method with Local Time Steps for Computational
+    Seismology
+  type: chapter
+  url: https://doi.org/10.1007/978-3-540-69182-2_44
+  year: 2008
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: de la Puente
+    given: Josep
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: Hermann
+    given: Verena
+  - family: Dumbser
+    given: Michael
+  container-title: SEG Technical Program Expanded Abstracts 2008
+  doi: 10.1190/1.3063945
+  id: Kaeser2008d
+  issued: 2008
+  page: 2884-2888
+  publisher: Society of Exploration Geophysicists
+  title: Seismic wave field modelling using high performance computing
+  type: paper-conference
+  url: https://doi.org/10.1190/1.3063945
+  year: 2008

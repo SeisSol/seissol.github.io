@@ -1,22 +1,22 @@
 {{ define "main" }}
 <section class="section">
     <main class="container mb-6 content">
-        <h1 class="title">Selected Publications</h1>
-        {{ range $.Site.Data.bib }}
-            <ul>
-            {{ $data := newScratch }}
-            {{ $data.Set "year" "0" }}
-            {{ range .references }}
-                {{ $year := .year }}
-                {{ if ne $year ($data.Get "year") }}
-                    </ul>
-                    <h3 class="subtitle">{{ $year }}</h3>
-                    <ul>
-                {{ end }}
-                {{ $data.Set "year" $year }}
-                <li>{{ partial "publong.html" . }}</li>
-            {{ end }}
-            </ul>
+        <h1 class="title">Publications</h1>
+        <p>
+            <a href="#peer-reviewed">Peer-reviewed Journal and Conference Publications</a> |
+            <a href="#theses">Theses</a> |
+            <a href="#other">Other Publications</a>
+        </p>
+        <p>
+            Publications that develop or use SeisSol are also collected on the
+            <a href="https://scholar.google.com/citations?user=HzD2nZkAAAAJ&hl=en">SeisSol Google Scholar profile</a>.
+        </p>
+        {{ partial "publist.html" (dict "id" "peer-reviewed" "title" "Peer-reviewed Journal and Conference Publications" "refs" $.Site.Data.bib.seissol.references) }}
+        {{ with $.Site.Data.bib.seissol_theses }}
+            {{ partial "publist.html" (dict "id" "theses" "title" "Theses" "refs" .references) }}
+        {{ end }}
+        {{ with $.Site.Data.bib.seissol_other }}
+            {{ partial "publist.html" (dict "id" "other" "title" "Other Publications" "refs" .references) }}
         {{ end }}
     </main>
 </section>

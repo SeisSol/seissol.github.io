@@ -1,4 +1,478 @@
 references:
+- author:
+  - family: Bachelot
+    given: "Lo\xEFc"
+  - family: Kutschera
+    given: Fabian
+  - family: Barall
+    given: Michael
+  - family: Erickson
+    given: Brittany A.
+  - family: Dunham
+    given: Eric M.
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Harris
+    given: Ruth
+  - family: Ma
+    given: Shuo
+  - family: Thomas
+    given: Amanda M.
+  - family: Zhang
+    given: Wenqiang
+  container-title: Seismica
+  doi: 10.26443/seismica.v5i2.2716
+  id: Bachelot2026
+  issue: 2
+  issued: 2026
+  title: CRESCENT Earthquake Dynamic Rupture, Earthquake Cycle, and Tsunami Code Verification
+    Platform
+  type: article-journal
+  url: https://doi.org/10.26443/seismica.v5i2.2716
+  volume: 5
+  year: 2026
+- author:
+  - family: Banchelli
+    given: Fabio
+  - family: Jurado
+    given: David
+  - family: Garcia-Gasulla
+    given: Marta
+  - family: Mantovani
+    given: Filippo
+  container-title: Future Generation Computer Systems
+  doi: 10.1016/j.future.2025.107932
+  id: Banchelli2026
+  issued: 2026
+  page: '107932'
+  title: 'Exploring RISC-V long vector capabilities: A case study in Earth Sciences'
+  type: article-journal
+  url: https://doi.org/10.1016/j.future.2025.107932
+  volume: 174
+  year: 2026
+- author:
+  - family: Becerril
+    given: Carlos
+  - family: Sladen
+    given: Anthony
+  - family: Ampuero
+    given: Jean-Paul
+  - family: Preciado-Garbayo
+    given: Javier
+  - family: Gonzalez-Herraez
+    given: Miguel
+  - family: Kutschera
+    given: Fabian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bouchette
+    given: Frederic
+  container-title: Pure and Applied Geophysics
+  doi: 10.1007/s00024-026-03940-1
+  id: Becerril2026
+  issue: 5
+  issued: 2026
+  page: 2035-2059
+  title: 'Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected
+    Seafloor Strains Induced by Tsunamis'
+  type: article-journal
+  url: https://doi.org/10.1007/s00024-026-03940-1
+  volume: 183
+  year: 2026
+- author:
+  - family: Habibi
+    given: Rahim
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Kohl
+    given: Thomas
+  - family: Gaucher
+    given: Emmanuel
+  container-title: Rock Mechanics and Rock Engineering
+  doi: 10.1007/s00603-026-05771-x
+  id: Habibi2026
+  issued: 2026
+  title: 'Linking Coupled Reservoir Modeling to Dynamic Rupture Modeling: An Automated
+    Workflow to Simulate Induced Seismicity in Faulted Geothermal Systems'
+  type: article-journal
+  url: https://doi.org/10.1007/s00603-026-05771-x
+  year: 2026
+- author:
+  - family: Kurapati
+    given: Vikas
+  - family: Schneller
+    given: David
+  - family: Seelinger
+    given: Linus
+  - family: Niu
+    given: Zihua
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bader
+    given: Michael
+  container-title: GEM - International Journal on Geomathematics
+  doi: 10.1007/s13137-026-00287-6
+  id: Kurapati2026
+  issue: 1
+  issued: 2026
+  page: '8'
+  title: Fused ensembles of dynamic-rupture earthquake simulations to accelerate Bayesian
+    inference
+  type: article-journal
+  url: https://doi.org/10.1007/s13137-026-00287-6
+  volume: 17
+  year: 2026
+- author:
+  - family: Kurapati
+    given: Vikas
+  - family: Hillers
+    given: Gregor
+  - family: Krenz
+    given: Lukas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Bader
+    given: Michael
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggag031
+  id: Kurapati2026b
+  issue: 1
+  issued: 2026
+  page: ggag031
+  title: Numerical wavefield simulations with instantaneous time mirror in a 3-D elastic
+    medium
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggag031
+  volume: 245
+  year: 2026
+- author:
+  - family: Melgar
+    given: Diego
+  - family: Thomas
+    given: Amanda M.
+  - family: Sahakian
+    given: Valerie
+  - family: Share
+    given: Pieter-Ewald
+  - family: Meigs
+    given: Andrew
+  - family: Tobin
+    given: Harold
+  - family: Staisch
+    given: Lydia
+  - family: Melbourne
+    given: Timothy
+  - family: Elizabeth
+    given: Jill
+  - family: Ajala
+    given: Rasheed
+  - family: Amos
+    given: Colin
+  - family: Bachelot
+    given: Loic
+  - family: Bennett
+    given: Scott
+  - family: Biemiller
+    given: James
+  - family: Boston
+    given: Brian
+  - family: Byrnes
+    given: Joseph
+  - family: Clifford
+    given: Andy
+  - family: Crowell
+    given: Brendan
+  - family: Delph
+    given: Jonathan
+  - family: Duan
+    given: Benchun
+  - family: Dunham
+    given: Eric
+  - family: Dura
+    given: Tina
+  - family: Elston
+    given: Hanna
+  - family: Erickson
+    given: Brittany
+  - family: Fasola
+    given: Shannon
+  - family: Fildes
+    given: Rebecca
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Grant
+    given: Alex
+  - family: Hatem
+    given: Alexandra
+  - family: Hawkes
+    given: Andrea
+  - family: He
+    given: Bin
+  - family: Hemphill-Haley
+    given: Eileen
+  - family: Hirao
+    given: Brenton
+  - family: Hooft
+    given: Emilie
+  - family: Huang
+    given: Yihe
+  - family: Hutchinson
+    given: Jesse
+  - family: Jackson
+    given: Noel
+  - family: Kelsey
+    given: Harvey
+  - family: Krauss
+    given: Zoe
+  - family: Ledeczi
+    given: Anna
+  - family: Leshchinsky
+    given: Ben
+  - family: Liu
+    given: Yajing
+  - family: Loveless
+    given: Jack
+  - family: Lucas
+    given: Madeleine
+  - family: Marfo
+    given: William
+  - family: Maurer
+    given: Brett
+  - family: Moschetti
+    given: Morgan
+  - family: Olsen
+    given: Michael
+  - family: Roland
+    given: Emily
+  - family: Schmidt
+    given: David
+  - family: Sepulveda
+    given: Ignacio
+  - family: Shuck
+    given: Brandon
+  - family: Stephenson
+    given: William
+  - family: Streig
+    given: Ashley
+  - family: Stone
+    given: Ian
+  - family: Sung
+    given: Chih-Hsuan
+  - family: Trugman
+    given: Daniel
+  - family: Wilcock
+    given: William S. D.
+  - family: Wirth
+    given: Erin
+  - family: Witter
+    given: Robert
+  - family: Yenier
+    given: Emrah
+  container-title: Seismological Research Letters
+  doi: 10.1785/0220250318
+  id: Melgar2026
+  issued: 2026
+  title: 'The Cascadia Region Earthquake Science Center (CRESCENT): Advancing Understanding
+    of Cascadia''s Earthquake Hazards'
+  type: article-journal
+  url: https://doi.org/10.1785/0220250318
+  year: 2026
+- author:
+  - family: Mosconi
+    given: Francesco
+  - family: Tinti
+    given: Elisa
+  - family: Supino
+    given: Mariano
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Casarotti
+    given: Emanuele
+  - family: Meier
+    given: Men-Andrin
+  - family: Rinaldi
+    given: Antonio Pio
+  - family: Giardini
+    given: Domenico
+  - family: Cocco
+    given: Massimo
+  container-title: Earth and Planetary Science Letters
+  doi: 10.1016/j.epsl.2025.119816
+  id: Mosconi2026
+  issued: 2026
+  page: '119816'
+  title: Discriminating dynamic rupture arrest in fluid-induced microearthquakes using
+    spectral inversion
+  type: article-journal
+  url: https://doi.org/10.1016/j.epsl.2025.119816
+  volume: 678
+  year: 2026
+- author:
+  - family: Niu
+    given: Zihua
+  - family: Kruse
+    given: Maximilian
+  - family: Seelinger
+    given: Linus
+  - family: Schliwa
+    given: Nico
+  - family: Igel
+    given: Heiner
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Earth and Planetary Science Letters
+  doi: 10.1016/j.epsl.2026.120061
+  id: Niu2026
+  issued: 2026
+  page: '120061'
+  title: Constraining on- and off-fault nonlinear dynamic rupture parameters via hierarchical
+    Bayesian inversion for the 2019 Mw 7.1 Ridgecrest earthquake
+  type: article-journal
+  url: https://doi.org/10.1016/j.epsl.2026.120061
+  volume: 690
+  year: 2026
+- author:
+  - family: Rekoske
+    given: John M.
+  - family: Callaghan
+    given: Scott
+  - family: Milner
+    given: Kevin R.
+  - family: May
+    given: Dave A.
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120260021
+  id: Rekoske2026
+  issue: 5
+  issued: 2026
+  page: 2232-2251
+  title: 'Efficient Physics-Informed Ground-Motion Simulations with Reduced-Order
+    Models: CyberShake Implications and High-Resolution Site Terms for Southern San
+    Andreas Fault Earthquakes'
+  type: article-journal
+  url: https://doi.org/10.1785/0120260021
+  volume: 116
+  year: 2026
+- author:
+  - family: "S\xE1nchez-Reyes"
+    given: Hugo
+  - family: Scotti
+    given: Oona
+  - family: Hok
+    given: "S\xE9bastien"
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120260099
+  id: SanchezReyes2026
+  issued: 2026
+  title: 'When Earthquakes Cross the Gap: Physics-Based Dynamic Modeling of Stepover
+    Jumps in Normal Faults'
+  type: article-journal
+  url: https://doi.org/10.1785/0120260099
+  year: 2026
+- author:
+  - family: Ulrich
+    given: Thomas
+  - family: Zou
+    given: Xiaoyu
+  - family: Marchandon
+    given: Mathilde
+  - family: Schliwa
+    given: Nico
+  - family: Tan
+    given: Fengzhou
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Fan
+    given: Wenyuan
+  - family: Shearer
+    given: Peter
+  - family: Thant
+    given: Myo
+  - family: Tin
+    given: Tha Zin Htet
+  - family: Lindsey
+    given: Eric O.
+  - family: Fialko
+    given: Yuri
+  container-title: Nature Communications
+  doi: 10.1038/s41467-026-77203-x
+  id: Ulrich2026
+  issue: 1
+  issued: 2026
+  page: '10173'
+  title: On predictability of slip, rupture geometry, and speed of the 2025 M7.8 Mandalay,
+    Myanmar, earthquake
+  type: article-journal
+  url: https://doi.org/10.1038/s41467-026-77203-x
+  volume: 17
+  year: 2026
+- author:
+  - family: Wang
+    given: Taiyi A.
+  - family: Dunham
+    given: Eric M.
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120250174
+  id: WangDunham2026
+  issue: 4
+  issued: 2026
+  page: 1359-1382
+  title: "Nonsymmetric Seismic Moment Tensors and Seismic Torques: Theory and Application\
+    \ to Caldera Collapse Earthquakes at the K\u012Blauea Volcano in 2018"
+  type: article-journal
+  url: https://doi.org/10.1785/0120250174
+  volume: 116
+  year: 2026
+- author:
+  - family: Wirp
+    given: Sara Aniko
+  - family: Kutschera
+    given: Fabian
+  - family: Ulrich
+    given: Thomas
+  - family: Bader
+    given: Michael
+  - family: Lorito
+    given: Stefano
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggag181
+  id: Wirp2026
+  issue: 3
+  issued: 2026
+  page: ggag181
+  title: Hellenic Arc tsunami generation from MW 8+ 3-D margin-wide dynamic rupture
+    earthquake scenarios
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggag181
+  volume: 246
+  year: 2026
+- author:
+  - family: Wong
+    given: Jeremy Wing Ching
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Fan
+    given: Wenyuan
+  container-title: Nature Communications
+  doi: 10.1038/s41467-026-71722-3
+  id: Wong2026
+  issue: 1
+  issued: 2026
+  page: '5777'
+  title: Dynamic restrengthening and fault heterogeneity explain megathrust earthquake
+    complexity
+  type: article-journal
+  url: https://doi.org/10.1038/s41467-026-71722-3
+  volume: 17
+  year: 2026
 - abstract: "With the rise of data volume and computing power, seismological research\
     \ requires more advanced skills in data processing, numerical methods, and parallel\
     \ computing. We present the experience of conducting training workshops in various\
@@ -497,6 +971,346 @@ references:
   url: ' https://doi.org/10.1177/87552930241305012 '
   volume: 41
   year: 2025
+- author:
+  - family: Banchelli
+    given: Fabio
+  - family: Garcia-Gasulla
+    given: Marta
+  - family: Mantovani
+    given: Filippo
+  container-title: Lecture Notes in Computer Science
+  doi: 10.1007/978-3-031-85700-3_2
+  id: Banchelli2025
+  issued: 2025
+  page: 17-31
+  publisher: Springer Nature Switzerland
+  title: Batched DGEMMs for Scientific Codes Running on Long Vector Architectures
+  type: paper-conference
+  url: https://doi.org/10.1007/978-3-031-85700-3_2
+  year: 2025
+- author:
+  - family: Biemiller
+    given: James
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Staisch
+    given: Lydia
+  - family: Ulrich
+    given: Thomas
+  - family: Dunham
+    given: Audrey
+  - family: Wirth
+    given: Erin
+  - family: Watt
+    given: Janet
+  - family: Lucas
+    given: Madeleine C.
+  - family: Ledeczi
+    given: Anna
+  container-title: AGU Advances
+  doi: 10.1029/2025AV001812
+  id: Biemiller2025
+  issue: 6
+  issued: 2025
+  page: e2025AV001812
+  title: Structural Controls on Splay Fault Rupture Dynamics During Cascadia Megathrust
+    Earthquakes
+  type: article-journal
+  url: https://doi.org/10.1029/2025AV001812
+  volume: 6
+  year: 2025
+- author:
+  - family: Glehman
+    given: Jonatan
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: Ramos
+    given: Marlon D.
+  - family: Huang
+    given: Yihe
+  - family: Lindsey
+    given: Eric O.
+  container-title: Seismica
+  doi: 10.26443/seismica.v2i4.1427
+  id: Glehman2025
+  issue: 4
+  issued: 2025
+  title: Partial ruptures governed by the complex interplay between geodetic slip
+    deficit, rigidity, and pore fluid pressure in 3D Cascadia dynamic rupture simulations
+  type: article-journal
+  url: https://doi.org/10.26443/seismica.v2i4.1427
+  volume: 2
+  year: 2025
+- author:
+  - family: Henneking
+    given: Stefan
+  - family: Venkat
+    given: Sreeram
+  - family: Dobrev
+    given: Veselin
+  - family: Camier
+    given: John
+  - family: Kolev
+    given: Tzanio
+  - family: Fernando
+    given: Milinda
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ghattas
+    given: Omar
+  container-title: Proceedings of the International Conference for High Performance
+    Computing, Networking, Storage and Analysis (SC '25)
+  doi: 10.1145/3712285.3771787
+  id: Henneking2025
+  issued: 2025
+  page: 60-71
+  publisher: ACM
+  title: 'Real-Time Bayesian Inference at Extreme Scale: A Digital Twin for Tsunami
+    Early Warning Applied to the Cascadia Subduction Zone'
+  type: paper-conference
+  url: https://doi.org/10.1145/3712285.3771787
+  year: 2025
+- author:
+  - family: Hobson
+    given: Gabrielle M.
+  - family: May
+    given: Dave A.
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Geochemistry, Geophysics, Geosystems
+  doi: 10.1029/2025GC012531
+  id: Hobson2025
+  issue: 11
+  issued: 2025
+  page: e2025GC012531
+  title: Quantifying the Influence of Fault Geometry via Mesh Morphing With Applications
+    to Earthquake Dynamic Rupture and Thermal Models of Subduction
+  type: article-journal
+  url: https://doi.org/10.1029/2025GC012531
+  volume: 26
+  year: 2025
+- author:
+  - family: Jourdon
+    given: Anthony
+  - family: Hayek
+    given: Jorge N.
+  - family: May
+    given: Dave A.
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2025JB031730
+  id: Jourdon2025
+  issue: 9
+  issued: 2025
+  page: e2025JB031730
+  title: 'Coupling 3D Geodynamics and Dynamic Rupture: Rheology and Stress Control
+    on Strike-Slip Fault Evolution and Earthquake Dynamics'
+  type: article-journal
+  url: https://doi.org/10.1029/2025JB031730
+  volume: 130
+  year: 2025
+- author:
+  - family: Li
+    given: Bo
+  - family: Ulrich
+    given: Thomas
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Suhendi
+    given: Cahli
+  - family: Klinger
+    given: Yann
+  - family: "J\xF3nsson"
+    given: "Sigurj\xF3n"
+  - family: Mai
+    given: Paul Martin
+  container-title: Geophysical Research Letters
+  doi: 10.1029/2025GL117448
+  id: LiBo2025
+  issue: 22
+  issued: 2025
+  page: e2025GL117448
+  title: Supershear Rupture of the 1995 Mw 7.2 Multi-Segment Nuweiba Earthquake in
+    the Gulf of Aqaba
+  type: article-journal
+  url: https://doi.org/10.1029/2025GL117448
+  volume: 52
+  year: 2025
+- author:
+  - family: Marchandon
+    given: Mathilde
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Chiaraluce
+    given: Lauro
+  - family: Tinti
+    given: Elisa
+  - family: Casarotti
+    given: Emanuele
+  - family: Biemiller
+    given: James
+  container-title: Seismica
+  doi: 10.26443/seismica.v4i2.1603
+  id: Marchandon2025
+  issue: 2
+  issued: 2025
+  title: Forecasting 3D Rupture Dynamics of the Alto Tiberina Low-Angle Normal Fault,
+    Italy
+  type: article-journal
+  url: https://doi.org/10.26443/seismica.v4i2.1603
+  volume: 4
+  year: 2025
+- author:
+  - family: Niu
+    given: Zihua
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ben-Zion
+    given: Yehuda
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2025JB031632
+  id: Niu2025b
+  issue: 9
+  issued: 2025
+  page: e2025JB031632
+  title: Delayed Dynamic Triggering and Enhanced High-Frequency Seismic Radiation
+    From Brittle Rock Damage in 3D Dynamic Rupture Simulations
+  type: article-journal
+  url: https://doi.org/10.1029/2025JB031632
+  volume: 130
+  year: 2025
+- author:
+  - family: Ramdhan
+    given: Mohamad
+  - family: Palgunadi
+    given: Kadek Hendrawan
+  - family: Mukti
+    given: Muhammad Maruf
+  - family: Librian
+    given: Virga
+  - family: Daniarsyad
+    given: Gatut
+  - family: Muttaqy
+    given: Faiz
+  - family: Hidayat
+    given: Edi
+  - family: Syuhada
+    given: Syuhada
+  - family: Hanif
+    given: Muhammad
+  - family: Mursitantyo
+    given: Adityo
+  - family: "L\xFChr"
+    given: Birger-Gottfried
+  - family: Nugraha
+    given: Andri Dian
+  - family: Widiyantoro
+    given: Sri
+  - family: Setyonegoro
+    given: Wiko
+  - family: Febriani
+    given: Febty
+  container-title: Natural Hazards
+  doi: 10.1007/s11069-025-07440-8
+  id: Ramdhan2025
+  issue: 14
+  issued: 2025
+  page: 16559-16579
+  title: "Aftershock sequence of the Yogyakarta earthquake 2006 (Mw \u223C 6.4), Indonesia,\
+    \ based on analysis of hypocenter relocation, static, and dynamic stress"
+  type: article-journal
+  url: https://doi.org/10.1007/s11069-025-07440-8
+  volume: 121
+  year: 2025
+- author:
+  - family: Sadeghi-Bagherabadi
+    given: Amir
+  - family: Hillers
+    given: Gregor
+  container-title: Soil Dynamics and Earthquake Engineering
+  doi: 10.1016/j.soildyn.2025.109257
+  id: SadeghiBagherabadi2025
+  issued: 2025
+  page: '109257'
+  title: 'Scaling P and S wave translational to array-derived rocking motions: An
+    empirical estimation of local wave propagation direction and velocity in rock
+    site conditions'
+  type: article-journal
+  url: https://doi.org/10.1016/j.soildyn.2025.109257
+  volume: 192
+  year: 2025
+- author:
+  - family: Wu
+    given: Baoning
+  - family: Li
+    given: Bo
+  - family: Zhang
+    given: Hao
+  - family: Huang
+    given: Shuye
+  - family: Li
+    given: Guoliang
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2025JB031757
+  id: Wu2025
+  issue: 11
+  issued: 2025
+  page: e2025JB031757
+  title: "Near-Fault Strong-Motion of the 2023 Mw7.8 Kahramanmara\u015F Earthquake:\
+    \ Insights Into High-Frequency Radiation Mechanisms"
+  type: article-journal
+  url: https://doi.org/10.1029/2025JB031757
+  volume: 130
+  year: 2025
+- author:
+  - family: Yin
+    given: H. Zoe
+  - family: Marchandon
+    given: Mathilde
+  - family: Haase
+    given: Jennifer S.
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Douilly
+    given: Roby
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2024JB030932
+  id: Yin2025
+  issue: 10
+  issued: 2025
+  page: e2024JB030932
+  title: 3D Dynamic Rupture Modeling of the 2021 Haiti Earthquake Used to Constrain
+    Stress Conditions and Fault System Complexity
+  type: article-journal
+  url: https://doi.org/10.1029/2024JB030932
+  volume: 130
+  year: 2025
+- author:
+  - family: Yun
+    given: Jeena
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: May
+    given: Dave A.
+  - family: Fialko
+    given: Yuri
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2025JB031271
+  id: Yun2025
+  issue: 12
+  issued: 2025
+  page: e2025JB031271
+  title: 'Controls of Dynamic and Static Stress Changes and Aseismic Slip on Delayed
+    Earthquake Triggering: Application to the 2019 Ridgecrest Earthquake Sequence'
+  type: article-journal
+  url: https://doi.org/10.1029/2025JB031271
+  volume: 130
+  year: 2025
 - abstract: "Seismic arrays constrain local wave propagation that can be used to infer\
     \ earthquake source characteristics. Array processing is routinely used to infer\
     \ detailed earthquake properties of intermediate and large events. However, the\
@@ -742,7 +1556,7 @@ references:
   - family: Gabriel
     given: A.-A.
   container-title: Geophysical Research Letters
-  doi: https://doi.org/10.1029/2024GL110128
+  doi: 10.1029/2024GL110128
   id: Hayek2024
   issue: 20
   issued: 2024
@@ -752,8 +1566,8 @@ references:
   note: e2024GL110128 2024GL110128
   page: e2024GL110128
   title: 'Non-Typical Supershear Rupture: Fault Heterogeneity and Segmentation Govern
-    Unilateral Supershear and Cascading Multi-Fault Rupture in the 2021 \$M\_w\$7.4
-    Maduo Earthquake'
+    Unilateral Supershear and Cascading Multi-Fault Rupture in the 2021 Mw 7.4 Maduo
+    Earthquake'
   title-short: Non-Typical Supershear Rupture
   type: article-journal
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024GL110128
@@ -875,6 +1689,32 @@ references:
   type: article-journal
   url: https://se.copernicus.org/articles/15/251/2024/
   volume: 15
+  year: 2024
+- author:
+  - family: Wang
+    given: Taiyi A.
+  - family: Dunham
+    given: Eric M.
+  - family: Krenz
+    given: Lukas
+  - family: Abrahams
+    given: Lauren S.
+  - family: Segall
+    given: Paul
+  - family: Yoder
+    given: Mark R.
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2023JB028280
+  id: Wang2024
+  issue: 4
+  issued: 2024
+  page: e2023JB028280
+  title: "Dynamic Rupture Simulations of Caldera Collapse Earthquakes: Effects of\
+    \ Wave Radiation, Magma Viscosity, and Evidence of Complex Nucleation at K\u012B\
+    lauea 2018"
+  type: article-journal
+  url: https://doi.org/10.1029/2023JB028280
+  volume: 129
   year: 2024
 - abstract: "Dynamic rupture simulations generate synthetic waveforms that account\
     \ for nonlinear source and path complexity. Here, we analyze millions of spatially\
@@ -1235,8 +2075,8 @@ references:
   issue: 6661
   issued: 2023
   page: 985-990
-  title: The complex dynamics of the 2023 Kahramanmara&#x15f;, Turkey, \<i\>M\</i\>\<sub\>w\</sub\>
-    7.8-7.7 earthquake doublet
+  title: "The complex dynamics of the 2023 Kahramanmara\u015F, Turkey, Mw 7.8\u2013\
+    7.7 earthquake doublet"
   type: article-journal
   url: https://www.science.org/doi/abs/10.1126/science.adi0685
   volume: 381
@@ -1561,6 +2401,25 @@ references:
   url: https://www.sciencedirect.com/science/article/pii/S0167739X23001401
   volume: 146
   year: 2023
+- author:
+  - family: Biemiller
+    given: James
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  container-title: Nature Communications
+  doi: 10.1038/s41467-023-37063-1
+  id: Biemiller2023
+  issue: 1
+  issued: 2023
+  page: '2352'
+  title: Dueling dynamics of low-angle normal fault rupture with splay faulting and
+    off-fault damage
+  type: article-journal
+  url: https://doi.org/10.1038/s41467-023-37063-1
+  volume: 14
+  year: 2023
 - abstract: Megathrust faults host the largest earthquakes on Earth, which can trigger
     cascading hazards such as devastating tsunamis. Determining characteristics that
     control subduction-zone earthquake and tsunami dynamics is critical to mitigate
@@ -1746,49 +2605,6 @@ references:
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL098872
   volume: 49
   year: 2022
-- abstract: "Abstract We study the effects of pore fluid pressure (Pf) on the pre-earthquake,\
-    \ near-fault stress state, and 3-D earthquake rupture dynamics through six scenarios\
-    \ utilizing a structural model based on the 2004 Mw 9.1 Sumatra-Andaman earthquake.\
-    \ As pre-earthquake Pf magnitude increases, effective normal stress and fault\
-    \ shear strength decrease. As a result, magnitude, slip, peak slip rate, stress\
-    \ drop, and rupture velocity of the scenario earthquakes decrease. Comparison\
-    \ of results with observations of the 2004 earthquake support that pre-earthquake\
-    \ Pf averages near 97% of lithostatic pressure, leading to pre-earthquake average\
-    \ shear and effective normal tractions of 4--5 and 22\_MPa. The megathrust in\
-    \ these scenarios is weak, in terms of low mean shear traction at static failure\
-    \ and low dynamic friction coefficient during rupture. Apparent co-seismic principal\
-    \ stress rotations and absolute post-seismic stresses in these scenarios are consistent\
-    \ with the variety of observed aftershock focal mechanisms. In all scenarios,\
-    \ the mean apparent stress rotations are larger above than below the megathrust.\
-    \ Scenarios with larger Pf magnitudes exhibit lower mean apparent principal stress\
-    \ rotations. We further evaluate pre-earthquake Pf depth distribution. If Pf follows\
-    \ a sublithostatic gradient, pre-earthquake effective normal stress increases\
-    \ with depth. If Pf follows the lithostatic gradient exactly, then this normal\
-    \ stress is constant, shifting peak slip and peak slip rate updip. This renders\
-    \ constraints on near-trench strength and constitutive behavior crucial for mitigating\
-    \ hazard. These scenarios provide opportunity for future calibration with site-specific\
-    \ measurements to constrain dynamically plausible megathrust strength and Pf gradients."
-  author:
-  - family: Madden
-    given: Elizabeth H.
-  - family: Ulrich
-    given: Thomas
-  - family: Gabriel
-    given: Alice-Agnes
-  container-title: 'Journal of Geophysical Research: Solid Earth'
-  doi: https://doi.org/10.1029/2021JB023382
-  id: Madden2022
-  issue: 4
-  issued: 2022
-  keyword: earthquake, hazard, pore fluid pressure, high-performance computing, mechanics,
-    dynamics
-  note: e2021JB023382 2021JB023382
-  page: e2021JB023382
-  title: The State of Pore Fluid Pressure and 3-D Megathrust Earthquake Dynamics
-  type: article-journal
-  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JB023382
-  volume: 127
-  year: 2022
 - abstract: "Abstract Detailed imaging of accretionary wedges reveals splay fault\
     \ networks that could pose a significant tsunami hazard. However, the dynamics\
     \ of multiple splay fault activation during megathrust earthquakes and the consequent\
@@ -1963,6 +2779,110 @@ references:
   url: https://www.sciencedirect.com/science/article/pii/S0012821X21004933
   volume: 576
   year: 2021
+- author:
+  - family: Dorozhinskii
+    given: Ravil
+  - family: Bader
+    given: Michael
+  container-title: The International Conference on High Performance Computing in Asia-Pacific
+    Region (HPC Asia 2021)
+  doi: 10.1145/3432261.3436753
+  id: Dorozhinskii2021
+  issued: 2021
+  page: 69-82
+  publisher: ACM
+  title: 'SeisSol on Distributed Multi-GPU Systems: CUDA Code Generation for the Modal
+    Discontinuous Galerkin Method'
+  type: paper-conference
+  url: https://doi.org/10.1145/3432261.3436753
+  year: 2021
+- author:
+  - family: Madden
+    given: Elizabeth H.
+  - family: Bader
+    given: Michael
+  - family: Behrens
+    given: "J\xF6rn"
+  - family: van Dinther
+    given: Ylona
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Rannabauer
+    given: Leonhard
+  - family: Ulrich
+    given: Thomas
+  - family: Uphoff
+    given: Carsten
+  - family: Vater
+    given: Stefan
+  - family: van Zelst
+    given: Iris
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggaa484
+  id: Madden2021
+  issue: 1
+  issued: 2021
+  page: 487-516
+  title: 'Linked 3-D modelling of megathrust earthquake-tsunami events: from subduction
+    to tsunami run up'
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggaa484
+  volume: 224
+  year: 2021
+- author:
+  - family: Ramos
+    given: Marlon D.
+  - family: Huang
+    given: Yihe
+  - family: Ulrich
+    given: Thomas
+  - family: Li
+    given: Duo
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Thomas
+    given: Amanda M.
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2021JB022005
+  id: Ramos2021
+  issue: 7
+  issued: 2021
+  page: e2021JB022005
+  title: Assessing Margin-Wide Rupture Behaviors Along the Cascadia Megathrust With
+    3-D Dynamic Rupture Simulations
+  type: article-journal
+  url: https://doi.org/10.1029/2021JB022005
+  volume: 126
+  year: 2021
+- author:
+  - family: Wirp
+    given: Sara Aniko
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Schmeller
+    given: Maximilian
+  - family: Madden
+    given: Elizabeth H.
+  - family: van Zelst
+    given: Iris
+  - family: Krenz
+    given: Lukas
+  - family: van Dinther
+    given: Ylona
+  - family: Rannabauer
+    given: Leonhard
+  container-title: Frontiers in Earth Science
+  doi: 10.3389/feart.2021.626844
+  id: Wirp2021
+  issued: 2021
+  page: '626844'
+  title: '3D Linked Subduction, Dynamic Rupture, Tsunami, and Inundation Modeling:
+    Dynamic Effects of Supershear and Tsunami Earthquakes, Hypocenter Location, and
+    Shallow Fault Slip'
+  type: article-journal
+  url: https://doi.org/10.3389/feart.2021.626844
+  volume: 9
+  year: 2021
 - abstract: The numerical solution of partial differential equations is at the heart
     of many grand challenges in supercomputing. Solvers based on high-order discontinuous
     Galerkin (DG) discretisation have been shown to scale on large supercomputers
@@ -2045,6 +2965,29 @@ references:
     Wave Propagation in Complex Geometries
   type: paper-conference
   year: 2020
+- author:
+  - family: Palgunadi
+    given: Kadek Hendrawan
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Ulrich
+    given: Thomas
+  - family: "L\xF3pez-Comino"
+    given: "Jos\xE9 \xC1ngel"
+  - family: Mai
+    given: Paul Martin
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120200106
+  id: Palgunadi2020
+  issue: 5
+  issued: 2020
+  page: 2328-2349
+  title: 'Dynamic Fault Interaction during a Fluid-Injection-Induced Earthquake: The
+    2017 Mw 5.5 Pohang Event'
+  type: article-journal
+  url: https://doi.org/10.1785/0120200106
+  volume: 110
+  year: 2020
 - abstract: "We present a dynamic rupture model of the 2016 Mw 7.8 Kaik\u014Dura earthquake\
     \ to unravel the event's riddles in a physics-based manner and provide insight\
     \ on the mechanical viability of competing hypotheses proposed to explain them.\
@@ -2078,6 +3021,226 @@ references:
   type: article-journal
   url: https://doi.org/10.1038/s41467-019-09125-w
   volume: 10
+  year: 2019
+- author:
+  - family: "Bazi\u0144ska"
+    given: Julia
+  - family: Korpalski
+    given: Maciej
+  - family: Szpindler
+    given: Maciej
+  container-title: Parallel Computing
+  doi: 10.1016/j.parco.2019.102567
+  id: Bazinska2019
+  issued: 2019
+  page: '102567'
+  title: 'Student Cluster Competition 2018, Team University of Warsaw, University
+    of Wroclaw, Warsaw University of Technology: Reproducing performance of a multi-physics
+    simulations of the Tsunamigenic 2004 Sumatra megathrust earthquake on the Intel
+    Skylake architecture'
+  type: article-journal
+  url: https://doi.org/10.1016/j.parco.2019.102567
+  volume: 90
+  year: 2019
+- author:
+  - family: Brewer
+    given: Nicole
+  - family: Kim
+    given: HyeJin
+  - family: Li
+    given: Claudia
+  - family: Anderson
+    given: Heidi
+  - family: Lanum
+    given: Jessica
+  - family: Cheoh
+    given: Jia
+  - family: Hillery
+    given: Betsy
+  - family: Overmyer
+    given: Trinity
+  container-title: Parallel Computing
+  doi: 10.1016/j.parco.2019.102565
+  id: Brewer2019
+  issued: 2019
+  page: '102565'
+  title: 'Student cluster competition 2018, team Ada Six of Purdue University: Reproducing
+    Extreme Scale Multi-Physics Simulations of Tsunamigenic 2004 Sumatra Megathrust
+    Earthquake on Intel Skylake architecture'
+  type: article-journal
+  url: https://doi.org/10.1016/j.parco.2019.102565
+  volume: 90
+  year: 2019
+- author:
+  - family: Happ
+    given: Clara
+  - family: Scheipl
+    given: Fabian
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Greven
+    given: Sonja
+  container-title: Stat
+  doi: 10.1002/sta4.220
+  id: Happ2019
+  issue: 1
+  issued: 2019
+  page: e220
+  title: A general framework for multivariate functional principal component analysis
+    of amplitude and phase variation
+  type: article-journal
+  url: https://doi.org/10.1002/sta4.220
+  volume: 8
+  year: 2019
+- author:
+  - family: He
+    given: Jiaao
+  - family: Zhao
+    given: Chenggang
+  - family: Yu
+    given: Jiping
+  - family: Yu
+    given: Xinjian
+  - family: Zheng
+    given: Liyan
+  - family: Lou
+    given: Chenyao
+  - family: Tang
+    given: Shizhi
+  - family: Han
+    given: Wentao
+  - family: Zhai
+    given: Jidong
+  container-title: Parallel Computing
+  doi: 10.1016/j.parco.2019.102570
+  id: He2019
+  issued: 2019
+  page: '102570'
+  title: 'Student Cluster Competition 2018, Team Tsinghua University: Reproducing
+    performance of multi-physics simulations of the Tsunamigenic 2004 Sumatra megathrust
+    earthquake on the Intel Skylake Architecture'
+  type: article-journal
+  url: https://doi.org/10.1016/j.parco.2019.102570
+  volume: 90
+  year: 2019
+- author:
+  - family: Lin
+    given: ShaoFu
+  - family: Yang
+    given: ChiChen
+  - family: Cheng
+    given: YuHsuan
+  - family: Hsu
+    given: KengJui
+  - family: Chen
+    given: HungHsin
+  - family: Lin
+    given: YuanChing
+  - family: Chou
+    given: Jerry
+  container-title: Parallel Computing
+  doi: 10.1016/j.parco.2019.102569
+  id: Lin2019
+  issued: 2019
+  page: '102569'
+  title: 'Student Cluster Competition 2018, team NTHU: Reproducing performance of
+    multi-physics simulations of the tsunamigenic 2004 Sumatra megathrust earthquake
+    on the Intel Skylake architecture'
+  type: article-journal
+  url: https://doi.org/10.1016/j.parco.2019.102569
+  volume: 90
+  year: 2019
+- author:
+  - family: Ulrich
+    given: Thomas
+  - family: Vater
+    given: Stefan
+  - family: Madden
+    given: Elizabeth H.
+  - family: Behrens
+    given: "J\xF6rn"
+  - family: van Dinther
+    given: Ylona
+  - family: van Zelst
+    given: Iris
+  - family: Fielding
+    given: Eric J.
+  - family: Liang
+    given: Cunren
+  - family: Gabriel
+    given: Alice-Agnes
+  container-title: Pure and Applied Geophysics
+  doi: 10.1007/s00024-019-02290-5
+  id: Ulrich2019b
+  issue: 10
+  issued: 2019
+  page: 4069-4109
+  title: Coupled, Physics-Based Modeling Reveals Earthquake Displacements are Critical
+    to the 2018 Palu, Sulawesi Tsunami
+  type: article-journal
+  url: https://doi.org/10.1007/s00024-019-02290-5
+  volume: 176
+  year: 2019
+- author:
+  - family: Wollherr
+    given: Stephanie
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Mai
+    given: P. Martin
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2018JB016355
+  id: Wollherr2019
+  issue: 7
+  issued: 2019
+  page: 6666-6702
+  title: "Landers 1992 \u201CReloaded\u201D: Integrative Dynamic Earthquake Rupture\
+    \ Modeling"
+  type: article-journal
+  url: https://doi.org/10.1029/2018JB016355
+  volume: 124
+  year: 2019
+- author:
+  - family: Wu
+    given: Bian
+  - family: Heng
+    given: Weiliang
+  - family: Lee
+    given: Bu-Sung
+  container-title: Parallel Computing
+  doi: 10.1016/j.parco.2019.102564
+  id: Wu2019
+  issued: 2019
+  page: '102564'
+  title: 'Student Cluster Competition 2018, Team Nanyang Technological University:
+    Reproducing performance of a Multi-Physics Simulations of the Tsunamigenic 2004
+    Sumatra Megathrust Earthquake on the Intel Skylake architecture'
+  type: article-journal
+  url: https://doi.org/10.1016/j.parco.2019.102564
+  volume: 90
+  year: 2019
+- author:
+  - family: van Zelst
+    given: Iris
+  - family: Wollherr
+    given: Stephanie
+  - family: Gabriel
+    given: Alice-Agnes
+  - family: Madden
+    given: Elizabeth H.
+  - family: van Dinther
+    given: Ylona
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2019JB017539
+  id: vanZelst2019
+  issue: 11
+  issued: 2019
+  page: 11414-11446
+  title: 'Modeling Megathrust Earthquakes Across Scales: One-way Coupling From Geodynamics
+    and Seismic Cycles to Dynamic Rupture'
+  type: article-journal
+  url: https://doi.org/10.1029/2019JB017539
+  volume: 124
   year: 2019
 - abstract: "The dynamics and potential size of earthquakes depend crucially on rupture\
     \ transfers between adjacent fault segments. To accurately describe earthquake\
@@ -2362,6 +3525,195 @@ references:
   title: Petascale Local Time Stepping for the ADER-DG Finite Element Method
   type: paper-conference
   year: 2016
+- author:
+  - family: Hammer
+    given: Nicolay
+  - family: Jamitzky
+    given: Ferdinand
+  - family: Satzger
+    given: Helmut
+  - family: Allalen
+    given: Momme
+  - family: Block
+    given: Alexander
+  - family: Karmakar
+    given: Anupam
+  - family: Brehm
+    given: Matthias
+  - family: Bader
+    given: Reinhold
+  - family: Iapichino
+    given: Luigi
+  - family: Ragagnin
+    given: Antonio
+  - family: Karakasis
+    given: Vasilios
+  - family: "Kranzlm\xFCller"
+    given: Dieter
+  - family: Bode
+    given: Arndt
+  - family: Huber
+    given: Herbert
+  - family: "K\xFChn"
+    given: Martin
+  - family: Machado
+    given: Rui
+  - family: "Gr\xFCnewald"
+    given: Daniel
+  - family: Edelmann
+    given: Philipp V. F.
+  - family: "R\xF6pke"
+    given: Friedrich K.
+  - family: Wittmann
+    given: Markus
+  - family: Zeiser
+    given: Thomas
+  - family: Wellein
+    given: Gerhard
+  - family: Mathias
+    given: Gerald
+  - family: "Schw\xF6rer"
+    given: Magnus
+  - family: Lorenzen
+    given: Konstantin
+  - family: Federrath
+    given: Christoph
+  - family: Klessen
+    given: Ralf
+  - family: Bamberg
+    given: Karl-Ulrich
+  - family: Ruhl
+    given: Hartmut
+  - family: Schornbaum
+    given: Florian
+  - family: Bauer
+    given: Martin
+  - family: Nikhil
+    given: Anand
+  - family: Qi
+    given: Jiaxing
+  - family: Klimach
+    given: Harald
+  - family: "St\xFCben"
+    given: Hinnerk
+  - family: Deshmukh
+    given: Abhishek
+  - family: Falkenstein
+    given: Tobias
+  - family: Dolag
+    given: Klaus
+  - family: Petkova
+    given: Margarita
+  container-title: 'Parallel Computing: On the Road to Exascale'
+  doi: 10.3233/978-1-61499-621-7-827
+  id: Hammer2016
+  issued: 2016
+  page: 827-836
+  publisher: IOS Press
+  title: "Extreme Scale-out SuperMUC Phase 2 \u2013 lessons learned"
+  type: paper-conference
+  url: https://doi.org/10.3233/978-1-61499-621-7-827
+  volume: 27
+  year: 2016
+- author:
+  - family: Heinecke
+    given: Alexander
+  - family: Breuer
+    given: Alexander
+  - family: Bader
+    given: Michael
+  - family: Dubey
+    given: Pradeep
+  container-title: High Performance Computing. ISC High Performance 2016. Lecture
+    Notes in Computer Science
+  doi: 10.1007/978-3-319-41321-1_18
+  id: Heinecke2016
+  issued: 2016
+  page: 343-362
+  publisher: Springer International Publishing
+  title: High Order Seismic Simulations on the Intel Xeon Phi Processor (Knights Landing)
+  type: paper-conference
+  url: https://doi.org/10.1007/978-3-319-41321-1_18
+  volume: 9697
+  year: 2016
+- author:
+  - family: Breuer
+    given: Alexander
+  - family: Heinecke
+    given: Alexander
+  - family: Rannabauer
+    given: Leonhard
+  - family: Bader
+    given: Michael
+  container-title: High Performance Computing. ISC High Performance 2015. Lecture
+    Notes in Computer Science
+  doi: 10.1007/978-3-319-20119-1_25
+  id: Breuer2015
+  issued: 2015
+  page: 340-357
+  publisher: Springer International Publishing
+  title: High-Order ADER-DG Minimizes Energy- and Time-to-Solution of SeisSol
+  type: paper-conference
+  url: https://doi.org/10.1007/978-3-319-20119-1_25
+  volume: 9137
+  year: 2015
+- author:
+  - family: Galis
+    given: Martin
+  - family: Pelties
+    given: Christian
+  - family: Kristek
+    given: Jozef
+  - family: Moczo
+    given: Peter
+  - family: Ampuero
+    given: Jean-Paul
+  - family: Mai
+    given: P. Martin
+  container-title: Geophysical Journal International
+  doi: 10.1093/gji/ggu436
+  id: Galis2015
+  issue: 2
+  issued: 2015
+  page: 890-909
+  title: On the initiation of sustained slip-weakening ruptures by localized stresses
+  type: article-journal
+  url: https://doi.org/10.1093/gji/ggu436
+  volume: 200
+  year: 2015
+- author:
+  - family: Pelties
+    given: Christian
+  - family: Huang
+    given: Yihe
+  - family: Ampuero
+    given: Jean-Paul
+  container-title: Pure and Applied Geophysics
+  doi: 10.1007/s00024-014-0881-0
+  id: Pelties2015
+  issue: 5
+  issued: 2015
+  page: 1229-1241
+  title: Pulse-Like Rupture Induced by Three-Dimensional Fault Zone Flower Structures
+  type: article-journal
+  url: https://doi.org/10.1007/s00024-014-0881-0
+  volume: 172
+  year: 2015
+- author:
+  - family: Rettenberger
+    given: Sebastian
+  - family: Bader
+    given: Michael
+  container-title: 2015 IEEE International Conference on Cluster Computing
+  doi: 10.1109/CLUSTER.2015.51
+  id: Rettenberger2015
+  issued: 2015
+  page: 314-317
+  publisher: IEEE
+  title: Optimizing I/O for Petascale Seismic Simulations on Unstructured Meshes
+  type: paper-conference
+  url: https://doi.org/10.1109/CLUSTER.2015.51
+  year: 2015
 - abstract: "We present an end-to-end optimization of the innovative Arbitrary high-order\
     \ DERivative Discontinuous Galerkin (ADER-DG) software SeisSol targeting Intel\xAE\
     \ Xeon Phi coprocessor platforms, achieving unprecedented earthquake model complexity\
@@ -2458,6 +3810,7 @@ references:
   - family: Pelties
     given: Christian
   container-title: Supercomputing
+  doi: 10.1007/978-3-319-07518-1_1
   editor:
   - family: Kunkel
     given: Julian Martin
@@ -2473,7 +3826,75 @@ references:
   publisher-place: Cham
   title: Sustained Petascale Performance of Seismic Simulations with SeisSol on SuperMUC
   type: paper-conference
+  url: https://doi.org/10.1007/978-3-319-07518-1_1
   year: 2014
+- author:
+  - family: Breuer
+    given: Alexander
+  - family: Heinecke
+    given: Alexander
+  - family: Bader
+    given: Michael
+  - family: Pelties
+    given: Christian
+  container-title: 'Parallel Computing: Accelerating Computational Science and Engineering
+    (CSE)'
+  doi: 10.3233/978-1-61499-381-0-347
+  id: Breuer2014b
+  issued: 2014
+  page: 347-356
+  publisher: IOS Press
+  title: Accelerating SeisSol by Generating Vectorized Code for Sparse Matrix Operators
+  type: chapter
+  url: https://doi.org/10.3233/978-1-61499-381-0-347
+  volume: 25
+  year: 2014
+- author:
+  - family: Kremers
+    given: Simon
+  - family: Wassermann
+    given: Joachim
+  - family: Meier
+    given: Kristina
+  - family: Pelties
+    given: Christian
+  - family: van Driel
+    given: Martin
+  - family: Vasseur
+    given: "J\xE9r\xE9mie"
+  - family: Hort
+    given: Matthias
+  container-title: Journal of Volcanology and Geothermal Research
+  doi: 10.1016/j.jvolgeores.2013.06.007
+  id: Kremers2013
+  issued: 2013
+  page: 104-122
+  title: Inverting the source mechanism of Strombolian explosions at Mt. Yasur, Vanuatu,
+    using a multi-parameter dataset
+  type: article-journal
+  url: https://doi.org/10.1016/j.jvolgeores.2013.06.007
+  volume: 262
+  year: 2013
+- author:
+  - family: Wenk
+    given: Stefan
+  - family: Pelties
+    given: Christian
+  - family: Igel
+    given: Heiner
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: Solid Earth
+  doi: 10.5194/se-4-43-2013
+  id: Wenk2013
+  issue: 1
+  issued: 2013
+  page: 43-57
+  title: Regional wave propagation using the discontinuous Galerkin method
+  type: article-journal
+  url: https://doi.org/10.5194/se-4-43-2013
+  volume: 4
+  year: 2013
 - abstract: Accurate and efficient numerical methods to simulate dynamic earthquake
     rupture and wave propagation in complex media and complex fault geometries are
     needed to address fundamental questions in earthquake dynamics, to integrate seismic
@@ -2522,6 +3943,218 @@ references:
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011JB008857
   volume: 117
   year: 2012
+- author:
+  - family: Hermann
+    given: Verena
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Castro
+    given: "Crist\xF3bal E."
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2010.04858.x
+  id: Hermann2011
+  issue: 2
+  issued: 2011
+  page: 746-758
+  title: Non-conforming hybrid meshes for efficient 2-D wave propagation using the
+    Discontinuous Galerkin Method
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2010.04858.x
+  volume: 184
+  year: 2011
+- author:
+  - family: Kremers
+    given: Simon
+  - family: Fichtner
+    given: Andreas
+  - family: Brietzke
+    given: Gilbert B.
+  - family: Igel
+    given: Heiner
+  - family: Larmat
+    given: "Car\xE8ne"
+  - family: Huang
+    given: Lianjie
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: Solid Earth
+  doi: 10.5194/se-2-95-2011
+  id: Kremers2011
+  issue: 1
+  issued: 2011
+  page: 95-105
+  title: Exploring the potentials and limitations of the time-reversal imaging of
+    finite seismic sources
+  type: article-journal
+  url: https://doi.org/10.5194/se-2-95-2011
+  volume: 2
+  year: 2011
+- author:
+  - family: Li
+    given: Yang
+  container-title: Proceedings of the 4th International Workshop on Software Engineering
+    for Computational Science and Engineering
+  doi: 10.1145/1985782.1985789
+  id: LiYang2011
+  issued: 2011
+  page: 41-45
+  publisher: ACM
+  title: Reengineering a scientific software and lessons learned
+  type: paper-conference
+  url: https://doi.org/10.1145/1985782.1985789
+  year: 2011
+- author:
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Brietzke
+    given: Gilbert B.
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2010.04605.x
+  id: Castro2010
+  issue: 1
+  issued: 2010
+  page: 250-264
+  title: 'Seismic waves in heterogeneous material: subcell resolution of the discontinuous
+    Galerkin method'
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2010.04605.x
+  volume: 182
+  year: 2010
+- author:
+  - family: Chaljub
+    given: Emmanuel
+  - family: Moczo
+    given: Peter
+  - family: Tsuno
+    given: Seiji
+  - family: Bard
+    given: Pierre-Yves
+  - family: Kristek
+    given: Jozef
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Stupazzini
+    given: Marco
+  - family: Kristekova
+    given: Miriam
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120090052
+  id: Chaljub2010
+  issue: 4
+  issued: 2010
+  page: 1427-1455
+  title: Quantitative Comparison of Four Numerical Predictions of 3D Ground Motion
+    in the Grenoble Valley, France
+  type: article-journal
+  url: https://doi.org/10.1785/0120090052
+  volume: 100
+  year: 2010
+- author:
+  - family: "Gallovi\u010D"
+    given: "Franti\u0161ek"
+  - family: "K\xE4ser"
+    given: Martin
+  - family: "Burj\xE1nek"
+    given: Jan
+  - family: Papaioannou
+    given: Christos
+  container-title: 'Journal of Geophysical Research: Solid Earth'
+  doi: 10.1029/2008JB006171
+  id: Gallovic2010
+  issue: B3
+  issued: 2010
+  page: B03308
+  title: 'Three-dimensional modeling of near-fault ground motions with nonplanar rupture
+    models and topography: Case of the 2004 Parkfield earthquake'
+  type: article-journal
+  url: https://doi.org/10.1029/2008JB006171
+  volume: 115
+  year: 2010
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Pelties
+    given: Christian
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: Djikpesse
+    given: Hugues
+  - family: Prange
+    given: Michael
+  container-title: The Leading Edge
+  doi: 10.1190/1.3284056
+  id: Kaeser2010
+  issue: 1
+  issued: 2010
+  page: 76-85
+  title: Wavefield modeling in exploration seismology using the discontinuous Galerkin
+    finite-element method on HPC infrastructure
+  type: article-journal
+  url: https://doi.org/10.1190/1.3284056
+  volume: 29
+  year: 2010
+- author:
+  - family: Naguib
+    given: Hoda
+  - family: Li
+    given: Yang
+  container-title: Procedia Computer Science
+  doi: 10.1016/j.procs.2010.04.167
+  id: Naguib2010
+  issue: 1
+  issued: 2010
+  page: 1505-1509
+  title: (Position Paper) Applying software engineering methods and tools to CSE research
+    projects
+  type: article-journal
+  url: https://doi.org/10.1016/j.procs.2010.04.167
+  volume: 1
+  year: 2010
+- author:
+  - family: Pelties
+    given: Christian
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Hermann
+    given: Verena
+  - family: Castro
+    given: "Crist\xF3bal E."
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2010.04777.x
+  id: Pelties2010
+  issue: 2
+  issued: 2010
+  page: 1031-1051
+  title: Regular versus irregular meshing for complicated models and their effect
+    on synthetic seismograms
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2010.04777.x
+  volume: 183
+  year: 2010
+- author:
+  - family: Pham
+    given: Nguyen Dinh
+  - family: Igel
+    given: Heiner
+  - family: de la Puente
+    given: Josep
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Schoenberg
+    given: Michael A.
+  container-title: Geophysics
+  doi: 10.1190/1.3479489
+  id: Pham2010
+  issue: 5
+  issued: 2010
+  page: D47-D56
+  title: Rotational motions in homogeneous anisotropic elastic media
+  type: article-journal
+  url: https://doi.org/10.1190/1.3479489
+  volume: 75
+  year: 2010
 - abstract: "During the nineteenth and twentieth centuries observational seismologists\
     \ recorded primarily the earthquake-induced translational wave field, while the\
     \ rotational motion still remains poorly observed and investigated. We aim to\
@@ -2613,6 +4246,50 @@ references:
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008JB006271
   volume: 114
   year: 2009
+- author:
+  - family: Castro
+    given: "Crist\xF3bal E."
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Toro
+    given: Eleuterio F.
+  container-title: 'Philosophical Transactions of the Royal Society A: Mathematical,
+    Physical and Engineering Sciences'
+  doi: 10.1098/rsta.2009.0158
+  id: Castro2009
+  issue: 1907
+  issued: 2009
+  page: 4613-4631
+  title: "Space\u2013time adaptive numerical methods for geophysical applications"
+  type: article-journal
+  url: https://doi.org/10.1098/rsta.2009.0158
+  volume: 367
+  year: 2009
+- author:
+  - family: Pham
+    given: Nguyen Dinh
+  - family: Igel
+    given: Heiner
+  - family: Wassermann
+    given: Joachim
+  - family: "K\xE4ser"
+    given: Martin
+  - family: de la Puente
+    given: Josep
+  - family: Schreiber
+    given: Ulrich
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120080101
+  id: Pham2009
+  issue: 2B
+  issued: 2009
+  page: 1315-1332
+  title: 'Observations and Modeling of Rotational Signals in the P Coda: Constraints
+    on Crustal Scattering'
+  type: article-journal
+  url: https://doi.org/10.1785/0120080101
+  volume: 99
+  year: 2009
 - abstract: We present a quantitative accuracy analysis of the Discontinuous Galerkin
     Finite-Element method for the simulation of seismic wave propagation on tetrahedral
     meshes. Several parameters are responsible for the accuracy of results, such as
@@ -2688,6 +4365,40 @@ references:
   type: article-journal
   url: ' https://doi.org/10.1190/1.2965027 '
   volume: 73
+  year: 2008
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Dumbser
+    given: Michael
+  container-title: Geophysics
+  doi: 10.1190/1.2870081
+  id: Kaeser2008b
+  issue: 3
+  issued: 2008
+  page: T23-T35
+  title: A highly accurate discontinuous Galerkin method for complex interfaces between
+    solids and moving fluids
+  type: article-journal
+  url: https://doi.org/10.1190/1.2870081
+  volume: 73
+  year: 2008
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: "Gallovi\u010D"
+    given: "Franti\u0161ek"
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2007.03627.x
+  id: Kaeser2008c
+  issue: 1
+  issued: 2008
+  page: 276-292
+  title: 'Effects of complicated 3-D rupture geometries on earthquake ground motion
+    and their implications: a numerical study'
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2007.03627.x
+  volume: 172
   year: 2008
 - abstract: We present a new numerical method to solve the heterogeneous elastic anisotropic
     wave equation with arbitrary high-order accuracy in space and time on unstructured
@@ -2792,6 +4503,80 @@ references:
   type: article-journal
   url: https://doi.org/10.1111/j.1365-246X.2006.03193.x
   volume: 168
+  year: 2007
+- author:
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Toro
+    given: Eleuterio F.
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2007.03427.x
+  id: Dumbser2007
+  issue: 2
+  issued: 2007
+  page: 695-717
+  title: "An arbitrary high-order discontinuous Galerkin method for elastic waves\
+    \ on unstructured meshes \u2013 V. Local time stepping and p-adaptivity"
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2007.03427.x
+  volume: 171
+  year: 2007
+- author:
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  - family: de la Puente
+    given: Josep
+  container-title: Geophysical Journal International
+  doi: 10.1111/j.1365-246X.2007.03421.x
+  id: Dumbser2007b
+  issue: 2
+  issued: 2007
+  page: 665-694
+  title: Arbitrary high-order finite volume schemes for seismic wave propagation on
+    unstructured meshes in 2D and 3D
+  type: article-journal
+  url: https://doi.org/10.1111/j.1365-246X.2007.03421.x
+  volume: 171
+  year: 2007
+- author:
+  - family: Dumbser
+    given: Michael
+  - family: "K\xE4ser"
+    given: Martin
+  container-title: Journal of Computational Physics
+  doi: 10.1016/j.jcp.2006.06.043
+  id: Dumbser2007c
+  issue: 2
+  issued: 2007
+  page: 693-723
+  title: Arbitrary high order non-oscillatory finite volume schemes on unstructured
+    meshes for linear hyperbolic systems
+  type: article-journal
+  url: https://doi.org/10.1016/j.jcp.2006.06.043
+  volume: 221
+  year: 2007
+- author:
+  - family: "K\xE4ser"
+    given: Martin
+  - family: Mai
+    given: P. Martin
+  - family: Dumbser
+    given: Michael
+  container-title: Bulletin of the Seismological Society of America
+  doi: 10.1785/0120060253
+  id: Kaeser2007b
+  issue: 5
+  issued: 2007
+  page: 1570-1586
+  title: Accurate Calculation of Fault-Rupture Models Using the High-Order Discontinuous
+    Galerkin Method on Tetrahedral Meshes
+  type: article-journal
+  url: https://doi.org/10.1785/0120060253
+  volume: 97
   year: 2007
 - abstract: We present a new numerical method to solve the heterogeneous elastic wave
     equations formulated as a linear hyperbolic system using first-order derivatives
