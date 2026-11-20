@@ -1,0 +1,140 @@
+references:
+- author:
+  - family: Wirp
+    given: Sara Aniko
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.36338
+  id: Wirp2025thesis
+  issued: 2025
+  title: Modeling of large megathrust earthquakes and tsunami generation using high-performance
+    computing
+  type: thesis
+  url: https://doi.org/10.5282/edoc.36338
+  year: 2025
+- author:
+  - family: Dorozhinskii
+    given: Ravil
+  container-title: "PhD thesis, Technische Universit\xE4t M\xFCnchen"
+  id: Dorozhinskii2024thesis
+  issued: 2024
+  title: Adapting and Optimizing High Order Seismic Simulations for GPU-based Supercomputers
+  type: thesis
+  year: 2024
+- author:
+  - family: Wolf
+    given: Sebastian
+  container-title: "PhD thesis, Technische Universit\xE4t M\xFCnchen"
+  id: Wolf2024thesis
+  issued: 2024
+  title: High-Performance Earthquake Simulations with Advanced Material Models
+  type: thesis
+  year: 2024
+- author:
+  - family: Ulrich
+    given: Thomas
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.26733
+  id: Ulrich2020thesis
+  issued: 2020
+  title: On the rupture processes of large earthquakes using three-dimensional data-integrated
+    dynamic rupture simulations
+  type: thesis
+  url: https://doi.org/10.5282/edoc.26733
+  year: 2020
+- author:
+  - family: Uphoff
+    given: Carsten
+  container-title: "PhD thesis, Technische Universit\xE4t M\xFCnchen"
+  id: Uphoff2020thesis
+  issued: 2020
+  title: Flexible model extension and optimisation for earthquake simulations at extreme
+    scales
+  type: thesis
+  year: 2020
+- author:
+  - family: van Zelst
+    given: Iris
+  container-title: PhD thesis, ETH Zurich
+  doi: 10.3929/ethz-b-000418672
+  id: vanZelst2020thesis
+  issued: 2020
+  title: Tsunamigenic earthquakes from tectonics to dynamic rupture
+  type: thesis
+  url: https://doi.org/10.3929/ethz-b-000418672
+  year: 2020
+- author:
+  - family: Rettenberger
+    given: Sebastian
+  container-title: "PhD thesis, Technische Universit\xE4t M\xFCnchen"
+  id: Rettenberger2017thesis
+  issued: 2018
+  title: Scalable I/O on Modern Supercomputers for Simulations on Unstructured Meshes
+  type: thesis
+  year: 2018
+- author:
+  - family: Wollherr
+    given: Stephanie
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.23609
+  id: Wollherr2018thesis
+  issued: 2018
+  title: Inelastic material response in multi-physics earthquake rupture simulations
+  type: thesis
+  url: https://doi.org/10.5282/edoc.23609
+  year: 2018
+- author:
+  - family: Breuer
+    given: Alexander
+  container-title: "PhD thesis, Technische Universit\xE4t M\xFCnchen"
+  id: Breuer2015thesis
+  issued: 2015
+  title: High Performance Earthquake Simulations
+  type: thesis
+  url: http://mediatum.ub.tum.de/node?id=1276756
+  year: 2015
+- author:
+  - family: Pelties
+    given: Christian
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.14524
+  id: Pelties2012thesis
+  issued: 2012
+  title: The discontinuous Galerkin approach for 3D seismic wave propagation and 3D
+    dynamic rupture modeling in the case of a complex fault system
+  type: thesis
+  url: https://doi.org/10.5282/edoc.14524
+  year: 2012
+- author:
+  - family: Hermann
+    given: Verena
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.12540
+  id: Hermann2011thesis
+  issued: 2011
+  title: "ADER-DG \u2013 Analysis, further Development and Applications"
+  type: thesis
+  url: https://doi.org/10.5282/edoc.12540
+  year: 2011
+- author:
+  - family: Passone
+    given: Luca
+  container-title: Master's thesis, King Abdullah University of Science and Technology
+  doi: 10.25781/kaust-zsp20
+  id: Passone2011thesis
+  issued: 2011
+  title: A Workflow for Simulation and Visualization Of Seismic Wave Propagation Using
+    SeisSol, VisIt and Avizo
+  type: thesis
+  url: https://doi.org/10.25781/kaust-zsp20
+  year: 2011
+- author:
+  - family: de la Puente
+    given: Josep
+  container-title: "PhD thesis, Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+  doi: 10.5282/edoc.8074
+  id: delaPuente2008thesis
+  issued: 2008
+  title: Seismic Wave Simulation for Complex Rheologies on Unstructured Meshes
+  type: thesis
+  url: https://doi.org/10.5282/edoc.8074
+  year: 2008

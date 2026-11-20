@@ -1,0 +1,15 @@
+<h2 class="title is-4 mt-6" id="{{ .id }}">{{ .title }}</h2>
+<ul>
+{{ $data := newScratch }}
+{{ $data.Set "year" "0" }}
+{{ range .refs }}
+    {{ $year := .year }}
+    {{ if ne $year ($data.Get "year") }}
+        </ul>
+        <h3 class="subtitle">{{ $year }}</h3>
+        <ul>
+    {{ end }}
+    {{ $data.Set "year" $year }}
+    <li>{{ partial "publong.html" . }}</li>
+{{ end }}
+</ul>
